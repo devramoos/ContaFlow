@@ -39,7 +39,6 @@
 738;Custos;Auxílio-transporte e combustível;Saída
 707;Custos;CRO;Saída
 781;Custos;Comissões;Saída
-;Custos;Condomínio;
 709;Custos;Cursos e treinamentos;Saída
 705;Custos;Deslocamentos;Saída
 354;Custos;Energia elétrica;Saída
@@ -68,31 +67,14 @@
 467;Custos;Terceirização de produção;Saída
 702;Custos;Uniformes;Saída
 731;Custos;Água e saneamento;Saída
-187;Despesas administrativas;13° Salários;Saída
-751;Despesas administrativas;Ajuda de custo;Saída
-734;Despesas administrativas;Aluguel de imóvel e condomínio;Saída
-493;Despesas administrativas;Aluguel de máquinas e equipamentos;Saída
 726;Despesas administrativas;Assessorias e consultorias;Saída
-339;Despesas administrativas;Assistência médica e social;Saída
-521;Despesas administrativas;Auxílio-alimentação e refeição;Saída
-492;Despesas administrativas;Auxílio-transporte e combustível;Saída
 546;Despesas administrativas;Bens de pequeno valor;Saída
 593;Despesas administrativas;Brindes para funcionários;Saída
-781;Despesas administrativas;Comissões;Saída
 536;Despesas administrativas;Confraternizações;Saída
 735;Despesas administrativas;Contribuição Sindical;Saída
 594;Despesas administrativas;Copa e cozinha;Saída
 357;Despesas administrativas;Correios e malotes;Saída
-592;Despesas administrativas;Cursos e treinamentos;Saída
-773;Despesas administrativas;Deslocamentos;Saída
-538;Despesas administrativas;Energia elétrica;Saída
-718;Despesas administrativas;Estagiários;Saída
-722;Despesas administrativas;Exames admissionais e demissionais;Saída
-192;Despesas administrativas;FGTS;Saída
 598;Despesas administrativas;Ferramentas;Saída
-187;Despesas administrativas;Férias;Saída
-189;Despesas administrativas;Gratificações;Saída
-191;Despesas administrativas;INSS;Saída
 349;Despesas administrativas;IPVA;Saída
 366;Despesas administrativas;Livros, jornais e revistas;Saída
 533;Despesas administrativas;Manutenção de equipamentos;Saída
@@ -100,50 +82,20 @@
 360;Despesas administrativas;Materiais de limpeza e de higiene;Saída
 733;Despesas administrativas;Mensalidades e anuidades;Saída
 736;Despesas administrativas;Outras despesas administrativas;Saída
-783;Despesas administrativas;Participação nos lucros e resultados;Saída
-528;Despesas administrativas;Planos de saúde e odontológico;Saída
-782;Despesas administrativas;Premiações;Saída
-188;Despesas administrativas;Pró-labores;Saída
 535;Despesas administrativas;Refeições;Saída
-187;Despesas administrativas;Rescisões;Saída
-187;Despesas administrativas;Salários e ordenados;Saída
 358;Despesas administrativas;Seguros;Saída
-723;Despesas administrativas;Seguros de acidente do trabalho;Saída
 362;Despesas administrativas;Serviços de terceiros;Saída
 531;Despesas administrativas;Software/Licença de uso;Saída
 356;Despesas administrativas;Telefonia e internet;Saída
 547;Despesas administrativas;Táxi, Uber e similares;Saída
-724;Despesas administrativas;Uniformes;Saída
 727;Despesas administrativas;Vigilância e segurança patrimonial;Saída
-355;Despesas administrativas;Água e saneamento;Saída
-187;Despesas comerciais;13° Salários;Saída
-765;Despesas comerciais;Assistência médica e social;Saída
-767;Despesas comerciais;Auxílio-alimentação e refeição;Saída
-768;Despesas comerciais;Auxílio-transporte e combustível;Saída
 717;Despesas comerciais;Brindes para clientes;Saída
-781;Despesas comerciais;Comissões;Saída
 712;Despesas comerciais;Congressos, feiras e eventos;Saída
-771;Despesas comerciais;Cursos e treinamentos;Saída
-716;Despesas comerciais;Deslocamentos;Saída
 715;Despesas comerciais;Embalagens;Saída
-754;Despesas comerciais;Estagiários;Saída
-764;Despesas comerciais;Exames admissionais e demissionais;Saída
-192;Despesas comerciais;FGTS;Saída
 714;Despesas comerciais;Fretes e carretos;Saída
-187;Despesas comerciais;Férias;Saída
-189;Despesas comerciais;Gratificações;Saída
-191;Despesas comerciais;INSS;Saída
 730;Despesas comerciais;Manutenção de veículos;Saída
 772;Despesas comerciais;Outras despesas comerciais;Saída
-783;Despesas comerciais;Participação nos lucros e resultados;Saída
-770;Despesas comerciais;Planos de saúde e odontológico;Saída
-782;Despesas comerciais;Premiações;Saída
 713;Despesas comerciais;Propaganda, marketing e publicidade;Saída
-188;Despesas comerciais;Pró-labores;Saída
-187;Despesas comerciais;Rescisões;Saída
-187;Despesas comerciais;Salários e ordenados;Saída
-766;Despesas comerciais;Seguros de acidente do trabalho;Saída
-769;Despesas comerciais;Uniformes;Saída
 711;Despesas comerciais;Viagens e representações;Saída
 778;Despesas financeiras;Despesas com antecipações de recebíveis;Saída
 375;Despesas financeiras;Juros sobre empréstimos e financiamentos;Saída
@@ -158,6 +110,26 @@
 173;Impostos sobre as vendas;ISS;Saída
 487;Impostos sobre as vendas;PIS;Saída
 479;Impostos sobre as vendas;Simples Nacional;Saída
+740;Não Informado;Aluguel;saída
+354;Não Informado;Conta Energia;saída
+726;Não Informado;Contabilidade;saída
+594;Não Informado;Copa / Limpeza;saída
+711;Não Informado;Desp viagens;saída
+152;Não Informado;Empréstimos;saída
+712;Não Informado;Evento;saída
+187;Não Informado;Folha de pgto;saída
+714;Não Informado;Frete / Motoboy;saída
+479;Não Informado;Imp sobre Venda;saída
+506;Não Informado;Insum de Produç;saída
+570;Não Informado;Investimento;saída
+729;Não Informado;Manut Equip;saída
+530;Não Informado;Manut Predial;saída
+713;Não Informado;Marketing;saída
+359;Não Informado;Mat Escrit;saída
+741;Não Informado;Softwares;saída
+356;Não Informado;Tel e internet;saída
+467;Não Informado;Terceirização;saída
+702;Não Informado;Uniformes /EPI;saída
 728;Outras despesas;Contingências;Saída
 352;Outras despesas;Multas e penalidades;Saída
 350;Outras despesas;Taxas diversas;Saída
@@ -167,8 +139,6 @@
 444;Outras receitas;Receita de aluguel de imóvel;Entrada
 448;Outras receitas;Recuperação de tributos;Entrada
 745;Outras receitas;Subvenções e incentivos governamentais;Entrada
-;Outras receitas e despesas;Despesas a identificar (ONDE COLOCAR?);
-;Outras receitas e despesas;Estorno pagamento;
 504;Receitas;Devoluções de vendas;Saída
 504;Receitas;Vendas de cursos;Entrada
 504;Receitas;Vendas de matérias-primas;Entrada

@@ -7,83 +7,104 @@ ARQUIVO_MESTRE = 'plano_de_contas_mestre.csv'
 ARQUIVO_NOVO_CLIENTE = 'plano_de_contas_pcpl.csv'
 
 
+def ler_csv_com_fallback(caminho_arquivo):
+    """
+    Função robusta que tenta ler um arquivo CSV com diferentes codificações.
+    """
+    encodings_para_tentar = ['utf-8', 'utf-8-sig', 'latin-1', 'cp1252']
+    for enc in encodings_para_tentar:
+        try:
+            return pd.read_csv(caminho_arquivo, sep=';', encoding=enc)
+        except (UnicodeDecodeError, FileNotFoundError):
+            continue
+    raise ValueError(f"Não foi possível decodificar ou encontrar o arquivo '{caminho_arquivo}'.")
+
+
 def normalizar_texto(texto):
-    """Converte texto para minúsculas, remove acentos e espaços para comparação."""
     if not isinstance(texto, str): return ''
     return unidecode(texto).lower().strip()
 
 
-def unificar_planos_de_contas():
+def unificar_planos_com_validacao():
     """
-    Versão robusta que lê o plano de contas de um cliente, mesmo com colunas faltando,
-    e adiciona as novas contas ao plano de contas mestre, salvando com a codificação correta.
+    Versão final que valida contas obrigatórias e preenche campos opcionais
+    ausentes (como 'grupo') com um valor padrão.
     """
     colunas_mestre_obrigatorias = ['Codigo', 'grupo', 'subgrupo', 'Movimentacao']
 
-    # --- Carregar o Plano de Contas Mestre ---
     if os.path.exists(ARQUIVO_MESTRE):
-        df_mestre = pd.read_csv(ARQUIVO_MESTRE, sep=';', encoding='latin-1')
-        print(f" -> Plano de Contas Mestre ('{ARQUIVO_MESTRE}') carregado com {len(df_mestre)} contas.")
+        df_mestre = ler_csv_com_fallback(ARQUIVO_MESTRE)
+        print(f" -> Plano de Contas Mestre carregado com {len(df_mestre)} contas.")
     else:
-        print(f"Aviso: Arquivo '{ARQUIVO_MESTRE}' não encontrado. Um novo será criado.")
+        print(f"Aviso: Arquivo Mestre não encontrado. Um novo será criado.")
         df_mestre = pd.DataFrame(columns=colunas_mestre_obrigatorias)
 
-    # --- Carregar o Plano de Contas do Novo Cliente ---
     try:
-        df_cliente = pd.read_csv(ARQUIVO_NOVO_CLIENTE, sep=';', encoding='latin-1')
-        print(f" -> Plano de Contas do Cliente ('{ARQUIVO_NOVO_CLIENTE}') carregado com {len(df_cliente)} contas.")
-    except FileNotFoundError:
-        print(f"ERRO CRÍTICO: O arquivo do novo cliente '{ARQUIVO_NOVO_CLIENTE}' não foi encontrado.")
+        df_cliente = ler_csv_com_fallback(ARQUIVO_NOVO_CLIENTE)
+        print(f" -> Plano de Contas do Cliente carregado com {len(df_cliente)} contas.")
+    except (FileNotFoundError, ValueError) as e:
+        print(f"ERRO CRÍTICO: {e}")
         return
 
-    # --- Processo de Unificação ---
     df_mestre.columns = [col.strip() for col in df_mestre.columns]
     df_cliente.columns = [col.strip() for col in df_cliente.columns]
     df_cliente.rename(columns={'subgrupos': 'subgrupo'}, inplace=True)
 
-    if 'subgrupo' not in df_cliente.columns:
-        print("ERRO CRÍTICO: O arquivo do cliente não contém a coluna essencial 'subgrupo'.")
+    colunas_essenciais_cliente = ['Codigo', 'subgrupo', 'Movimentacao']
+    if not all(col in df_cliente.columns for col in colunas_essenciais_cliente):
+        print(f"ERRO CRÍTICO: O arquivo do cliente precisa conter as colunas {colunas_essenciais_cliente}.")
         return
 
     subgrupos_mestre_normalizados = set(df_mestre['subgrupo'].apply(normalizar_texto))
     novas_contas_para_adicionar = []
 
-    print("\nComparando planos e procurando por contas novas...")
+    print("\nAnalisando e validando contas do arquivo do cliente...")
     for index, row_cliente in df_cliente.iterrows():
-        subgrupo_cliente_normalizado = normalizar_texto(row_cliente['subgrupo'])
+        subgrupo_cliente_original = row_cliente.get('subgrupo')
+        subgrupo_cliente_normalizado = normalizar_texto(subgrupo_cliente_original)
 
-        if subgrupo_cliente_normalizado not in subgrupos_mestre_normalizados:
-            print(f"   -> Nova conta encontrada: '{row_cliente['subgrupo']}'")
+        if subgrupo_cliente_normalizado and subgrupo_cliente_normalizado not in subgrupos_mestre_normalizados:
+            codigo_cliente = row_cliente.get('Codigo')
+            movimentacao_cliente = row_cliente.get('Movimentacao')
 
-            nova_linha = {}
-            for col in colunas_mestre_obrigatorias:
-                valor = row_cliente.get(col)
-                if pd.isna(valor):
-                    nova_linha[col] = "A Classificar" if col == 'grupo' else ''
-                else:
-                    nova_linha[col] = valor
+            if pd.notna(codigo_cliente) and str(codigo_cliente).strip() != '' and pd.notna(
+                    movimentacao_cliente) and str(movimentacao_cliente).strip() != '':
+                print(f"   -> Nova conta VÁLIDA encontrada: '{subgrupo_cliente_original}'")
 
-            novas_contas_para_adicionar.append(nova_linha)
-            subgrupos_mestre_normalizados.add(subgrupo_cliente_normalizado)
+                # ===== LÓGICA DE PREENCHIMENTO RESTAURADA AQUI =====
+                nova_linha = {}
+                for col in colunas_mestre_obrigatorias:
+                    # Pega o valor se a coluna existir no arquivo do cliente
+                    valor = row_cliente.get(col)
+                    # Se não existir ou estiver vazio, preenche com um padrão
+                    if pd.isna(valor) or str(valor).strip() == '':
+                        # A coluna 'grupo' é opcional e pode ser preenchida
+                        if col == 'grupo':
+                            nova_linha[col] = "Não Informado"
+                        # As outras são obrigatórias, mas deixamos vazio por segurança
+                        else:
+                            nova_linha[col] = ''
+                    else:
+                        nova_linha[col] = valor
 
-    # --- Salvar o resultado ---
+                # Garante que o subgrupo original seja mantido
+                nova_linha['subgrupo'] = subgrupo_cliente_original
+
+                novas_contas_para_adicionar.append(nova_linha)
+                subgrupos_mestre_normalizados.add(subgrupo_cliente_normalizado)
+
     if novas_contas_para_adicionar:
         df_novas_contas = pd.DataFrame(novas_contas_para_adicionar)
         df_mestre_atualizado = pd.concat([df_mestre, df_novas_contas], ignore_index=True)
+        df_mestre_atualizado.drop_duplicates(subset=['subgrupo'], inplace=True)
+        df_mestre_atualizado.sort_values(by=['grupo', 'subgrupo'], inplace=True, na_position='first')
 
-        df_mestre_atualizado = df_mestre_atualizado.drop_duplicates().sort_values(by=['grupo', 'subgrupo']).reset_index(
-            drop=True)
-
-        # ===== CORREÇÃO APLICADA AQUI =====
-        # Adicionamos encoding='utf-8-sig' para garantir que os acentos sejam salvos corretamente
         df_mestre_atualizado.to_csv(ARQUIVO_MESTRE, sep=';', index=False, encoding='utf-8-sig')
-
         print(
             f"\n✅ SUCESSO! {len(novas_contas_para_adicionar)} nova(s) conta(s) foram adicionadas ao '{ARQUIVO_MESTRE}'.")
-        print(f"   O arquivo mestre agora possui um total de {len(df_mestre_atualizado)} contas.")
     else:
-        print("\nNenhuma conta nova encontrada. O plano mestre já está atualizado com as contas deste cliente.")
+        print("\nNenhuma conta nova e válida foi encontrada para adicionar.")
 
 
 if __name__ == "__main__":
-    unificar_planos_de_contas()
+    unificar_planos_com_validacao()
