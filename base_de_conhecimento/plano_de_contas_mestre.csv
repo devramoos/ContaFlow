@@ -1,0 +1,179 @@
+﻿Codigo;grupo;subgrupo;Movimentacao
+1;Atividades de caixa;-;Entrada
+11;Atividades de caixa;Banco Entrada;Entrada
+11;Atividades de caixa;Banco Saída;Saída
+1;Atividades de caixa;Transferências entre contas;Entrada
+548;Atividades de financiamentos;Antecipação de lucros ou dividendos;Saída
+785;Atividades de financiamentos;Antecipação de recebíveis;Entrada
+152;Atividades de financiamentos;Captação de empréstimo bancário;Entrada
+685;Atividades de financiamentos;Captação de empréstimo com empresa ligada;Entrada
+686;Atividades de financiamentos;Captação de empréstimo com sócio;Entrada
+549;Atividades de financiamentos;Distribuição de lucros ou dividendos;Saída
+245;Atividades de financiamentos;Integralização de capital social;Entrada
+682;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;Saída
+550;Atividades de financiamentos;Pagamento de dívida tributária parcelada;Saída
+152;Atividades de financiamentos;Pagamento de empréstimo bancário (principal);Saída
+685;Atividades de financiamentos;Pagamento de empréstimo com empresa ligada;Saída
+686;Atividades de financiamentos;Pagamento de empréstimo com sócio;Saída
+567;Atividades de financiamentos;Pagamento de empréstimo com terceiro;Saída
+785;Atividades de financiamentos;Quitação de antecipação de recebíveis;Saída
+567;Atividades de financiamentos;Recebimento de empréstimo com terceiro;Entrada
+787;Atividades de financiamentos;Títulos de Capitalização ;Saída
+1;Atividades de investimentos;Aplicações financeiras;Saída
+570;Atividades de investimentos;Aquisição de imobilizado;Saída
+680;Atividades de investimentos;Aquisição de licenças de softwares;Saída
+679;Atividades de investimentos;Aquisição de marcas e patentes;Saída
+90;Atividades de investimentos;Aquisição de participações em outras empresas;Saída
+548;Atividades de investimentos;Recebimento de lucros e dividendos;Entrada
+454;Atividades de investimentos;Receita na venda de imobilizado;Entrada
+1;Atividades de investimentos;Resgates de aplicações financeiras;Entrada
+452;Atividades de investimentos;Venda de participações em outras empresas;Entrada
+187;Custos;13° Salários;Saída
+750;Custos;Ajuda de custo;Saída
+740;Custos;Aluguel de imóvel;Saída
+740;Custos;Aluguel de imóvel e condomínio;Saída
+739;Custos;Aluguel de máquinas e equipamentos;Saída
+741;Custos;Aluguel de software;Saída
+699;Custos;Assistência médica e social;Saída
+737;Custos;Auxílio-alimentação e refeição;Saída
+738;Custos;Auxílio-transporte e combustível;Saída
+707;Custos;CRO;Saída
+781;Custos;Comissões;Saída
+;Custos;Condomínio;
+709;Custos;Cursos e treinamentos;Saída
+705;Custos;Deslocamentos;Saída
+354;Custos;Energia elétrica;Saída
+708;Custos;Equipamentos de proteção individual EPIs;Saída
+692;Custos;Estagiários;Saída
+698;Custos;Exames admissionais e demissionais;Saída
+192;Custos;FGTS;Saída
+801;Custos;Fretes;Saída
+187;Custos;Férias;Saída
+189;Custos;Gratificações;Saída
+191;Custos;INSS;Saída
+348;Custos;IPTU;Saída
+706;Custos;Instrumentos de produção;Saída
+729;Custos;Manutenção de equipamentos ;Saída
+530;Custos;Manutenção predial;Saída
+506;Custos;Matéria-prima;Saída
+732;Custos;Outros custos;Saída
+783;Custos;Participação nos lucros e resultados;Saída
+703;Custos;Planos de saúde e odontológico;Saída
+782;Custos;Premiações;Saída
+704;Custos;Profissionais terceirizados;Saída
+188;Custos;Pró-labores;Saída
+187;Custos;Rescisões;Saída
+187;Custos;Salários e ordenados;Saída
+700;Custos;Seguros de acidente do trabalho;Saída
+467;Custos;Terceirização de produção;Saída
+702;Custos;Uniformes;Saída
+731;Custos;Água e saneamento;Saída
+187;Despesas administrativas;13° Salários;Saída
+751;Despesas administrativas;Ajuda de custo;Saída
+734;Despesas administrativas;Aluguel de imóvel e condomínio;Saída
+493;Despesas administrativas;Aluguel de máquinas e equipamentos;Saída
+726;Despesas administrativas;Assessorias e consultorias;Saída
+339;Despesas administrativas;Assistência médica e social;Saída
+521;Despesas administrativas;Auxílio-alimentação e refeição;Saída
+492;Despesas administrativas;Auxílio-transporte e combustível;Saída
+546;Despesas administrativas;Bens de pequeno valor;Saída
+593;Despesas administrativas;Brindes para funcionários;Saída
+781;Despesas administrativas;Comissões;Saída
+536;Despesas administrativas;Confraternizações;Saída
+735;Despesas administrativas;Contribuição Sindical;Saída
+594;Despesas administrativas;Copa e cozinha;Saída
+357;Despesas administrativas;Correios e malotes;Saída
+592;Despesas administrativas;Cursos e treinamentos;Saída
+773;Despesas administrativas;Deslocamentos;Saída
+538;Despesas administrativas;Energia elétrica;Saída
+718;Despesas administrativas;Estagiários;Saída
+722;Despesas administrativas;Exames admissionais e demissionais;Saída
+192;Despesas administrativas;FGTS;Saída
+598;Despesas administrativas;Ferramentas;Saída
+187;Despesas administrativas;Férias;Saída
+189;Despesas administrativas;Gratificações;Saída
+191;Despesas administrativas;INSS;Saída
+349;Despesas administrativas;IPVA;Saída
+366;Despesas administrativas;Livros, jornais e revistas;Saída
+533;Despesas administrativas;Manutenção de equipamentos;Saída
+359;Despesas administrativas;Materiais de escritório;Saída
+360;Despesas administrativas;Materiais de limpeza e de higiene;Saída
+733;Despesas administrativas;Mensalidades e anuidades;Saída
+736;Despesas administrativas;Outras despesas administrativas;Saída
+783;Despesas administrativas;Participação nos lucros e resultados;Saída
+528;Despesas administrativas;Planos de saúde e odontológico;Saída
+782;Despesas administrativas;Premiações;Saída
+188;Despesas administrativas;Pró-labores;Saída
+535;Despesas administrativas;Refeições;Saída
+187;Despesas administrativas;Rescisões;Saída
+187;Despesas administrativas;Salários e ordenados;Saída
+358;Despesas administrativas;Seguros;Saída
+723;Despesas administrativas;Seguros de acidente do trabalho;Saída
+362;Despesas administrativas;Serviços de terceiros;Saída
+531;Despesas administrativas;Software/Licença de uso;Saída
+356;Despesas administrativas;Telefonia e internet;Saída
+547;Despesas administrativas;Táxi, Uber e similares;Saída
+724;Despesas administrativas;Uniformes;Saída
+727;Despesas administrativas;Vigilância e segurança patrimonial;Saída
+355;Despesas administrativas;Água e saneamento;Saída
+187;Despesas comerciais;13° Salários;Saída
+765;Despesas comerciais;Assistência médica e social;Saída
+767;Despesas comerciais;Auxílio-alimentação e refeição;Saída
+768;Despesas comerciais;Auxílio-transporte e combustível;Saída
+717;Despesas comerciais;Brindes para clientes;Saída
+781;Despesas comerciais;Comissões;Saída
+712;Despesas comerciais;Congressos, feiras e eventos;Saída
+771;Despesas comerciais;Cursos e treinamentos;Saída
+716;Despesas comerciais;Deslocamentos;Saída
+715;Despesas comerciais;Embalagens;Saída
+754;Despesas comerciais;Estagiários;Saída
+764;Despesas comerciais;Exames admissionais e demissionais;Saída
+192;Despesas comerciais;FGTS;Saída
+714;Despesas comerciais;Fretes e carretos;Saída
+187;Despesas comerciais;Férias;Saída
+189;Despesas comerciais;Gratificações;Saída
+191;Despesas comerciais;INSS;Saída
+730;Despesas comerciais;Manutenção de veículos;Saída
+772;Despesas comerciais;Outras despesas comerciais;Saída
+783;Despesas comerciais;Participação nos lucros e resultados;Saída
+770;Despesas comerciais;Planos de saúde e odontológico;Saída
+782;Despesas comerciais;Premiações;Saída
+713;Despesas comerciais;Propaganda, marketing e publicidade;Saída
+188;Despesas comerciais;Pró-labores;Saída
+187;Despesas comerciais;Rescisões;Saída
+187;Despesas comerciais;Salários e ordenados;Saída
+766;Despesas comerciais;Seguros de acidente do trabalho;Saída
+769;Despesas comerciais;Uniformes;Saída
+711;Despesas comerciais;Viagens e representações;Saída
+778;Despesas financeiras;Despesas com antecipações de recebíveis;Saída
+375;Despesas financeiras;Juros sobre empréstimos e financiamentos;Saída
+368;Despesas financeiras;Juros sobre fornecedores e boletos pagos;Saída
+774;Despesas financeiras;Perdas com variação cambial;Saída
+369;Despesas financeiras;Tarifas bancárias;Saída
+488;Impostos sobre as vendas;COFINS;Saída
+684;Impostos sobre as vendas;CSLL;Saída
+512;Impostos sobre as vendas;ICMS;Saída
+681;Impostos sobre as vendas;IPI;Saída
+683;Impostos sobre as vendas;IRPJ;Saída
+173;Impostos sobre as vendas;ISS;Saída
+487;Impostos sobre as vendas;PIS;Saída
+479;Impostos sobre as vendas;Simples Nacional;Saída
+728;Outras despesas;Contingências;Saída
+352;Outras despesas;Multas e penalidades;Saída
+350;Outras despesas;Taxas diversas;Saída
+445;Outras receitas;Comissões recebidas;Entrada
+690;Outras receitas;Indenizações recebidas;Entrada
+802;Outras receitas;Outras Receitas;Entrada
+444;Outras receitas;Receita de aluguel de imóvel;Entrada
+448;Outras receitas;Recuperação de tributos;Entrada
+745;Outras receitas;Subvenções e incentivos governamentais;Entrada
+;Outras receitas e despesas;Despesas a identificar (ONDE COLOCAR?);
+;Outras receitas e despesas;Estorno pagamento;
+504;Receitas;Devoluções de vendas;Saída
+504;Receitas;Vendas de cursos;Entrada
+504;Receitas;Vendas de matérias-primas;Entrada
+504;Receitas;Vendas de próteses;Entrada
+504;Receitas;Vendas de terceirização de produção;Entrada
+434;Receitas financeiras;Ganhos com variação cambial;Entrada
+433;Receitas financeiras;Juros recebidos;Entrada
+432;Receitas financeiras;Rendimentos sobre aplicações financeiras;Entrada
