@@ -28,6 +28,8 @@
 454;Atividades de investimentos;Receita na venda de imobilizado;Entrada
 1;Atividades de investimentos;Resgates de aplicações financeiras;Entrada
 452;Atividades de investimentos;Venda de participações em outras empresas;Entrada
+570;Bens Imobilizados da Empresa;Imobilizado ;saída
+570;Bens Imobilizados da Empresa;Máquinas, equipamentos e instalações industriais ;saída
 187;Custos;13° Salários;Saída
 750;Custos;Ajuda de custo;Saída
 740;Custos;Aluguel de imóvel;Saída
@@ -52,6 +54,7 @@
 191;Custos;INSS;Saída
 348;Custos;IPTU;Saída
 706;Custos;Instrumentos de produção;Saída
+506;Custos;Insumos de produção/Estoque ;saída
 729;Custos;Manutenção de equipamentos ;Saída
 530;Custos;Manutenção predial;Saída
 506;Custos;Matéria-prima;Saída
@@ -60,13 +63,28 @@
 703;Custos;Planos de saúde e odontológico;Saída
 782;Custos;Premiações;Saída
 704;Custos;Profissionais terceirizados;Saída
+188;Custos;Pró-labore ;saída
 188;Custos;Pró-labores;Saída
 187;Custos;Rescisões;Saída
+187;Custos;Salários - Produção ;saída
 187;Custos;Salários e ordenados;Saída
 700;Custos;Seguros de acidente do trabalho;Saída
 467;Custos;Terceirização de produção;Saída
 702;Custos;Uniformes;Saída
+737;Custos;Vale alimentação ;saída
+738;Custos;Vale transporte ;saída
 731;Custos;Água e saneamento;Saída
+339;Despesas Administrativas;Assistência Médica Social ;saída
+726;Despesas Administrativas;Causas Trabalhistas ;saída
+357;Despesas Administrativas;Correios ;saída
+187;Despesas Administrativas;Encargos de folha ;saída
+528;Despesas Administrativas;Plano de saúde colaboradores ;saída
+358;Despesas Administrativas;Seguro de vida ;saída
+492;Despesas Administrativas;Transportadora/coleta/entrega ;saída
+521;Despesas Administrativas;Vale-alimentação ;saída
+492;Despesas Administrativas;Vale-transporte ;saída
+713;Despesas Comerciais;Comercial/Marketing;saída
+374;Despesas Financeiras;Tarifas de cartões de crédito ;saída
 726;Despesas administrativas;Assessorias e consultorias;Saída
 546;Despesas administrativas;Bens de pequeno valor;Saída
 593;Despesas administrativas;Brindes para funcionários;Saída
@@ -89,6 +107,8 @@
 356;Despesas administrativas;Telefonia e internet;Saída
 547;Despesas administrativas;Táxi, Uber e similares;Saída
 727;Despesas administrativas;Vigilância e segurança patrimonial;Saída
+751;Despesas com Salários e Encargos;Pensão alimentícia ;saída
+187;Despesas com Salários e Encargos;Salários ;saída
 717;Despesas comerciais;Brindes para clientes;Saída
 712;Despesas comerciais;Congressos, feiras e eventos;Saída
 715;Despesas comerciais;Embalagens;Saída
@@ -102,6 +122,7 @@
 368;Despesas financeiras;Juros sobre fornecedores e boletos pagos;Saída
 774;Despesas financeiras;Perdas com variação cambial;Saída
 369;Despesas financeiras;Tarifas bancárias;Saída
+479;Impostos sobre Vendas e sobre Serviços;Simples Nacional - DAS ;saída
 488;Impostos sobre as vendas;COFINS;Saída
 684;Impostos sobre as vendas;CSLL;Saída
 512;Impostos sobre as vendas;ICMS;Saída
@@ -110,26 +131,8 @@
 173;Impostos sobre as vendas;ISS;Saída
 487;Impostos sobre as vendas;PIS;Saída
 479;Impostos sobre as vendas;Simples Nacional;Saída
-740;Não Informado;Aluguel;saída
-354;Não Informado;Conta Energia;saída
-726;Não Informado;Contabilidade;saída
-594;Não Informado;Copa / Limpeza;saída
-711;Não Informado;Desp viagens;saída
-152;Não Informado;Empréstimos;saída
-712;Não Informado;Evento;saída
-187;Não Informado;Folha de pgto;saída
-714;Não Informado;Frete / Motoboy;saída
-479;Não Informado;Imp sobre Venda;saída
-506;Não Informado;Insum de Produç;saída
-570;Não Informado;Investimento;saída
-729;Não Informado;Manut Equip;saída
-530;Não Informado;Manut Predial;saída
-713;Não Informado;Marketing;saída
-359;Não Informado;Mat Escrit;saída
-741;Não Informado;Softwares;saída
-356;Não Informado;Tel e internet;saída
-467;Não Informado;Terceirização;saída
-702;Não Informado;Uniformes /EPI;saída
+506;Outras Despesas;Devolução de vendas ;saída
+350;Outras Despesas;Impostos de terceiros ;saída
 728;Outras despesas;Contingências;Saída
 352;Outras despesas;Multas e penalidades;Saída
 350;Outras despesas;Taxas diversas;Saída
@@ -139,6 +142,8 @@
 444;Outras receitas;Receita de aluguel de imóvel;Entrada
 448;Outras receitas;Recuperação de tributos;Entrada
 745;Outras receitas;Subvenções e incentivos governamentais;Entrada
+736;Outras receitas/despesas;Compensações previdenciárias ;entrada
+479;Parcelamentos e Dívidas;Parcelamento do simples nacional ;saída
 504;Receitas;Devoluções de vendas;Saída
 504;Receitas;Vendas de cursos;Entrada
 504;Receitas;Vendas de matérias-primas;Entrada

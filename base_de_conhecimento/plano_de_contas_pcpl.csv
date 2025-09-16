@@ -1,25 +1,22 @@
-Codigo;grupo;subgrupo;Movimentacao
-369;;Taxas Diversas;saída
-152;;Empréstimos;saída
-506;;Insum de Produç;saída
-187;;Folha de pgto;saída
-356;;Tel e internet;saída
-358;;Seguros;saída
-354;;Conta Energia;saída
-741;;Softwares;saída
-570;;Investimento;saída
-729;;Manut Equip;saída
-740;;Aluguel;saída
-712;;Evento;saída
-711;;Desp viagens;saída
-594;;Copa / Limpeza;saída
-359;;Mat Escrit;saída
-713;;Marketing;saída
-530;;Manut Predial;saída
-726;;Contabilidade;saída
-479;;Imp sobre Venda;saída
-702;;Uniformes /EPI;saída
-714;;Frete / Motoboy;saída
-467;;Terceirização;saída
-504;;Vendas de próteses;entrada
-350;;Taxas Diversas;saída
+Codigo;grupo;subgrupo;movimentacao
+152;Atividades de financiamentos;Pagamento de empréstimo com empresa ligada;saída
+362;Despesas administrativa;Serviços de terceiros;saída
+535;Despesas administrativa;Refeições;saída
+187;Despesas administrativa;Salários e ordenados;saída
+704;Custos;Profissionais terceirizados (internos);saída
+629;Despesas administrativa;Pró-labores;saída
+530;Custos;Manutenção predial;saída
+714;Despesas Comerciais;Fretes e carretos;saída
+546;Despesas administrativa;Bens de pequeno valor;saída
+506;Custos;Matéria-prima;saída
+467;Custos;Profissionais terceirizados (externos);saída
+360;Despesas administrativa;Materiais de limpeza e de higiene;saída
+629;Atividades de financiamentos;Pagamento de empréstimo com sócio;saída
+706;Custos;Instrumentos de produção;saída
+356;Despesas administrativa;Telefonia e internet;saída
+629;Atividades de financiamentos;Antecipação de lucros ou dividendos;saída
+726;Despesas administrativa;Assessorias e consultorias;saída
+536;Despesas administrativa;Confraternizações;saída
+738;Despesas administrativa;Auxílio-transporte e combustível;saída
+187;Despesas administrativa;Férias;saída
+729;Custos;Manutenção de equipamentos;saída
