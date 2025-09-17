@@ -5,33 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba1715b-3efc-436b-8e89-5e5466a86a73" name="Changes" comment="add initial project files and implement cash flow classification scripts">
-      <change afterPath="$PROJECT_DIR$/.idea/Base de dados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arquivos_classificados/fluxo_caixa_classificado_final.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arquivos_para_classificar/fluxo_caixa_entrada.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_de_conhecimento/base_de_treinamento_ia.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_classificados/fluxo_caixa_classificado_final.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/contaflow.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/base_de_conhecimento/plano_de_contas_mestre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_conhecimento/plano_de_contas_mestre.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/plano_de_contas_pcpl.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/unificador_de_planos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_de_classificacao/fluxo_caixa_classificado_final.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_de_classificacao/fluxo_caixa_entrada.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_de_classificacao/gerador_fluxo_classificado.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_de_classificacao/preenchedor_contabil.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_de_classificacao/preenchedor_final.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_inteligente/base_de_treinamento_ia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_inteligente/classificador_inteligente.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_inteligente/fluxo_caixa_classificado_pela_ia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_inteligente/fluxo_caixa_para_ia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_para_classificar/fluxo_caixa_para_ia.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_inteligente/modelo_classificador.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motor_inteligente/treinador_ia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contaflow.db" beforeDir="false" afterPath="$PROJECT_DIR$/contaflow.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="feature/adicionar-formulario" />
         <entry key="$PROJECT_DIR$/classificador_financeiro_escrituracao" value="main" />
       </map>
     </option>
@@ -81,6 +64,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="classificador-pre-end" />
+                    <option name="lastUsedInstant" value="1758141339" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="feature/adicionar-formulario" />
                     <option name="lastUsedInstant" value="1758055518" />
                   </RecentBranch>
@@ -97,12 +84,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/devramoos/ContaFlow.git",
-    "accountId": "0acb4f71-d0d9-4a4c-9d29-c1753cb5ea60"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/devramoos/ContaFlow.git&quot;,
+    &quot;accountId&quot;: &quot;0acb4f71-d0d9-4a4c-9d29-c1753cb5ea60&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -114,6 +101,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
     "Python.classificador.executor": "Run",
     "Python.classificador_final_hibrido (1).executor": "Run",
     "Python.classificador_final_hibrido.executor": "Run",
@@ -121,6 +109,7 @@
     "Python.classificador_sqlite.executor": "Run",
     "Python.gerador_fluxo_classificado.executor": "Run",
     "Python.migrador_csv_para_sqlite.executor": "Run",
+    "Python.test_app.executor": "Run",
     "Python.treinador_ia.executor": "Run",
     "Python.treinador_sqlite.executor": "Run",
     "Python.unificador_de_planos.executor": "Run",
@@ -130,7 +119,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/adicionar-formulario",
+    "git-widget-placeholder": "classificador-pre-end",
     "last_opened_file_path": "C:/Users/rodri/Documents/PROGRAMAÇÃO/PYTHON/projeto_classificacao_financeira/Base de dados/gerenciamento_db",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -155,8 +144,8 @@
       <recent name="C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.unificador_sqlite (1)">
-    <configuration name="classificador_final_hibrido" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Base de dados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base_de_conhecimento" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_de_conhecimento/classificador_final_hibrido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treinador_ia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Base de dados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,12 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modelo_ia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modelo_ia/treinador_ia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.unificador_sqlite (1)" />
-        <item itemvalue="Python.classificador_final_hibrido" />
+        <item itemvalue="Python.test_app" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.classificador_sqlite" />
-        <item itemvalue="Python.treinador_ia" />
         <item itemvalue="Python.treinador_sqlite" />
+        <item itemvalue="Python.unificador_sqlite (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +287,11 @@
       <updated>1757942369620</updated>
       <workItem from="1757942371711" duration="2086000" />
       <workItem from="1757944550818" duration="17992000" />
-      <workItem from="1758022827681" duration="22622000" />
+      <workItem from="1758022827681" duration="23147000" />
+      <workItem from="1758111945050" duration="5835000" />
+      <workItem from="1758120891126" duration="720000" />
+      <workItem from="1758123997915" duration="6639000" />
+      <workItem from="1758141199252" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project files and implement cash flow classification scripts">
       <option name="closed" value="true" />
@@ -336,9 +329,11 @@
     <SUITE FILE_PATH="coverage/Base_de_dados$treinador_ia.coverage" NAME="treinador_ia Coverage Results" MODIFIED="1758047074152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_inteligente.coverage" NAME="classificador_inteligente Coverage Results" MODIFIED="1757968911247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motor_inteligente" />
     <SUITE FILE_PATH="coverage/Base_de_dados$unificador_sqlite.coverage" NAME="unificador_sqlite Coverage Results" MODIFIED="1758046424778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
-    <SUITE FILE_PATH="coverage/Base_de_dados$treinador_sqlite.coverage" NAME="treinador_sqlite Coverage Results" MODIFIED="1758046507160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
-    <SUITE FILE_PATH="coverage/Base_de_dados$classificador_sqlite.coverage" NAME="classificador_sqlite Coverage Results" MODIFIED="1758047618447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$treinador_sqlite.coverage" NAME="treinador_sqlite Coverage Results" MODIFIED="1758113080913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$classificador_sqlite.coverage" NAME="classificador_sqlite Coverage Results" MODIFIED="1758113235532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$app.coverage" NAME="app Coverage Results" MODIFIED="1758124031886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador.coverage" NAME="classificador Coverage Results" MODIFIED="1758043959071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$test_app.coverage" NAME="test_app Coverage Results" MODIFIED="1758124045200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Base_de_dados$unificador_de_planos.coverage" NAME="unificador_de_planos Coverage Results" MODIFIED="1758028136511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base_de_conhecimento" />
     <SUITE FILE_PATH="coverage/Base_de_dados$migrador_csv_para_sqlite.coverage" NAME="migrador_csv_para_sqlite Coverage Results" MODIFIED="1758046417198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_final_hibrido__1_.coverage" NAME="classificador_final_hibrido (1) Coverage Results" MODIFIED="1758043968038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
