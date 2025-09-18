@@ -10,11 +10,11 @@ from unidecode import unidecode
 # --- 1. CONFIGURAÇÕES ---
 # ===== CORREÇÃO APLICADA AQUI =====
 # Agora, o script procura o banco de dados na mesma pasta em que ele está.
-NOME_BANCO_DE_DADOS = '..\contaflow.db'  # Nome do arquivo do banco de dados SQLite
+NOME_BANCO_DE_DADOS = r'..\contaflow.db'  # Nome do arquivo do banco de dados SQLite
 # ==================================
 
 # Nome do "cérebro" da IA que será gerado nesta pasta
-NOME_MODELO_IA = 'modelo_classificador_avancado.pkl'
+NOME_MODELO_IA = 'contaflow.db'
 
 
 def normalizar_texto(texto):

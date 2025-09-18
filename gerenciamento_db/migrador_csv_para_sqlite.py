@@ -5,10 +5,10 @@ import os
 # --- 1. CONFIGURAÇÕES ---
 # Nomes dos arquivos de entrada (de onde vamos ler os dados)
 ARQUIVO_PLANO_MESTRE = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\base_de_conhecimento\plano_de_contas_mestre.csv'
-ARQUIVO_TREINAMENTO_IA = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\modelo_ia\base_de_treinamento_ia.csv'
+ARQUIVO_TREINAMENTO_IA = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\base_de_conhecimento\base_de_treinamento_ia.csv'
 
 # Nome do arquivo do banco de dados que será criado
-NOME_BANCO_DE_DADOS = 'contaflow.db'
+NOME_BANCO_DE_DADOS = r'..\contaflow.db'
 
 def ler_csv_com_fallback(caminho_arquivo):
     """Lê um CSV tentando diferentes codificações e separadores."""

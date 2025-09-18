@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bba1715b-3efc-436b-8e89-5e5466a86a73" name="Changes" comment="add initial project files and implement cash flow classification scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivos_classificados/fluxo_caixa_classificado_final.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/contaflow.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/plano_de_contas_mestre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_conhecimento/plano_de_contas_mestre.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contaflow.db" beforeDir="false" afterPath="$PROJECT_DIR$/contaflow.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/adicionar-formulario" />
+        <entry key="$PROJECT_DIR$" value="Classificador-final" />
         <entry key="$PROJECT_DIR$/classificador_financeiro_escrituracao" value="main" />
       </map>
     </option>
@@ -98,38 +90,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.app.executor": "Run",
-    "Python.classificador.executor": "Run",
-    "Python.classificador_final_hibrido (1).executor": "Run",
-    "Python.classificador_final_hibrido.executor": "Run",
-    "Python.classificador_inteligente.executor": "Run",
-    "Python.classificador_sqlite.executor": "Run",
-    "Python.gerador_fluxo_classificado.executor": "Run",
-    "Python.migrador_csv_para_sqlite.executor": "Run",
-    "Python.test_app.executor": "Run",
-    "Python.treinador_ia.executor": "Run",
-    "Python.treinador_sqlite.executor": "Run",
-    "Python.unificador_de_planos.executor": "Run",
-    "Python.unificador_sqlite (1).executor": "Run",
-    "Python.unificador_sqlite.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "classificador-pre-end",
-    "last_opened_file_path": "C:/Users/rodri/Documents/PROGRAMAÇÃO/PYTHON/projeto_classificacao_financeira/Base de dados/gerenciamento_db",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificador_final_hibrido (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificador_final_hibrido.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificador_inteligente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificador_sqlite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gerador_fluxo_classificado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.migrador_csv_para_sqlite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treinador_ia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treinador_sqlite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unificador_de_planos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unificador_sqlite (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.unificador_sqlite.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;classificador-pre-end&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rodri/Documents/PROGRAMAÇÃO/PYTHON/projeto_classificacao_financeira/Base de dados/gerenciamento_db&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\gerenciamento_db" />
