@@ -8,6 +8,7 @@ A solução foi pensada para:
 - Permitir consultas via banco de dados SQLite.  
 - Oferecer modelos treinados que podem ser atualizados conforme novos dados são inseridos.  
 
+
 ---
 
 ## 📂 Estrutura do Projeto
