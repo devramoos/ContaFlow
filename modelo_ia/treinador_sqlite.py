@@ -47,29 +47,46 @@ def treinar_modelo_com_db():
 
         # --- FONTE 2: TREINAMENTO ANTIGO (APENAS DESCRIÇÃO) ---
         if os.path.exists(CAMINHO_TREINO_ANTIGO):
-            # ===== CORREÇÃO APLICADA AQUI =====
-            df_treino_antigo = pd.read_csv(CAMINHO_TREINO_ANTIGO, sep=';', header=0, names=['DescricaoExemplo', 'CodigoCorreto'], encoding='latin-1')
+            df_treino_antigo = pd.read_csv(CAMINHO_TREINO_ANTIGO, sep=';', header=0,
+                                           names=['DescricaoExemplo', 'CodigoCorreto'], encoding='latin-1')
             df_treino_antigo.dropna(subset=['DescricaoExemplo', 'CodigoCorreto'], inplace=True)
             exemplos_antigos = df_treino_antigo.rename(columns={'DescricaoExemplo': 'texto', 'CodigoCorreto': 'codigo'})
             lista_dfs_treino.append(exemplos_antigos)
-            print(f" -> FONTE 2: {len(exemplos_antigos)} exemplos (descrição) carregados de '{NOME_ARQUIVO_TREINO_ANTIGO}'.")
+            print(
+                f" -> FONTE 2: {len(exemplos_antigos)} exemplos (descrição) carregados de '{NOME_ARQUIVO_TREINO_ANTIGO}'.")
         else:
-            print(f" -> AVISO: Arquivo de treinamento antigo '{NOME_ARQUIVO_TREINO_ANTIGO}' não encontrado. Pulando esta fonte.")
+            print(
+                f" -> AVISO: Arquivo de treinamento antigo '{NOME_ARQUIVO_TREINO_ANTIGO}' não encontrado. Pulando esta fonte.")
 
         # --- FONTE 3: TREINAMENTO NOVO (GRUPO + SUBGRUPO + DESCRIÇÃO) ---
         if os.path.exists(CAMINHO_TREINO_NOVO):
-            # ===== CORREÇÃO APLICADA AQUI =====
             df_treino_novo = pd.read_csv(CAMINHO_TREINO_NOVO, sep=';', encoding='latin-1')
-            df_treino_novo.dropna(subset=['descricao', 'codigo_correto'], inplace=True)
-            # Combina as colunas para criar o texto de contexto
-            df_treino_novo['texto'] = df_treino_novo['grupo'].fillna('') + ' ' + \
-                                      df_treino_novo['subgrupo'].fillna('') + ' ' + \
-                                      df_treino_novo['descricao'].fillna('')
-            exemplos_novos = df_treino_novo[['texto', 'codigo_correto']].rename(columns={'codigo_correto': 'codigo'})
-            lista_dfs_treino.append(exemplos_novos)
-            print(f" -> FONTE 3: {len(exemplos_novos)} exemplos (contexto) carregados de '{NOME_ARQUIVO_TREINO_NOVO}'.")
+
+            # ===== CORREÇÃO APLICADA AQUI: Normaliza todos os nomes das colunas =====
+            df_treino_novo.columns = [normalizar_texto(col) for col in df_treino_novo.columns]
+
+            # Verifica se as colunas essenciais existem após a normalização
+            if 'descricao' in df_treino_novo.columns and 'codigo_correto' in df_treino_novo.columns:
+                df_treino_novo.dropna(subset=['descricao', 'codigo_correto'], inplace=True)
+
+                # Pega as colunas de contexto, tratando as que podem não existir
+                grupo_texto = df_treino_novo['grupo'].fillna('') if 'grupo' in df_treino_novo.columns else ''
+                subgrupo_texto = df_treino_novo['subgrupo'].fillna('') if 'subgrupo' in df_treino_novo.columns else ''
+                descricao_texto = df_treino_novo['descricao'].fillna('')
+
+                df_treino_novo['texto'] = grupo_texto + ' ' + subgrupo_texto + ' ' + descricao_texto
+
+                exemplos_novos = df_treino_novo[['texto', 'codigo_correto']].rename(
+                    columns={'codigo_correto': 'codigo'})
+                lista_dfs_treino.append(exemplos_novos)
+                print(
+                    f" -> FONTE 3: {len(exemplos_novos)} exemplos (contexto) carregados de '{NOME_ARQUIVO_TREINO_NOVO}'.")
+            else:
+                print(
+                    f" -> AVISO: O arquivo '{NOME_ARQUIVO_TREINO_NOVO}' foi encontrado, mas não contém as colunas 'descricao' e 'codigo_correto' após a normalização. Pulando esta fonte.")
         else:
-            print(f" -> AVISO: Arquivo de treinamento novo '{NOME_ARQUIVO_TREINO_NOVO}' não encontrado. Pulando esta fonte.")
+            print(
+                f" -> AVISO: Arquivo de treinamento novo '{NOME_ARQUIVO_TREINO_NOVO}' não encontrado. Pulando esta fonte.")
 
         # Concatena todos os exemplos em um único DataFrame
         if not lista_dfs_treino:
