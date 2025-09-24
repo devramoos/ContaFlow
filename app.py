@@ -13,7 +13,7 @@ from modelo_ia.classificador_sqlite import classificar_com_db
 # --- CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(
     page_title="MayperFlow",
-    page_icon=r"C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\favicon-32x32.png",
+    page_icon="favicon-32x32.png",
     layout="wide"
 )
 

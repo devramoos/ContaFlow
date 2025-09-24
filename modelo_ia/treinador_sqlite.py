@@ -8,13 +8,16 @@ from sklearn.pipeline import Pipeline
 from unidecode import unidecode
 
 # --- 1. CONFIGURAÇÕES ---
-# ===== CORREÇÃO APLICADA AQUI =====
-# Agora, o script procura o banco de dados na mesma pasta em que ele está.
-NOME_BANCO_DE_DADOS = r'..\contaflow.db'  # Nome do arquivo do banco de dados SQLite
-# ==================================
+PASTA_RAIZ_PROJETO = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
+CAMINHO_BANCO_DE_DADOS = os.path.join(PASTA_RAIZ_PROJETO, 'contaflow.db')
+NOME_MODELO_IA = 'modelo_classificador_avancado.pkl'
 
-# Nome do "cérebro" da IA que será gerado nesta pasta
-NOME_MODELO_IA = 'contaflow.db'
+# Nomes dos arquivos de treinamento
+NOME_ARQUIVO_TREINO_ANTIGO = 'base_de_treinamento_ia.csv'
+NOME_ARQUIVO_TREINO_NOVO = 'base_de_treinamento_completa.csv'
+
+CAMINHO_TREINO_ANTIGO = os.path.join(PASTA_RAIZ_PROJETO, 'base_de_conhecimento', NOME_ARQUIVO_TREINO_ANTIGO)
+CAMINHO_TREINO_NOVO = os.path.join(PASTA_RAIZ_PROJETO, 'base_de_conhecimento', NOME_ARQUIVO_TREINO_NOVO)
 
 
 def normalizar_texto(texto):
@@ -25,39 +28,56 @@ def normalizar_texto(texto):
 
 def treinar_modelo_com_db():
     """
-    Lê os dados de treinamento diretamente do banco de dados SQLite
-    e treina um modelo de IA robusto.
+    Lê dados de MÚLTIPLAS FONTES (método antigo e novo) para treinar um modelo de IA híbrido e mais robusto.
     """
-    print("--- INICIANDO TREINAMENTO AVANÇADO DO MODELO DE IA (VERSÃO BANCO DE DADOS) ---")
+    print("--- INICIANDO TREINAMENTO HÍBRIDO DO MODELO DE IA (MÚLTIPLAS FONTES) ---")
+    lista_dfs_treino = []
 
     try:
-        # Conecta-se ao banco de dados
-        if not os.path.exists(NOME_BANCO_DE_DADOS):
-            print(f"ERRO CRÍTICO: Banco de dados '{NOME_BANCO_DE_DADOS}' não encontrado na pasta atual.")
-            print(
-                "Por favor, execute o script 'migrador_csv_para_sqlite.py' primeiro e verifique se o .db está na mesma pasta.")
+        # --- FONTE 1: PLANO DE CONTAS (OFICIAL) ---
+        if not os.path.exists(CAMINHO_BANCO_DE_DADOS):
+            raise FileNotFoundError(f"ERRO CRÍTICO: Banco de dados '{CAMINHO_BANCO_DE_DADOS}' não encontrado.")
+        conexao = sqlite3.connect(CAMINHO_BANCO_DE_DADOS)
+        df_mestre = pd.read_sql_query("SELECT * FROM plano_de_contas", conexao)
+        conexao.close()
+        df_mestre.dropna(subset=['subgrupo', 'codigo'], inplace=True)
+        exemplos_oficiais = df_mestre[['subgrupo', 'codigo']].rename(columns={'subgrupo': 'texto'})
+        lista_dfs_treino.append(exemplos_oficiais)
+        print(f" -> FONTE 1: {len(exemplos_oficiais)} exemplos oficiais carregados do banco de dados.")
+
+        # --- FONTE 2: TREINAMENTO ANTIGO (APENAS DESCRIÇÃO) ---
+        if os.path.exists(CAMINHO_TREINO_ANTIGO):
+            # ===== CORREÇÃO APLICADA AQUI =====
+            df_treino_antigo = pd.read_csv(CAMINHO_TREINO_ANTIGO, sep=';', header=0, names=['DescricaoExemplo', 'CodigoCorreto'], encoding='latin-1')
+            df_treino_antigo.dropna(subset=['DescricaoExemplo', 'CodigoCorreto'], inplace=True)
+            exemplos_antigos = df_treino_antigo.rename(columns={'DescricaoExemplo': 'texto', 'CodigoCorreto': 'codigo'})
+            lista_dfs_treino.append(exemplos_antigos)
+            print(f" -> FONTE 2: {len(exemplos_antigos)} exemplos (descrição) carregados de '{NOME_ARQUIVO_TREINO_ANTIGO}'.")
+        else:
+            print(f" -> AVISO: Arquivo de treinamento antigo '{NOME_ARQUIVO_TREINO_ANTIGO}' não encontrado. Pulando esta fonte.")
+
+        # --- FONTE 3: TREINAMENTO NOVO (GRUPO + SUBGRUPO + DESCRIÇÃO) ---
+        if os.path.exists(CAMINHO_TREINO_NOVO):
+            # ===== CORREÇÃO APLICADA AQUI =====
+            df_treino_novo = pd.read_csv(CAMINHO_TREINO_NOVO, sep=';', encoding='latin-1')
+            df_treino_novo.dropna(subset=['descricao', 'codigo_correto'], inplace=True)
+            # Combina as colunas para criar o texto de contexto
+            df_treino_novo['texto'] = df_treino_novo['grupo'].fillna('') + ' ' + \
+                                      df_treino_novo['subgrupo'].fillna('') + ' ' + \
+                                      df_treino_novo['descricao'].fillna('')
+            exemplos_novos = df_treino_novo[['texto', 'codigo_correto']].rename(columns={'codigo_correto': 'codigo'})
+            lista_dfs_treino.append(exemplos_novos)
+            print(f" -> FONTE 3: {len(exemplos_novos)} exemplos (contexto) carregados de '{NOME_ARQUIVO_TREINO_NOVO}'.")
+        else:
+            print(f" -> AVISO: Arquivo de treinamento novo '{NOME_ARQUIVO_TREINO_NOVO}' não encontrado. Pulando esta fonte.")
+
+        # Concatena todos os exemplos em um único DataFrame
+        if not lista_dfs_treino:
+            print("ERRO CRÍTICO: Nenhuma fonte de dados para treinamento foi encontrada.")
             return
 
-        conexao = sqlite3.connect(NOME_BANCO_DE_DADOS)
-
-        # Carrega a base de treinamento e o plano de contas do banco de dados
-        df_treino_real = pd.read_sql_query("SELECT * FROM base_de_treinamento", conexao)
-        df_mestre = pd.read_sql_query("SELECT * FROM plano_de_contas", conexao)
-
-        conexao.close()
-
-        df_treino_real.dropna(subset=['descricao', 'codigo_correto'], inplace=True)
-        print(f" -> {len(df_treino_real)} exemplos reais carregados do banco de dados.")
-
-        df_mestre.dropna(subset=['subgrupo', 'codigo'], inplace=True)
-        print(f" -> {len(df_mestre)} contas oficiais carregadas do banco de dados.")
-
-        # Junta os exemplos do mundo real com os nomes oficiais do plano de contas
-        exemplos_reais = df_treino_real.rename(columns={'descricao': 'texto', 'codigo_correto': 'codigo'})
-        exemplos_oficiais = df_mestre[['subgrupo', 'codigo']].rename(columns={'subgrupo': 'texto'})
-
-        df_treino_completo = pd.concat([exemplos_reais, exemplos_oficiais], ignore_index=True)
-        print(f" -> Total de {len(df_treino_completo)} exemplos para treinamento.")
+        df_treino_completo = pd.concat(lista_dfs_treino, ignore_index=True)
+        print(f"\n -> Total de {len(df_treino_completo)} exemplos combinados para o treinamento.")
 
     except Exception as e:
         print(f"ERRO CRÍTICO ao preparar os dados de treinamento: {e}")
@@ -73,16 +93,18 @@ def treinar_modelo_com_db():
         ('classifier', LogisticRegression(random_state=42, max_iter=1000, class_weight='balanced'))
     ])
 
-    print(" -> Treinando o modelo com dados do banco de dados...")
+    print(" -> Treinando o modelo com todas as fontes de dados...")
     pipeline_ia.fit(X_treino, y_treino)
-    joblib.dump(pipeline_ia, NOME_MODELO_IA)
 
-    print(f"\n✅ SUCESSO! O modelo de IA foi treinado com os dados centralizados e está mais inteligente!")
-    print(f"   O novo cérebro da IA está salvo em: '{NOME_MODELO_IA}'")
+    # Salva o modelo treinado na pasta correta
+    caminho_modelo_salvo = os.path.join(os.path.dirname(__file__), NOME_MODELO_IA)
+    joblib.dump(pipeline_ia, caminho_modelo_salvo)
+
+    print(f"\n✅ SUCESSO! O modelo de IA foi treinado com os dados combinados e está mais inteligente!")
+    print(f"   O novo cérebro da IA está salvo em: '{caminho_modelo_salvo}'")
 
 
 if __name__ == "__main__":
-    # Verifica se as bibliotecas necessárias estão instaladas
     try:
         import sklearn
         from unidecode import unidecode

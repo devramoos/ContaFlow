@@ -1,333 +1,785 @@
 ﻿Data;DescricaoOriginal;Valor;Débito;Crédito;GrupoClassificado;SubgrupoClassificado;Metodo;Confianca
-03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO DUTRA LUCIANO;180,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-03/02/2025;PROLABORE |0042 ZANONI PROLABORE;-50,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;DESPESAS COM VIAGEM |0190 MAYANDRA DESPESAS COM VIAGENS;-107,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03706251490652758
-03/02/2025;PROLABORE |0042 ZANONI PROLABORE;-20,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: MARCELO SALES ZANFORLIM DIAS;2108,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011728062655498377
-04/02/2025;SUPERMERCADOS |0151 SUPER NOSSO BELO HORIZONTE;-20,98;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: LÁZARA DAUREA FROES TAVARES;2085,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: VENETO ODONTOLOGIA;2460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ANDRE AZEVEDO NEVES;1928,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-03/02/2025;CRC LIGACOES| CRC RAQUEL;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;CRC LIGACOES| CRC TALITA;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;CRC LIGACOES| CRC TABATA;-100,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;DIVERSOS| CESTA DOAÇÃO;-150,0;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,015522633708660074
-05/02/2025;DESPESAS COM VIAGEM |0190 MAYANDRA DESPESAS COM VIAGENS;-234,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03706251490652758
-04/02/2025;Pgto de serviço(s) realizado(s) | Cliente: RAFAELLA MENDES (MEM ODONTOLOGIA );1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-04/02/2025;TRANSPORTE| ABASTECIMENTO VIAGEM;-148,54;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03561962555595556
-04/02/2025;DIVERSOS| VIAGEM;-6,9;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-04/02/2025;DROGARIA ARAUJO BELO HORIZONTE| VIAGEM;-16,96;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-04/02/2025;ALIMENTAÇÃO| VIAGEM;-12,0;521,0;;Despesas Administrativas;Vale-alimentação ;IA (Contexto);0,0663416568320731
-04/02/2025;TRANSPORTE| ABASTECIMENTO VIAGEM;-100,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03561962555595556
-04/02/2025;ALIMENTAÇÃO| VIAGEM ITAUNA;-14,0;521,0;;Despesas Administrativas;Vale-alimentação ;IA (Contexto);0,0663416568320731
-04/02/2025;DIVERSOS| PEDAGIO DIVINOPOLIS;-8,2;705,0;;Custos;Deslocamentos;IA (Contexto);0,03467813698853669
-04/02/2025;CRC LIGACOES| CRC ELISE;-100,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-04/02/2025;DIVERSOS| RONAN LOGISTICA;-100,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-03/02/2025;EMPRESTIMO SICOOB PRONAMP| EMPRESTIMO PRONAMP;-1636,62;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,0627771542773819
-05/02/2025;Estorno C.ReceberLanç/Cliente 30/01/25 TATHIANE GUIMARAES DE;-5435,0;594,0;;Despesas administrativas;Copa e cozinha;IA (Contexto);0,012076779731003703
-05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: SALITTE ODONTOLOGIA;976,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: SMART ODONTO BETIM LTDA;4356,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012548171910441682
-05/02/2025;PROLABORE |0042 ZANONI PROLABORE;-270,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: PRIMAR ODONTOLOGIA( CRISTIANE JUNQUEIRA);1008,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-06/02/2025;DESPESAS COM VIAGEM |0190 MAYANDRA DESPESAS COM VIAGENS;-234,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03706251490652758
-06/02/2025;Pgto de serviço(s) realizado(s) | Cliente: VANESSA CRISTINA PEREIRA LUCAS FERREIRA;1150,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012589709334053838
-06/02/2025;Pgto de serviço(s) realizado(s) | Cliente: TRATAR ODONTOLOGIAAA EPECIALIZADA;1880,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-06/02/2025;DIVERSOS| ROBERTO ENCANAMENTO;-110,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-06/02/2025;DIVERSOS| ALCOOL ISOPROPILICO;-149,5;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-09/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-52,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ARMOND ODONTOLOGIA;1651,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: GISELE MOREIRA SIMM (IT SOLUT);501,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-07/02/2025;DOUGLAS | SALÁRIO;-839,18;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-07/02/2025;KLEITON| MOTOBOY;-2430,36;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-07/02/2025;GABRIELA | SALÁRIO;-1029,73;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-07/02/2025;HIPOLITA| SALÁRIO;-1231,86;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-07/02/2025;VAGNER BOY| SALÁRIO;-904,19;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-07/02/2025;PAULO HENRIQUE| SALÁRIO;-839,19;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-07/02/2025;PEDRO| SALÁRIO;-720,55;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-07/02/2025;MAYANDRA CONSULTORA IT| SALÁRIO;-904,19;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012079562645908285
-10/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-170,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: BARBARA CRISTINA LOPES;4088,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012589709334053838
-10/02/2025;DIVERSOS| SEGURO SICOOB;-71,26;358,0;;Despesas Administrativas;Seguro de vida ;IA (Contexto);0,0210323664096466
-10/02/2025;DIVERSOS| SEGURO SICOOB;-119,18;358,0;;Despesas Administrativas;Seguro de vida ;IA (Contexto);0,0210323664096466
-10/02/2025;DIVERSOS| SEGURO PRESTAMISTA;-8,4;358,0;;Despesas Administrativas;Seguro de vida ;IA (Contexto);0,0210323664096466
-11/02/2025;VISITA COMERCIAL|0190 MAYANDRA DESPESAS COM VIAGENS;-117,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-11/02/2025;SUPERMERCADO|0151 SUPER NOSSO BELO HORIZONTE;-59,56;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ORO ODONTOLOGIA;3050,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-11/02/2025;Transf. |Origem:SICOOB-Destino:CONTA GERENCIAL FOLHA DE PAGAMENTO;-1000,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,01118649538089292
-11/02/2025;Transf. |Origem:SICOOB-Destino:CONTA GERENCIAL FOLHA DE PAGAMENTO;-3000,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,01118649538089292
-11/02/2025;Transf. |Origem:SICOOB-Destino:CONTA GERENCIAL FOLHA DE PAGAMENTO;-5005,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,01118649538089292
-11/02/2025;Transf. |Origem:SICOOB-Destino:CONTA GERENCIAL FOLHA DE PAGAMENTO;-5056,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,01118649538089292
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ELIODONTO BOM PASTOR LTDA;1550,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012548171910441682
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: VIRTUS ODONTOLOGIA Crislayne Prates;2575,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: RODRIGO HENRIQUE CUNHA SANTOS;120,0;;750,0;Custos;Ajuda de custo;IA (Contexto);0,01741409884803034
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: AVANTI CLÍNICA ODONTOLÓGICA;460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: MARCELA B DA SILVA;496,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011450667639762708
-11/02/2025;PROLABORE |0042 ZANONI PROLABORE;-3900,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ANDRE AZEVEDO NEVES;600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-11/02/2025;SCANER TRIOS|0087 DENTAL CREMMER;-2242,48;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,011440239580575922
-07/02/2025;DIVERSOS| CORREIOS;-29,0;357,0;;Despesas Administrativas;Correios ;IA (Contexto);0,07955517756441483
-11/02/2025;SALA 1202|0210 EVOLUA;-896,37;354,0;;Custos;Energia elétrica;IA (Contexto);0,012974357048611223
-11/02/2025;COMPONENTES |0086 NEODENT STRAUMANN;-2186,17;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,012844519082565712
-11/02/2025;GESSO ESPECIAL FUJI |0010 DENTAL FREE COMERCIO DE MATERIAIS ODONTOLOGICOS;-265,9;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,0192239300809007
-10/02/2025;URGETEC -CONSUTORIA E TREINAMENTO| URGETEC;-452,61;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,01383004870231183
-10/02/2025;IPONTO| IPONTO;-160,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-10/02/2025;CONDOMINIO| MENSAL;-1251,68;740,0;;Custos;Aluguel de imóvel;IA (Contexto);0,01253143365596609
-10/02/2025;DENTAL FREE COMERCIO DE MATERIAIS ODONTOLOGICOS| BLOCOS NOTA 000091213;-2561,02;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,018518026828081707
-10/02/2025;DENTAL FREE COMERCIO DE MATERIAIS ODONTOLOGICOS| FOTOPOLIMERIZADOR VALO GRAND CORDLESS CU;-698,99;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,022128101210203192
-11/02/2025;SALA 1201|0210 EVOLUA;-375,51;354,0;;Custos;Energia elétrica;IA (Contexto);0,012974357048611223
-10/02/2025;MPOODONTO | Brocas pedras md , mv;-277,66;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-10/02/2025;NAYARA IT | PAGAMENTO;-1250,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,017402998726046767
-10/02/2025;DIVERSOS| PACOTE DE SERVIÇOS;-79,9;467,0;;Custos;Terceirização de produção;IA (Contexto);0,013151179404188518
-10/02/2025;DIVERSOS| TARIFA RENOVAÇÃO LIMITE CONTA GARANTIDA;-12,0;354,0;;Custos;Energia elétrica;IA (Contexto);0,012510063337966794
-11/02/2025;VISITA COMERCIAL|0190 MAYANDRA DESPESAS COM VIAGENS;-234,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-11/02/2025;CRC ELISE |0165 CRC LIGACOES;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;CRC TALITA|0165 CRC LIGACOES;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;CRC RAQUEL|0165 CRC LIGACOES;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;RECARGA CELULAR| RECARGA CELULAR TALITA;-35,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;RECARGA CELULAR| RECARGA COMERCIAL CRC;-35,0;713,0;;Despesas Comerciais;Comercial/Marketing;IA (Contexto);0,01600348870452821
-11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO DUTRA LUCIANO;500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: MATHEUS LUIS SOARES DE FARIA;1920,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014062118110199527
-11/02/2025;DIVERSOS| PEGAGIO DIVINOPOLIS;-8,2;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;ALIMENTAÇÃO| ALIMENTAÇÃO VIAGEM;-24,9;521,0;;Despesas Administrativas;Vale-alimentação ;IA (Contexto);0,0663416568320731
-11/02/2025;DIVERSOS| ESTACIONAMENTO VIAGEM;-5,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;DIVERSOS| ESTACIONAMENTO VIAGEM;-5,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-11/02/2025;ALIMENTAÇÃO| ALIMENTAÇÃO VIAGEM;-21,0;521,0;;Despesas Administrativas;Vale-alimentação ;IA (Contexto);0,0663416568320731
-11/02/2025;DIVERSOS| PEDAGIO DIVINOPOLIS;-8,2;705,0;;Custos;Deslocamentos;IA (Contexto);0,03467813698853669
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: SOURINE BLANC ODONTOLOGIA;976,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: BRUNO FARIA (IT SOLUTION);400,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012362267182423132
-11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: BRYAN FONSECA (ORAL UNIC ODONTOLOGIA DIV;1360,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-12/02/2025;DENTAL TIRADENTES| INSUMOS;-552,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,013934126160775261
-12/02/2025;CDL| MENSAL;-71,4;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-12/02/2025;EMPRESTIMO SICOOB CAPITAL DE GIRO 30.000,00| EMPRESTIMO SICOOB;-2271,42;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,03342752730981291
-12/02/2025;EMBALAGENS E PAPELARIA | MANTA EMBALAGEM;-85,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,07377167031786931
-12/02/2025;PROLABORE |0042 ZANONI PROLABORE;-1360,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ANTONIO DIAS NETO;15982,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011717734929652399
-13/02/2025;FOLHAS RECORTE GRAFICA|0023 DIVERSOS;-90,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-13/02/2025;FGTS| FGTS;-1743,27;192,0;;Custos;FGTS;IA (Contexto);0,04808395316983724
-13/02/2025;VISITA COMERCIAL|0190 MAYANDRA DESPESAS COM VIAGENS;-234,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-13/02/2025;UNIMED (CDL )| PLANO DE SAÚDE;-2030,1;528,0;;Despesas Administrativas;Plano de saúde colaboradores ;IA (Contexto);0,016604981470005064
-13/02/2025;TALMAX| Brocas - NF 000095621;-549,88;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,012397632329382553
-13/02/2025;Pgto de serviço(s) realizado(s) | Cliente: PRO ODONTO (DR.JHONI);1200,0;;188,0;Custos;Pró-labore ;IA (Contexto);0,02690900347861057
-14/02/2025;Pgto de serviço(s) realizado(s) | Cliente: INFINITA ODONTOLOGIA LTDA(DRA RENATA);250,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011874196643763215
-17/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-100,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-14/02/2025;DROGARIA ARAUJO BELO HORIZONTE| DROGARIA;-11,97;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-17/02/2025;MAPFRE SEGUROS| SEGURO;-61,12;358,0;;Despesas Administrativas;Seguro de vida ;IA (Contexto);0,035436587693427085
-17/02/2025;PROLABORE |0042 ZANONI PROLABORE;-50,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-17/02/2025;EMPRESTIMO SICOOB CAPITAL DE GIRO 30.000,00| PARCELADO 36 * Data Vencimento: 15/04/202;-1399,11;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,01842385383763885
-17/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-50,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-13/02/2025;TRANSPORTE| ABASTECIMENTO VIAGEM;-50,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03561962555595556
-20/02/2025;Transf. |Origem:SICOOB-Destino:CONTA GERENCIAL Foha de pagamento;-5005,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,011977936628935771
-20/02/2025;Transf. |Origem:SICOOB-Destino:CONTA GERENCIAL folha de pagamento;-5034,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,01118649538089292
-20/02/2025;VISITA COMERCIAL|0190 MAYANDRA DESPESAS COM VIAGENS;-117,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-20/02/2025;CRC ELISE |0165 CRC LIGACOES;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-20/02/2025;CRC RAQUEL|0165 CRC LIGACOES;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-18/02/2025;CRC LIGACOES| CRC TALITA;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-18/02/2025;ANA PAULA TERCEIRIZAÇÃO| PAGAMENTO MENSAL;-805,7;192,0;;Custos;FGTS;IA (Contexto);0,016316062099425876
-20/02/2025;DISCO DE ZIRCONIA FIT PLUS |0087 DENTAL CREMMER;-901,19;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,012102810009476871
-20/02/2025;INSUMOS|0160 TALMAX;-820,87;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,012789503423603882
-20/02/2025;9 SCANBOODY SCAN INTRAORAL 918|0238 CIA DO IMPLANTE;-468,48;732,0;;Custos;Outros custos;IA (Contexto);0,023616827030880593
-20/02/2025;0087 DENTAL CREMMER;-156,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,011440239580575922
-18/02/2025;IPTU GARAGEM| GRAGEM 03;-47,57;348,0;;Custos;IPTU;IA (Contexto);0,22754115320655
-18/02/2025;IPTU GARAGEM| GARAGEM 4;-50,03;348,0;;Custos;IPTU;IA (Contexto);0,22754115320655
-18/02/2025;IPTU| IPTU SALA 601;-185,87;348,0;;Custos;IPTU;IA (Contexto);0,16720406820783748
-18/02/2025;IPTU| IPTU SALA 1201;-215,91;348,0;;Custos;IPTU;IA (Contexto);0,16720406820783748
-18/02/2025;Pgto de serviço(s) realizado(s) | Cliente: VICTOR VENEROSO FIGUEIREDO PINTO;1460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012512834892884505
-18/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CRISTIANE JUNQUEIRA DE SOUZA;1300,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014062118110199527
-18/02/2025;ALUGUEL(LOCAÇÃO)| SALA 601;-938,35;740,0;;Custos;Aluguel de imóvel;IA (Contexto);0,019444799267877292
-18/02/2025;ALUGUEL(LOCAÇÃO)| ALUGUEL SALAS 1201 E 1202;-2815,06;740,0;;Custos;Aluguel de imóvel;IA (Contexto);0,03103274155561454
-18/02/2025;IPTU| IPTU SALA 1202;-215,91;348,0;;Custos;IPTU;IA (Contexto);0,16720406820783748
-18/02/2025;Pgto de serviço(s) realizado(s) | Cliente: DANIELA PEDRO DE ALMEIDA;1310,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013064393837395927
-20/02/2025;VISITA COMERCIAL|0190 MAYANDRA DESPESAS COM VIAGENS;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-20/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-100,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-19/02/2025;Pgto de serviço(s) realizado(s) | Cliente: LUMER SARZEDO + Sorrisos clínica;10370,48;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-19/02/2025;Pgto de serviço(s) realizado(s) | Cliente: KARLA BEATRIZ ARRUDA SILVEIRA;1640,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLINICA ODONTOLOGICA MARQUES LTDA;25484,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01191229864396954
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: LUMER IGARAPE(PALHARES E MARQUES);6106,31;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012298487514024941
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLINICA ODONTOLOGIA ODONTOBARRETO;5000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: INFINITA ODONTOLOGIA LTDA(DRA RENATA);600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011874196643763215
-20/02/2025;DIVERSOS| RESERVAS CADEIRA EVENTO;-165,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-20/02/2025;DIVERSOS| MART MINAS;-139,9;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-20/02/2025;SIMPLES NACIONAL| SIMPLES NACIONAL;-11647,64;479,0;;Impostos sobre Vendas e sobre Serviços;Simples Nacional - DAS ;IA (Contexto);0,06324410948576553
-20/02/2025;INSS/IRRF| INSS;-5000,18;191,0;;Custos;INSS;IA (Contexto);0,17292062965753915
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: MANOELA PETERMANN FIGUEIREDO;460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-20/02/2025;EMPRESTIMO SCANNER CEREC| BOLETO EMPRESTIMO CEREC;-2664,25;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,040815405319558816
-20/02/2025;VITOR ABREU| PAGAMENTO MENSAL;-6000,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,017402998726046767
-20/02/2025;WERVENTON BOY BRUMADINHO | MOTOBOY;-900,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-20/02/2025;DIVERSOS| MOTOBOY ITABIRITO;-315,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-21/02/2025;SCANNER MEDIT |0232 SCANNER MEDIT SIN;-2393,45;570,0;;Atividades de investimentos;Aquisição de imobilizado;IA (Contexto);0,0138728714411838
-20/02/2025;TALMAX| BROCAS (COMPRA FEITA 16/11/2023) NOTA 435;-466,69;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,012361620300330391
-20/02/2025;DDO Materiais Prot. Dentária Ltda| COMPRA DE INSUMOS;-1549,79;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,015899180360592794
-20/02/2025;CIA DO IMPLANTE| SCAN INTRA ORAL;-131,0;732,0;;Custos;Outros custos;IA (Contexto);0,023616827030880593
-20/02/2025;TALMAX| Fresadora B42 Sem milbox (Irá utilizar o Milbox que já possui) Entrada R$ 30.000,;-4060,0;739,0;;Custos;Aluguel de máquinas e equipamentos;IA (Contexto);0,017481193972400496
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: LORENA MOREIRA FONSECA;480,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-04/02/2025;Pgto de serviço(s) realizado(s) | Cliente: EDSON XAVIER;1540,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-29/01/2025;Pgto de serviço(s) realizado(s) | Cliente: CLINICA ELEVATA LTDA;380,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012548171910441682
-21/02/2025;CRC LIGACOES| PREMIO MARIA;-152,3;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-22/02/2025;VISITA COMERCIAL|0190 MAYANDRA DESPESAS COM VIAGENS;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-25/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-150,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-24/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ANTONIO DIAS NETO;1542,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011717734929652399
-24/02/2025;MAYANDRA DESPESAS COM VIAGENS | VISITA COMERCIAL;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,025578060076421175
-24/02/2025;Pgto de serviço(s) realizado(s) | Cliente: VENETO ODONTOLOGIA;1920,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-24/02/2025;Pgto de serviço(s) realizado(s) | Cliente: PRADO ODONTOLOGIA;3870,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-24/02/2025;ZANONI DL| ANTECIPAÇÃO DL ZANONI;-755,0;785,0;;Atividades de financiamentos;Antecipação de recebíveis;IA (Contexto);0,013615386434561231
-24/02/2025;DIVERSOS| ESTACIONAMENTO;-3,5;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-25/02/2025;DESPESAS COM VIAGENS |0190 MAYANDRA DESPESAS COM VIAGENS;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03039433727342405
-25/02/2025;MAYANDRA DESPESAS COM VIAGENS | DESPESAS COM VIAGENS;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03039433727342405
-25/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-50,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-18/02/2025;Pgto de serviço(s) realizado(s) | Cliente: BRUNA MARTINS GALDINO DIAMANTINO;2023,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ELIODONTO BOM PASTOR LTDA;1550,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012548171910441682
-21/02/2025;Pgto de serviço(s) realizado(s) | Cliente: TATHIANE GUIMARAES DE OLIVEIRA (DIVINO;500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014062118110199527
-25/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-50,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-25/02/2025;PROLABORE |0042 ZANONI PROLABORE;-280,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-25/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-50,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-25/02/2025;Estorno de crédito | Cliente: SMART ODONTO BH;-380,0;534,0;;N/A;N/A;IA (Contexto);0,07006648646329765
-26/02/2025;Transf. |Origem:APLICAÇÃO SICOOB-Destino:SICOOB RESGATE RDC;11200,0;;362,0;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,010978844129757429
-17/02/2025;ZANONI PROLABORE | PROLABORE;-230,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-12/02/2025;TRANSPORTE| ABASTECIMENTO COMERCIAL;-50,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,024815224253878214
-19/02/2025;DIVERSOS| CAIXINHAS EMBALAGEM;-80,0;570,0;;Atividades de investimentos;Aquisição de imobilizado;IA (Contexto);0,010437189200475183
-19/02/2025;TRANSPORTE| ABASTECIMENTO VIAGEM;-50,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03561962555595556
-19/02/2025;DIVERSOS| BOLO ANIVERSARIANTES DO MÊS;-107,68;732,0;;Custos;Outros custos;IA (Contexto);0,017495820159446118
-20/02/2025;FGTS| FGTS;-1463,24;192,0;;Custos;FGTS;IA (Contexto);0,04808395316983724
-20/02/2025;SIMPLES DENTAL PROGRAMA| SIMPLES DENTAL;-2406,77;479,0;;Impostos sobre Vendas e sobre Serviços;Simples Nacional - DAS ;IA (Contexto);0,027156029870053063
-20/02/2025;SOLDA| SOLDA;-225,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-12/02/2025;SIMPLES DENTAL PROGRAMA| SIMPLES IT SERVIÇE;-3538,46;479,0;;Impostos sobre Vendas e sobre Serviços;Simples Nacional - DAS ;IA (Contexto);0,03603661815409015
-12/02/2025;SIMPLES NACIONAL| SIMPLES NACIONAL;-6296,05;479,0;;Impostos sobre Vendas e sobre Serviços;Simples Nacional - DAS ;IA (Contexto);0,06324410948576553
-12/02/2025;SIMPLES NASCIONAL PAR| PARCELAMENTO;-1338,46;479,0;;Impostos sobre Vendas e sobre Serviços;Simples Nacional - DAS ;IA (Contexto);0,029576229392571395
-26/02/2025;JUROS PARCELAMENTO |0023 DIVERSOS;-14,34;433,0;;Receitas financeiras;Juros recebidos;IA (Contexto);0,0237312052951834
-21/02/2025;DIVERSOS| ESTACIONAMENTO;-20,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-25/02/2025;MAYANDRA DESPESAS COM VIAGENS | DESPESAS COM VIAGENS;-117,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03039433727342405
-27/02/2025;SILICONE ZETALABOR / GESSO ESPECIAL FUJI ROCK PASTEL|0010 DENTAL FREE COMERCIO DE MATERIAI;-372,59;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,011723825120297992
-27/02/2025;CONSULTORIA|0236 CONSULTORIA K2GO;-576,0;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,01383004870231183
-27/02/2025;CADEIRA OLSEN - |0231 OSLEN;-1817,51;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;INSUMOS NOTA 000383391|0086 NEODENT STRAUMANN;-361,04;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,015193021013342207
-27/02/2025;CONTABILIDADE|0158 CONTABILIDADE MAYPER;-1079,86;726,0;;Despesas Administrativas;Causas Trabalhistas ;IA (Contexto);0,015193930020917167
-27/02/2025;JJGC|0086 NEODENT STRAUMANN;-3185,12;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01264123741295079
-27/02/2025;MOTOR MARATHON |0010 DENTAL FREE COMERCIO DE MATERIAIS ODONTOLOGICOS;-116,75;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,022128101210203192
-27/02/2025;MOTOR ULTIMATE |0010 DENTAL FREE COMERCIO DE MATERIAIS ODONTOLOGICOS;-701,56;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,022128101210203192
-27/02/2025;INTERNET|0159 CONFIBER INTERNET;-305,17;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,029374530932387233
-27/02/2025;JJGC|0086 NEODENT STRAUMANN;-213,32;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01264123741295079
-27/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-50,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;DESPESAS COM VIAGENS |0190 MAYANDRA DESPESAS COM VIAGENS;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03039433727342405
-26/02/2025;Pgto de serviço(s) realizado(s) | Cliente: JUSSARA ALVES AGUIAR LIBRELON;350,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-26/02/2025;CRC LIGACOES| CRC ELISE;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-26/02/2025;CRC LIGACOES| CRC RAQUEL;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-26/02/2025;CRC LIGACOES| CRC TALITA;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;Pgto de serviço(s) realizado(s) | Cliente: SONHAR ODONTOLOGIA LTDA;410,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012548171910441682
-27/02/2025;Pgto de serviço(s) realizado(s) | Cliente: SONHAR ODONTOLOGIA LTDA;410,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012548171910441682
-27/02/2025;Pgto de serviço(s) realizado(s) | Cliente: INFINITA ODONTOLOGIA LTDA(DRA RENATA);750,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011874196643763215
-27/02/2025;SUPER NOSSO BELO HORIZONTE| SUPERMERCADO;-5,15;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;DIVERSOS| ALCOOL POSTO;-26,26;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;DIVERSOS| LOGISTICA DIVINOPOLIS;-150,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;DIVERSOS| MANUTENÇÃO CANETA PRODUÇÃO;-520,0;530,0;;Custos;Manutenção predial;IA (Contexto);0,027729814254969544
-27/02/2025;DROGARIA ARAUJO BELO HORIZONTE| DROGARIA;-10,88;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;DIVERSOS| ESTACIONAMENTO;-16,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-27/02/2025;MAYANDRA DESPESAS COM VIAGENS | DESPESAS COM VIAGENS;-95,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,03039433727342405
-28/02/2025;Estorno C.ReceberLanç/Cliente 03/02/25 FERNANDO DUTRA LUCIANO;-180,0;714,0;;Despesas comerciais;Fretes e carretos;IA (Contexto);0,0148490123405004
-11/02/2025;CARTAO SICOOB| 99 POP;-8,3;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| 99 POP;-15,3;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| 99 POP;-27,1;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| 99 POP;-21,9;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| UBER;-26,91;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-26,97;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-16,95;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-13,94;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-37,37;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-23,2;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-26,5;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-13,93;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-28,06;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-13,27;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-10,45;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-28,5;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-23,89;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-28,58;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-24,9;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-34,37;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-35,56;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-22,52;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-41,61;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-19,95;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-40,85;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| UBER;-40,16;547,0;;Despesas administrativas;Táxi, Uber e similares;IA (Contexto);0,021295757023297227
-11/02/2025;CARTAO SICOOB| MOVIDA;-176,41;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| TAMBASA ATACADISTA;-118,03;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| POSTO BARÃO;-142,06;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| DIGOOGAMING;-32,7;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| DENTAL MENSAL (VALOR REAL R$ 2.833,66);-2141,16;546,0;;Despesas administrativas;Bens de pequeno valor;IA (Contexto);0,01706689479387903
-11/02/2025;CARTAO SICOOB| DALIPLAST;-174,95;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| ALIMENTAÇÃO VIAGEM;-50,0;521,0;;Despesas Administrativas;Vale-alimentação ;IA (Contexto);0,02842668355338168
-11/02/2025;CARTAO SICOOB| MOVIDA;-265,04;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MAKERTECHLABSTECNOLO;-317,37;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| HT CLUB DOS SEM;-96,9;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| BESSER SOLUÇÕES;-460,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| GIRAFAS - ALIMENTAÇÃO VIAGEM;-45,0;521,0;;Despesas Administrativas;Vale-alimentação ;IA (Contexto);0,02842668355338168
-11/02/2025;CARTAO SICOOB| OMEGA PALACE HOTEL;-161,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| 3B EVENTOS - IDENTIFICAR COMPRA;-57,0;712,0;;Despesas comerciais;Congressos, feiras e eventos;IA (Contexto);0,02066901475853578
-11/02/2025;CARTAO SICOOB| 3B EVENTOS - IDENTIFICAR COMPRA;-57,0;712,0;;Despesas comerciais;Congressos, feiras e eventos;IA (Contexto);0,02066901475853578
-11/02/2025;CARTAO SICOOB| GONTIJO - IDENTIFICAR COMPRA;-133,72;534,0;;N/A;N/A;IA (Contexto);0,023434797656881712
-11/02/2025;CARTAO SICOOB| APCD - IDENTIFICAR COMPRA;-83,33;534,0;;N/A;N/A;IA (Contexto);0,023434797656881712
-11/02/2025;CARTAO SICOOB| TALMAX;-816,67;534,0;;N/A;N/A;IA (Contexto);0,02032981367314934
-11/02/2025;CARTAO SICOOB| AGENDOR;-265,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| DROGARIA ARAUJO;-17,96;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE;-31,99;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| AGENDOR;-5,3;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE;-82,92;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE EBAZAR;-79,99;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MP*AGPTECNOLOGIAEMIN;-679,9;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| EC *5PRODUTOS;-240,1;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| GO LINHA AEREAS;-53,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE;-276,13;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| JAIR OLEOS;-69,33;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| K2GO;-97,47;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| CNG SOLUÇÕES;-910,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE;-43,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MOPTEC;-100,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MEGASTAR;-268,4;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE;-13,3;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| CNG SOLUC PROTETICAS (IDENTIFICAR COMPRA);-323,25;534,0;;N/A;N/A;IA (Contexto);0,023434797656881712
-11/02/2025;CARTAO SICOOB| AGENDOR;-265,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MMTEC PROJET*Smar;-105,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| EQUIPINBOX - IMPRESSORA 3D;-87,95;534,0;;N/A;N/A;IA (Contexto);0,020367140679423287
-11/02/2025;CARTAO SICOOB| SEM MULTAS SERVIÇOS;-90,0;352,0;;Outras despesas;Multas e penalidades;IA (Contexto);0,029002857215049634
-11/02/2025;CARTAO SICOOB| MATERIAL GRAFICO;-196,0;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| METAIMPORTAÇÕES COMPRA FEITA DIA 17/10 (IDENTIFICAR);-595,0;534,0;;N/A;N/A;IA (Contexto);0,015586786308145232
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE COMPRA DIA 14/10 (IDENTIFICAR);-53,32;534,0;;N/A;N/A;IA (Contexto);0,014085966623232178
-11/02/2025;CARTAO SICOOB| VERISURE;-263,75;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| LATAM;-482,84;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| EMBALAGENS;-116,36;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,04448846929304033
-11/02/2025;CARTAO SICOOB| CLEIDERSON DE OLIVEIRA - IDENTIFICAR COMPRA 26/10;-120,62;534,0;;N/A;N/A;IA (Contexto);0,018542849253499884
-11/02/2025;CARTAO SICOOB| MERCADO LIVRE 30/09 IDENTIFICAR COMPRA;-98,4;534,0;;N/A;N/A;IA (Contexto);0,018661994495410575
-11/02/2025;CARTAO SICOOB| HOSTGATOR FLORIANOPOLIS (IDENTIFICAR COMPRA);-37,87;534,0;;N/A;N/A;IA (Contexto);0,023434797656881712
-11/02/2025;CARTAO SICOOB| PORTO SEGURO CIA (IDENTIFICAR COMPRA);-134,68;534,0;;N/A;N/A;IA (Contexto);0,017691803219966506
-11/02/2025;CARTAO SICOOB| TELA LCD;-157,56;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| MP*UNIVENDASML (23/02) - MONITOR COMPUTADOR CAD PRODRUÇÃO;-129,37;534,0;;N/A;N/A;IA (Contexto);0,01691825202161968
-11/02/2025;CARTAO SICOOB| AUTO CLAVE;-331,83;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| PROJETOR;-43,52;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-11/02/2025;CARTAO SICOOB| SEGURO MEDIT - RECEBER FILIPI PERFEITO;-168,35;534,0;;N/A;N/A;IA (Contexto);0,01660052316390762
-11/02/2025;CARTAO SICOOB| FELP FILM;-33,13;534,0;;N/A;N/A;IA (Contexto);0,031396740478887845
-27/02/2025;Pgto de serviço(s) realizado(s) | Cliente: ANDREZA MOREIRA PINTO;5831,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-28/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-50,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-28/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-32,95;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-28/02/2025;TRANSPORTE |0194 TRANSPORTE ZANONI;-100,0;492,0;;Despesas Administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,03450481127534185
-05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLIENTE NAO IDENTIFICADO TRANSFERENCIA;950,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012224401159883902
-07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLIENTE NAO IDENTIFICADO TRANSFERENCIA;5540,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012224401159883902
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLIENTE NAO IDENTIFICADO TRANSFERENCIA;968,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012224401159883902
-28/02/2025;DIVERSOS| FILTRO DE LINHA ESCRITÓRIO;-39,9;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,02712953909406697
-28/02/2025;LOGISTICA RONAN|0023 DIVERSOS;-230,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-28/02/2025;MEU SCANER|0230 MEU SCANER MAYPER (COMTABILIDADE );-234,81;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-28/02/2025;CERAMICA |0010 DENTAL FREE COMERCIO DE MATERIAIS ODONTOLOGICOS;-450,11;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,019213795082478186
-28/02/2025;FRESADORA LOCACAO|0160 TALMAX;-6324,93;739,0;;Custos;Aluguel de máquinas e equipamentos;IA (Contexto);0,013753257527367765
-28/02/2025;DIVERSOS| PIX;-120,8;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,02053699690461113
-28/02/2025;DIVERSOS| PIX;-37,46;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,02053699690461113
-28/02/2025;DIVERSOS| PIX;-21,74;736,0;;Despesas administrativas;Outras despesas administrativas;IA (Contexto);0,02053699690461113
-28/02/2025;DIVERSOS| LOGISTICA RONAN;-200,0;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-28/02/2025;DIVERSOS| MATERIAL DE ESCRITÓRIO;-34,0;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,07637663456273569
-28/02/2025;TRANSPORTE| DESPESAS COM VIAGENS;-120,0;778,0;;Despesas financeiras;Despesas com antecipações de recebíveis;IA (Contexto);0,02810600019814069
-28/02/2025;DIVERSOS| MATERIAL DE ESCRITÓRIO;-12,9;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,07637663456273569
-28/02/2025;SUPER NOSSO BELO HORIZONTE| SUPERMERCADO;-2,48;506,0;;Custos;Insumos de produção/Estoque ;IA (Contexto);0,01003973631975105
-28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: RAFAELLA MENDES (MEM ODONTOLOGIA );1216,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLINICA ODONTOLOGIA ODONTOBARRETO;4400,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013415052837978754
-28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLIENTE NAO IDENTIFICADO TRANSFERENCIA;2000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012224401159883902
-28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLIENTE NAO IDENTIFICADO TRANSFERENCIA;250,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012224401159883902
-28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: CLIENTE NAO IDENTIFICADO TRANSFERENCIA;250,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012224401159883902
-28/02/2025;Transf. |Origem:SICOOB-Destino:ALEX CONTA PESSOAL PAG CLIENTE PARTICULAR ALEX;-2000,0;354,0;;Custos;Energia elétrica;IA (Contexto);0,012447972247677519
+09/01/2025;juros e multas boletos Oral Unic;193,99;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/01/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+09/01/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS ENCERRAMENTO;-1280,07;191,0;;Custos;INSS;IA (Contexto);0,025092436355883214
+09/01/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-5886,75;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+09/01/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-2492,97;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+09/01/2025;DEBITO TARIFA DE COBRANÇA INSTRUÇOES;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/01/2025;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF EXAMES DEMISSIONAIS E ADMISSIONAIS;-120,0;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+09/01/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2347;-2125,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+09/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISCA P/ UNI P;6000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,04255727630707782
+09/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 DEPOSITO CHEQUE CUSTODIA;1200,0;;1,0;Atividades de caixa;-;IA (Contexto);0,036854030255558945
+09/01/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2554;-838,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+09/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 739450/1;-559,3;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+09/01/2025;BESSER PRODUTOS ODONTOLOGICOS| PGTO REF NFe 01157;-612,62;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0082156559024259
+09/01/2025;ODONTOVILLE H2T COMERCIO DE PRODUTOS E EQUIPMANETOS LTDA ME| PGTO REF MP NFe 032956;-564,7;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007334701859597969
+09/01/2025;DEBITO CUSTAS DE CARTORIO;-490,11;365,0;;Despesas administrativas;DESPESAS LEGAIS E JUDICIAIS;Regra (Subgrupo);1,0
+09/01/2025;DEVOLUCAO DE CHEQUE DEPOSITADO;-6000,0;377,0;;Outras despesas;INADIMPLÊNCIA DE CLIENTES;IA (Contexto);0,011215590147779885
+09/01/2025;DEBITO TARIFA COBRANÇA INSTRUÇÕES;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/01/2025;DEBITO TARIFA DE COBRANÇA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/01/2025;DEPOSITO EM CHEQUE 24H;6000,0;;377,0;Outras despesas;INADIMPLÊNCIA DE CLIENTES;IA (Contexto);0,01089406580201114
+09/01/2025;BAUER TRANSPORTES LTDA| 0012547765 PGTO REF FRETES E DESPACHOS;-46,99;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+09/01/2025;BAUER TRANSPORTES LTDA| PGTO REF FRETES E DESPACHOS;-154,22;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+09/01/2025;DENTAL CREMER PRODS. ODONT. S.A| PGTO REF MP NFe 769032;-376,63;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007877730736776464
+09/01/2025;BAUER TRANSPORTES LTDA| 1261674-1 PGTO REF FRETES E DESPACHOS;-386,5;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+09/01/2025;BAUER TRANSPORTES LTDA| PGTO REF FRETES E,DESPACHOS;-281,94;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+09/01/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP;-548,32;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+09/01/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP;-687,5;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+09/01/2025;DEVOLUÇÃO DE CHEQUE DEPOSITADO;-6000,0;377,0;;Outras despesas;INADIMPLÊNCIA DE CLIENTES;IA (Contexto);0,011215590147779885
+09/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Andrea Bresola;10000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+09/01/2025;DEBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/01/2025;DENTAL ITA| PGTO REF MP NFe 222427;-503,6;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008546505109657135
+09/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Karina Badalotti;2437,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011761183296475873
+09/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 DEPOSITO CHEQUE CUSTODIA 24H;5440,0;;1,0;Atividades de caixa;-;IA (Contexto);0,036854030255558945
+09/01/2025;CEPTIOM| PGTO REF MC NFe 9355;-350,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,010537569305321461
+09/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 761429/1;-331,81;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+09/01/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 2392211;-583,1;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+09/01/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 000135711;-374,44;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+09/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 774315/1;-325,25;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+09/01/2025;OSNI BOING & CIA LTDA;-2675,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+09/01/2025;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);-2491,74;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+09/01/2025;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);-275,36;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+09/01/2025;SUPERVISA SUPERMERCADOS LTDA| (CARTAO)PGTO REF PRODUTOS COPA E COZINHA;-64,97;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+09/01/2025;MOMENTUS WINE BAGS| PGTO REF EMBALAGENS PRESENTE CLIENTES (CARTAO);-576,71;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,013743521131328089
+09/01/2025;VINICULA PANCERI| PGTO REF VINHOS BRINDES CLIENTES (CARTAO);-1050,0;804,0;;Despesas Comerciais;BRINDES A FUNCIONARIOS;IA (Contexto);0,015029600851242575
+09/01/2025;MERCADO LIVRE| PGTO REF MAT DE ESCRITORIO (CARTAO);-271,26;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+09/01/2025;EXACT SALES SOFTWARE| PGTO REF SOFTWERE (CARTAO);-2343,0;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,009196138276224395
+09/01/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| pgto ref presente (AMIGO DA ONÇA) (CARTAO);-59,99;536,0;;Despesas administrativas;Confraternizações;IA (Contexto);0,014504212559342991
+09/01/2025;THAIS CARLA DE SOUZA| PGTO REF ROTULOS VINHOS (CARTAO);-168,42;536,0;;Despesas administrativas;Confraternizações;IA (Contexto);0,012399972033431161
+09/01/2025;CD ATACADO| PGTO REF EMBALAGENS PARA PRESENTES CLIENTES (CARTAO);-255,5;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,014049079822541567
+09/01/2025;SUPERMERCADO COPERCAMPOS| PGTO REF BRINDES DE NATAL COLABORADORES (CARTAO);-431,78;804,0;;Despesas Comerciais;BRINDES A FUNCIONARIOS;IA (Contexto);0,015809688496336776
+09/01/2025;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);-1918,31;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+09/01/2025;UNICRED OESTE SERRA| PGTO REF ANUIDADE CARTAO;-21,5;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/01/2025;XPRESSION CELULARES E COMPUTADORES| PGTO REF CONSERTO NOTEBOOK (CARTAO);-85,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+09/01/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICAÇÃO FINA;10855,92;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+10/01/2025;USIART INDUSTRIA C M LTDA ME| PGTO REF MC NFe 05941;-379,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008341137241164445
+10/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 72456/1;-329,13;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 734511/1;-1041,18;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/01/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICAÇÃO FINANCEIRA;-10855,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+10/01/2025;ODONTOVILLE H2T COMERCIO DE PRODUTOS E EQUIPMANETOS LTDA ME| PGTO REF MP NFe 033489;-1383,85;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007334701859597969
+10/01/2025;DENTAL ITA| PGTO REF MP NFe 235390;-251,3;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008546505109657135
+10/01/2025;EFF DENTAL COMPONENTES LTDA - FILIAL| PGTO REF MP NFe 104141/5;-601,28;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,00826438503032338
+10/01/2025;DEBITO CUSTAS GRAVAÇÃO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+10/01/2025;DEBITO CUSTAS GRAVAÇÃO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+10/01/2025;MATTES SERVIÇOS ELETRÔNICOS LTDA| PGTO REF MP NFe 010959;-241,53;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+10/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 776913/1;-359,8;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/01/2025;ODONTOVILLE H2T COMERCIO DE PRODUTOS E EQUIPMANETOS LTDA ME| PGTO REF MP NFe 033263;-893,33;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007334701859597969
+10/01/2025;DEBITO TARIFA DE COBRANÇA;-20,1;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+10/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Lea Dallanora;1800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+10/01/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF NFe 2530;-1876,32;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007719337535570384
+10/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 746357/1;-413,17;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/01/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 033745;-485,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+10/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 777488/1;-346,5;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 765100/1;-316,63;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Rafael José Bettiol;2598,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011762774538283591
+13/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;663,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;764,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;953,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;3198,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/01/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-7,6;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+13/01/2025;URGTEC CONSULTORIA E TREINAMENTO LTDA| PGTO REF RENOVAÇÃO LABFACIL;-458,4;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010695368277960245
+13/01/2025;BAUER TRANSPORTES LTDA| 1267574-7 PGTO REF FRETES E DESPACHOS;-187,96;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+13/01/2025;VEX TELECOMINICAÇÕES LTDA| PGTO REF INTERNET PRO LABORE;-119,9;188,0;;Custos;Pró-labore ;IA (Contexto);0,02141810664151817
+13/01/2025;ULTRATELECOM PROVEDORA DE INTERNET EIRELI| PGTO REF PLANO INTERNET+TELEFONE FIXO;-149,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,016028282025144936
+13/01/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO;-59,49;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+13/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 736155/1;-840,6;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+13/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 775747/1;-365,68;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+13/01/2025;CEPTIOM| PGTO REF MP NFe 9440;-273,77;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,00940761605615102
+13/01/2025;DENTAL ITA| PGTO REF MC NFe 228331;-517,3;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,009212844099798669
+15/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Clínica Odonto Mais Vida SS Ltda;598,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010651820182925684
+15/01/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSF DE UNI PJ PARA UNI FISI;-1500,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03340003885335527
+15/01/2025;INSTITUTO NACIONAL DA PROPRIEDADE| PGTO REF PROPRIEDADE DA MARCA;-298,0;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+15/01/2025;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;-2765,81;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+15/01/2025;CLAUDIO - ELETRICISTA| PGTO REF REPAROS ELETRICOS TROCA LED;-100,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+15/01/2025;EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA| PGTO REF CERTIFICADO DIGITAL;-220,0;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+15/01/2025;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;-1091,83;354,0;;Custos;Energia elétrica;Regra (Subgrupo);1,0
+15/01/2025;MIDIA LED PAINEIS LTDA ME| PGTO REF MARQUETING;-2000,0;597,0;;Despesas administrativas;MARKETING E PUBLICIDADE;Regra (Subgrupo);1,0
+16/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Camila Mattos Menegazzo Duarte;936,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+16/01/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| OGTO REF MATERIAL DE ESCRITORIO;-63,39;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+17/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ PJ U;2500,0;;1,0;Atividades de caixa;-;IA (Contexto);0,04255727630707782
+17/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;1000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+17/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO PARA UN;3000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,0430929535433791
+17/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;950,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+17/01/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;500,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+17/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;3758,01;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+17/01/2025;JUROS E MULTA BOLETO ORAL UNIC;40,27;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+17/01/2025;DEBITO DE CUSTAS DE CARTORIO ( BOLETO KARINA BADALOTTI Nº 243224 );-381,51;365,0;;Despesas administrativas;DESPESAS LEGAIS E JUDICIAIS;Regra (Subgrupo);1,0
+17/01/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2347;-2125,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+17/01/2025;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+17/01/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+17/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Rafaela Pagliosa Winter;739,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+17/01/2025;DEBITO TARIFA DE COBRANCA;-1,06;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+17/01/2025;FABIANA KEMER PANDOLPHO| VALE (ADIANTAMENTO DE SALARIO);-400,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,036310004446939624
+20/01/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-6137,78;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+20/01/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2554;-837,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+20/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 739450/1;-559,3;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+20/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 769000/1;-501,67;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+20/01/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-2098,77;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+20/01/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS + DARF;-2589,13;191,0;;Custos;INSS;IA (Contexto);0,03164134141096991
+20/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Clinica Sorria Mais Implantes;2599,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010886504723807307
+21/01/2025;BESSER PRODUTOS ODONTOLOGICOS| PGTO REF NFe 01157;-612,62;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0082156559024259
+21/01/2025;CEPTIOM| PGTO REF MP NFe 9440;-266,75;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,00940761605615102
+21/01/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+22/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Monalise Lazzari;3365,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+22/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;624,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+22/01/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+22/01/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+22/01/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+22/01/2025;AJUSTE DE SALDO;2,12;;533,0;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007247270359841436
+23/01/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 238932;-229,25;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+27/01/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP;-687,5;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+27/01/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-850,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+27/01/2025;BAUER TRANSPORTES LTDA| 12742665 PGTO REF FRETES E DESPACHOS;-137,35;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+27/01/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 000135711;-374,42;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+27/01/2025;BESSER PRODUTOS ODONTOLOGICOS| PGTO REF MP NFe 769032;-376,63;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0078222117960778
+28/01/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;-60,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+28/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 761429/1;-331,81;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+28/01/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;12100,11;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+28/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Alexssandra George;630,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+29/01/2025;CEPTIOM| PGTO REF MC NFe 9355;-350,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,010537569305321461
+31/01/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 774315/1;-325,26;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+31/01/2025;LUGANO CAFÉ CN| PGTO CAFÉ;-29,8;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+31/01/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+31/01/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+31/01/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+31/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;7519,42;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+31/01/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;8531,27;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+31/01/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+31/01/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+31/01/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICACAO FINANCEIRA;-12100,11;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+31/01/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 2392211;-583,1;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+31/01/2025;JUROS E MULTA BOLETO ORAL UNIC;193,87;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Ama Odontologia LTDA;307,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01197339908764461
+03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Cibeli Pilati;745,15;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+04/02/2025;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);-2491,74;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+04/02/2025;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);-275,36;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+04/02/2025;MOMENTUS WINE BAGS| PGTO REF EMBALAGENS PRESENTE CLIENTES (CARTAO);-576,71;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,013743521131328089
+04/02/2025;VINICULA PANCERI| PGTO REF VINHOS BRINDES CLIENTES (CARTAO);-1050,0;804,0;;Despesas Comerciais;BRINDES A FUNCIONARIOS;IA (Contexto);0,015029600851242575
+04/02/2025;THAIS CARLA DE SOUZA| PGTO REF ROTULOS VINHOS (CARTAO);-168,42;536,0;;Despesas administrativas;Confraternizações;IA (Contexto);0,012399972033431161
+04/02/2025;EXACT SALES SOFTWARE| PGTO REF ATUALIZAÇÃO SOFTWARE(CARTAO);-2343,0;741,0;;Custos;Aluguel de software;IA (Contexto);0,011575758579184187
+04/02/2025;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA(CARTAO);-1918,31;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+04/02/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO(CARTAO);-99,99;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+04/02/2025;CENTRO NOVO COMERCIO| PGTO REF COMBUSTIVEL(CARTAO);-88,05;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,008892231155559968
+04/02/2025;SUPERVISA SUPERMERCADOS LTDA| PGTO REF MATERIAL DE COPA E COZINHA(CARTAO);-60,25;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+04/02/2025;SUPERVISA SUPERMERCADOS LTDA| PGTO REF MATERIAL COPA E COZINHA(CARTAO);-7,99;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+30/01/2025;VOLNEI DE OLIVEIRA| PGTO REF VALE;-400,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,034778980912761895
+04/02/2025;USIART INDUSTRIA C M LTDA ME| PGTO REF MC NFe 05941;-379,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008341137241164445
+04/02/2025;GERALDO CARQUEIJO - CERA PARA ESCULTURA| PGTO REF CERAS RAINBOW;-277,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,00800512118625222
+04/02/2025;OSNI BOING & CIA LTDA;-2675,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+04/02/2025;VALMIR ANTONIO PESSOLI| PGTO REF SOLDA (TERCERIZADA METAL);-20,0;706,0;;Custos;Instrumentos de produção;IA (Contexto);0,009084694137936965
+05/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 734511/1;-1041,18;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+05/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 765100/1;-316,63;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+07/02/2025;EFF DENTAL COMPONENTES LTDA - FILIAL| PGTO REF MP NFe 104141/6;-601,3;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,00826438503032338
+07/02/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF NFe 2530;-1876,32;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007719337535570384
+07/02/2025;PAULA REGINA BUGANÇA| PGTO REF SALARIO FIXO JANEIRO;-1293,31;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,036048214686075275
+07/02/2025;JOSE CAZUNI DO AMARAL| PGTO REF SALARIO FIXO JANEIRO;-1486,13;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03772015184700802
+07/02/2025;WILLAMIS JOSE DO NASCIMENTO SILVA| PGTO REF SALARIO FIXO JANEIRO;-1488,42;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03361234323492129
+07/02/2025;FABIANA KEMER PANDOLPHO| PGTO REF ALARIO FIXO JANEIRO;-1535,78;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,05640611770554063
+07/02/2025;ELAINE BLOOT BASEI| PGTO REF SALARIO FIXO JANEIRO;-2061,9;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,039661652427245696
+07/02/2025;PAULA REGINA BUGANÇA| PGTO REF SALARIO FIXO JANEIRO;-1920,18;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,036048214686075275
+07/02/2025;Estorno C.P. Pgto: 07/02/2025 PAULA REGINA BUGANÇA;1293,31;;753,0;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,02651602069313095
+07/02/2025;VOLNEI DE OLIVEIRA| PGTO REF SALARIO FIXO JANEIRO;-1293,31;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,035708375432475424
+07/02/2025;ESSENTIAL IMPORTACAO E COM DE PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 001634;-2580,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007937327019499433
+07/02/2025;ODONTOVILLE H2T COMERCIO DE PRODUTOS E EQUIPMANETOS LTDA ME| PGTO REF MP NFe 033489;-1383,85;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007334701859597969
+07/02/2025;Transf. |Origem:BANCO UNICRED 1651013 F-Destino:BANCO UNICRED 165099-8 TRANSF DE UNICRED F;2100,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03480786280742767
+07/02/2025;AJUSTE DE SALDO;3,58;;533,0;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007247270359841436
+07/02/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+07/02/2025;Transf. |Origem:BANCO UNICRED 1651013 F-Destino:BANCO UNICRED 165099-8 TRANSF DE UNICRED F;100,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03480786280742767
+10/02/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+10/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 777488/1;-346,5;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 746357/5;-413,17;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/02/2025;URGTEC CONSULTORIA E TREINAMENTO LTDA| PGTO REF RENOVAÇÃO LABFACIL;-449,0;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010695368277960245
+10/02/2025;ULTRATELECOM PROVEDORA DE INTERNET EIRELI| PGTO REF PLANO INTERNET+TELEFONE FIXO;-149,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,016028282025144936
+10/02/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 033745;-485,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;663,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Renata Machado;779,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01124183765853869
+11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;953,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;7641,61;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+11/02/2025;JUROS E MULTAS BOLETO ORAL UNIC;63,68;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+11/02/2025;BAUER TRANSPORTES LTDA| 1285960-1 PGTO REF FRETES E DESPACHOS;-140,97;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+11/02/2025;BAUER TRANSPORTES LTDA| 1279301-4 PGTO REF FRETES E DESPACHOS;-187,96;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+11/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 736155/1;-840,6;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+12/02/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-7,6;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Rafaela Pagliosa Winter;876,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Karina Badalotti;3022,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011761183296475873
+12/02/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+12/02/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;764,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/02/2025;BAUER TRANSPORTES LTDA| 1284016-1 PGTO REF FRETES E DESPACHOS;-192,35;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+13/02/2025;BLUEDENT - ADRIANA PAULA T.I. GOMES IMPORTACAO E EXPORTACAO| PGTO REF MP NFe 10593;-525,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008289560239513211
+13/02/2025;DEBITO TARIFA DE COBRANCA;-20,1;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+13/02/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CX FISICA P/ UNI PJ;10650,0;;1,0;Atividades de caixa;-;IA (Contexto);0,04222979236715413
+13/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Clinica Sorria Mais Implantes;7860,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010886504723807307
+13/02/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF COMPRA DE LIXAS;-42,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,009075963608577207
+14/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Andrea Bresola;4000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+14/02/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-1320,17;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+14/02/2025;FABIANA KEMER PANDOLPHO| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-200,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,030893653037764517
+14/02/2025;VOLNEI DE OLIVEIRA| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-600,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,024803688182890263
+14/02/2025;ISABELLY ANDRADE DE ABREU LUGOVET| Prestação de Serviços de SDR para Scapini Dental Desi;-2700,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+17/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Camila Mattos Menegazzo Duarte;207,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+17/02/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2554;-837,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+17/02/2025;MIDIA LED PAINEIS LTDA ME| PGTO REF MARQUETING;-2000,0;597,0;;Despesas administrativas;MARKETING E PUBLICIDADE;Regra (Subgrupo);1,0
+17/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 769000/1;-501,67;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+17/02/2025;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;-739,04;354,0;;Custos;Energia elétrica;Regra (Subgrupo);1,0
+17/02/2025;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;-3176,33;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+17/02/2025;LA CN INFORMATICA LTDA ME| PGTO REF DESBLOQUEIO RELÓGIO;-50,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+17/02/2025;ISABELLY ANDRADE DE ABREU LUGOVET| Exploração de escritórios virtuais e congêneres;-100,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+18/02/2025;SUPERVISA SUPERMERCADOS LTDA| PGTO REF PRODUTOS COPA E COZINHA (CARTAO);-65,97;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+18/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Magali Parizzi;600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+18/02/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+18/02/2025;JUROS E MULTA BOLETO MAGALI PARIZZI;15,78;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+19/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 739450/1;-559,3;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+19/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 775747/1;-357,45;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+19/02/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSF DE UNI PJ PARA UNI FISI;-100,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03340003885335527
+19/02/2025;CN EMBALAGENS| PGTO REF ADESIVO TEKBOND+ADESIVO INSTANTANIO;-22,8;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,016470715165646858
+20/02/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+20/02/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-5453,3;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+20/02/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS + DARF;-2257,92;191,0;;Custos;INSS;IA (Contexto);0,03164134141096991
+20/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 787316;-379,8;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+20/02/2025;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF EXAMES DEMISSIONAIS;-90,0;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+20/02/2025;CEPTIOM| PGTO REF MP NFe 9440;-266,75;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,00940761605615102
+20/02/2025;BESSER PRODUTOS ODONTOLOGICOS| PGTO REF NFe 01157;-612,62;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0082156559024259
+20/02/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF COLA PERMANENTE;-21,98;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,0076559663390660775
+21/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;624,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+21/02/2025;SIN - SISTEMAS DE IMPLANTES| PGTO REF NFe 3980;-208,4;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,0075437607429700865
+21/02/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+21/02/2025;FABIANA KEMER PANDOLPHO| Vale Adiantamento de Salario;-250,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,036310004446939624
+21/02/2025;ANDREZA VERGINIA SOUSA DA SILVA | Vale Adiantamento de Salario;-350,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,022505188646298104
+21/02/2025;VOLNEI DE OLIVEIRA| Vale Adiantamento de Salario;-500,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,027837358445943188
+21/02/2025;CN EMBALAGENS| PGTO REF PAPEL PARDO;-205,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,016470715165646858
+24/02/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 238932;-229,25;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+24/02/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;24213,2;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+24/02/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO;-45,18;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+24/02/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICACAO FINANCEIRA;-24214,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+25/02/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF PINCEIS;-7,79;594,0;;Despesas administrativas;Copa e cozinha;IA (Contexto);0,008176205619221553
+25/02/2025;MR H BIJUTERIAS LTDA (CHINGLING)| PGTO REF MATERIAL DE ESCRITORIO;-26,0;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+25/02/2025;PIX VERGINIA (COMPRA PARTICULAR);18,0;;359,0;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+25/02/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-850,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+25/02/2025;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF ENTRADA CONCERTO FORNO;-236,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+26/02/2025;BAUER TRANSPORTES LTDA| 1295820-0;-661,02;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+26/02/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 000135711;-374,4;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+26/02/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 761429/1;-331,81;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+26/02/2025;BAUER TRANSPORTES LTDA| 1291924-7 PGTO REF FRETES E DESPACHOS;-46,99;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+27/02/2025;BLUEDENT - ADRIANA PAULA T.I. GOMES IMPORTACAO E EXPORTACAO| PGTO REF MP NFe 10593;-423,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008289560239513211
+27/02/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;-60,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+27/02/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF NFe 138683;-218,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+27/02/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 2392211;-583,1;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+27/02/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICA P/ UNIC;1000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+27/02/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+27/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;1130,88;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;8531,27;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+28/02/2025;DÉBITO TARIFA DE COBRANÇA COMPE (;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+28/02/2025;PREF MUNI CAMPOS NOVOS / FUNREBOM| PGTO REF ALVARA DE FUNCIONAMENTO;-1017,96;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+28/02/2025;SAQUE ATM - CARTÃO VISA (;-2050,0;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,020211501570391716
+28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Andrea Bresola;4000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+28/02/2025;VALE (ADIANTAMENTO DE SALARIO)|0216 FABIANA KEMER PANDOLPHO;-350,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,036310004446939624
+28/02/2025;PAULA REGINA BUGANÇA| VALE (ADIANTAMENTO DE SALARIO);-650,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,02895345067417003
+28/02/2025;ELAINE BLOOT BASEI| VALE (ADIANTAMENTO DE SALARIO);-650,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,031089209792220282
+28/02/2025;ANDREZA VERGINIA SOUSA DA SILVA | VALE (ADIANTAMENTO DE SALARIO);-650,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,022505188646298104
+28/02/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+05/03/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+05/03/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 3616;-383,17;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+05/03/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REFM MP NFe 79014;-571,59;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008992044635763129
+05/03/2025;EXPRESSO SÃO MIGUEL LTDA| PGTO REF FRETES E DESPACHOS;-72,29;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+05/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;3758,01;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+05/03/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+05/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Sprandel;226,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+05/03/2025;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);-2491,66;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+05/03/2025;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);-275,36;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+05/03/2025;VINICULA PANCERI| PGTO REF VINHOS BRINDES CLIENTES (CARTAO);-1050,0;804,0;;Despesas Comerciais;BRINDES A FUNCIONARIOS;IA (Contexto);0,015029600851242575
+05/03/2025;EXACT SALES SOFTWARE| PGTO REF SOFTWERE (CARTAO);-2343,0;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,009196138276224395
+05/03/2025;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);-1918,31;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+05/03/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF COMPRA PINCEL(CARTAO);-13,0;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,009505809668017576
+06/03/2025;TARIFA TITULO BAIXADO DECURSO PRAZO;-3,51;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+06/03/2025;LA CN INFORMATICA LTDA ME| PGTO REF RENOVAÇÃO LICENÇA RELOGIO PONTO SECULLUN;-445,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+06/03/2025;REDE DE POSTOS R4| PGTO REF ABASTECIMENTO (JOANA);-197,91;492,0;;Despesas administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,010812774655833825
+06/03/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+06/03/2025;CLAUDIO - ELETRICISTA| PGTO REF TROCA DE LÂMPADA;-95,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+06/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Autence Odontologia e Estetica Avançada;544,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Magali Parizzi;620,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+10/03/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+10/03/2025;ESSENTIAL IMPORTACAO E COM DE PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 001634;-2450,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007937327019499433
+10/03/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 746357/1;-413,17;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/03/2025;URGTEC CONSULTORIA E TREINAMENTO LTDA| PGTO REF RENOVAÇÃO LABFACIL;-449,0;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010695368277960245
+10/03/2025;PAULISTA TRANSPORTES| PGTO REF FRETES E DESPACHOS;-190,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+10/03/2025;ERSON LUIZ ALVES MACIEL (MOTOBOY)| PGTO REF FRETES E DESPACHOS;-448,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Sprandel;198,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Clínica Odonto Mais Vida SS Ltda;2948,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010651820182925684
+10/03/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 TRANSF DE CONTA APLICA;14355,87;;1,0;Atividades de caixa;-;IA (Contexto);0,026521430422603857
+11/03/2025;TIAGO NASCIMENTO TESSER| PGTO REF FRETES;-7,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+11/03/2025;ODONTOVILLE H2T COMERCIO DE PRODUTOS E EQUIPMANETOS LTDA ME| PGTO REF MP NFe 033489;-1383,85;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007334701859597969
+11/03/2025;SAQUE TERMINAL SAQUE/PAGUE;-5000,0;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,021494135329185458
+11/03/2025;JOANA SCAPINI| PGTO REF ?;-7000,0;594,0;;Despesas administrativas;Copa e cozinha;IA (Contexto);0,008879493641470336
+11/03/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 TRANSF DE CONTA APLICA;11014,31;;1,0;Atividades de caixa;-;IA (Contexto);0,026521430422603857
+11/03/2025;JOANA SCAPINI| PGTO REF??;-2682,0;594,0;;Despesas administrativas;Copa e cozinha;IA (Contexto);0,008879493641470336
+11/03/2025;CREDITO ACERTO TARIFA COBRANÇA;3,51;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+11/03/2025;PAULA REGINA BUGANÇA| PGTO REF SALARIO FIXO (FEVEREIRO);-1799,24;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03231046346390384
+11/03/2025;ELAINE BLOOT BASEI| PGTO REF SALARIO FIXO (FEVEREIRO);-2125,99;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03507608012509173
+11/03/2025;JOSE CAZUNI DO AMARAL| PGTO REF SALARIO FIXO (FEVEREIRO);-1964,66;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,033591246877652345
+11/03/2025;VOLNEI DE OLIVEIRA| PGTO REF SALARIO FIXO (FEVEREIRO);-1090,32;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03201244589488704
+11/03/2025;FABIANA KEMER PANDOLPHO| PGTO REF SALARIO FIXO (FEVEREIRO);-1448,96;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,04209010194262841
+11/03/2025;WILLAMIS JOSE DO NASCIMENTO SILVA| PGTO REF SALARIO FIXO (FEVEREIRO);-2093,87;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,030406925063097476
+11/03/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF SALARIO FIXO (FEVEREIRO);-1073,12;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,024283775006735488
+11/03/2025;OSNI BOING & CIA LTDA;-3334,33;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+11/03/2025;BRUNO CAVICHON LTDA - DIGITAL CONCEPT LB| PGTO REF FRESAGEM DE BARRA TITANIO ATÉ 10MM E F;-900,0;706,0;;Custos;Instrumentos de produção;IA (Contexto);0,008412136331656744
+11/03/2025;ULTRATELECOM PROVEDORA DE INTERNET EIRELI| PGTO REF PLANO INTERNET+TELEFONE FIXO;-149,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,016028282025144936
+11/03/2025;TRANSF TEF PIX VINICIUS SCAPINI;-215,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017116411871147624
+11/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;764,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+11/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;953,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+11/03/2025;DEBITO TARIFA DE COBRANÇA COMPE;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+11/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Cibeli Pilati;1735,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+11/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Clinica Sorria Mais Implantes;36206,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010886504723807307
+11/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;549,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+11/03/2025;CAFER MATERIAIS DE CONSTRUCAO| PGTO REF ARRUELAS;-14,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+11/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Renata Machado;580,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01124183765853869
+12/03/2025;BAUER TRANSPORTES LTDA| 0013079307 PGTO REF FRETES E DESPACHOS;-187,96;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+12/03/2025;BAUER TRANSPORTES LTDA| 1304374-4 PGTO REF FRETES E DESPACHOS;-140,97;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+12/03/2025;BAUER TRANSPORTES LTDA| 1301510-4 PGTO REF FRETES E DESPACHOS;-140,97;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+12/03/2025;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MATERIAL DE HIGIENE E LIMPEZA;-290,2;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Josiane Bonatto - ME;573,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011831987124594706
+12/03/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 034034;-720,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+12/03/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+12/03/2025;SERGIO DE MATOS| PGTO REF FRETES;-80,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;7641,61;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+12/03/2025;CUSTAS DE CARTÓRIO BOLETO ORAL UNIC;68,77;;365,0;Despesas administrativas;DESPESAS LEGAIS E JUDICIAIS;Regra (Subgrupo);1,0
+12/03/2025;SPARTAN ELETRONICA E LUTHIERIA| PGTO REF CONSERTO ASPIRADOR;-90,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+12/03/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF ENCERRAMENTO FGTS V;-3326,15;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;1458,4;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/03/2025;BLUEDENT - ADRIANA PAULA T.I. GOMES IMPORTACAO E EXPORTACAO| PGTO REF MP NFe 10593;-423,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008289560239513211
+13/03/2025;DEBITO TARIFA DE COBRANCA;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+13/03/2025;VOLNEI DE OLIVEIRA| ACERTO RESCISÃO TRABALHISTA;-1539,24;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,02993211687063008
+14/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Beatriz Mores;478,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011427483871564175
+14/03/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 002498202;-239,79;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+14/03/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+14/03/2025;SUPERVISA SUPERMERCADOS LTDA| PGTO REF CAFÉ E FILTRO;-59,77;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+14/03/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-1104,03;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+14/03/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO;-39,99;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+14/03/2025;MR H BIJUTERIAS LTDA (CHINGLING)| PGTO REF MATEIAL DER ESCRITORIO (T);-8,0;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+14/03/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+14/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Maycon Salmoria;8726,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+14/03/2025;SPARTAN ELETRONICA E LUTHIERIA| PGTO REF COSNERTO VIBRADOR DE GESSO;-50,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+14/03/2025;FABIANA KEMER PANDOLPHO| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-100,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,030893653037764517
+14/03/2025;JUROS E MULT BOLETO ORAL UNIC (5750-7);49,83;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+15/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Implantes;5750,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+15/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Camila Mattos Menegazzo Duarte;2215,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+17/03/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+17/03/2025;INOVA PRO COM PROD ODONTOLOGICO LT ME| PGTO REF MC NFe 78634807;-185,0;188,0;;Custos;Pró-labore ;IA (Contexto);0,008662464234871702
+17/03/2025;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;-2786,22;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+17/03/2025;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;-882,73;354,0;;Custos;Energia elétrica;Regra (Subgrupo);1,0
+17/03/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2554;-837,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+17/03/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 5383;-281,25;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+17/03/2025;ISABELLY ANDRADE DE ABREU LUGOVET| PGTO REF Prestação de serviço SDR referente a feverei;-2950,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+17/03/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF ENCERRAMENTO FGTS W;-1019,89;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+17/03/2025;WILLAMIS JOSE DO NASCIMENTO SILVA| PGTO REF RECISÃO TRABALHISTA;-2264,81;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,02787201744837672
+18/03/2025;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF COSNERTO FORNO;-236,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+18/03/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSFERENCIA TEF PIX ( Doc.:;-4000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04205222543726554
+18/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Idaial LTDA;392,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010546449427770832
+18/03/2025;REF BAIXA BOLETO ORAL INDAIAL;6,0;;216,0;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,00906616025523084
+18/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Thiago Camillo;1125,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010850452916617227
+19/03/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MP NFe 140085;-562,66;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006975557489605392
+20/03/2025;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+20/03/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICA P/ UNIC;4000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+20/03/2025;TARIFA CHEQUE CUSTODIA PJ;-2,4;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+20/03/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+20/03/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-5943,34;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+20/03/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS + DARF;-2198,07;191,0;;Custos;INSS;IA (Contexto);0,03164134141096991
+20/03/2025;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF EXAMES DEMISSIONAIS;-80,0;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+20/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Andrea Bresola;5000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+21/03/2025;FABIANA KEMER PANDOLPHO| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-900,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,030893653037764517
+21/03/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF VALE (ADIANTAMENTO DE SALARIO);-900,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,020713134207425314
+21/03/2025;ELAINE BLOOT BASEI| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-1000,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,027228617331735604
+21/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;624,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+21/03/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO RF MP NFe 34116;-470,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007602532607084241
+21/03/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+21/03/2025;HOTEL CENI| PGTO REF HOSPEDAGEM TÉCNICOS MANT MÁQ;-234,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+24/03/2025;BESSER PRODUTOS ODONTOLOGICOS| PGTO REF NFe 01157;-612,62;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0082156559024259
+24/03/2025;S. I. N. SISTEMAS DE IMPLANTE| PGTO REF NFe 0000192;-110,01;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008437737571753317
+24/03/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 787316;-379,8;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+24/03/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 796975/1;-592,91;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+24/03/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| RPGTO REF MP NFe 537359;-474,54;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,006935668869341345
+24/03/2025;TRANSPORTES RODOVIARIOS DA COSTA LTDA| PGTO REF FRETE RETORNO FORNO;-290,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+24/03/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+25/03/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-850,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+25/03/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+26/03/2025;BAUER TRANSPORTES LTDA| 1311432-3 PGTO REF FRETES E DESPACHOS;-46,99;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+26/03/2025;CEPTIOM| PGTO RE MC NFe 9777;-287,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,01212935899693427
+26/03/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 2506454;-259,99;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+26/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Thiago Camillo;599,46;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010850452916617227
+27/03/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;-60,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+28/03/2025;CN EMBALAGENS| PGTO REF MAT DE ESCRITÓRIO;-7,5;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+28/03/2025;CN EMBALAGENS| PGTO REF MAT DE ESCRITÓRIO;-7,5;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+28/03/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MAT DE ESCRITÓRIO;-39,98;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+28/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+28/03/2025;RECEBIMENTO DE PIX CN AMBALAGENS (PGTO INDEVIDO/ESTORNO);7,5;;567,0;Atividades de financiamentos;Pagamento de empréstimo com terceiro;IA (Contexto);0,009891815164280764
+28/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Oral Unic Caçador;490,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010575250556071761
+31/03/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;24199,07;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+31/03/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REFM MP NFe 79014;-571,59;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008992044635763129
+31/03/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF NFe 138683;-218,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+31/03/2025;CONSELHO REGIONAL DE ODOTOLOGIA SC| PGTO REF ANUIDADE VINICIUS TPD 387;-365,28;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+31/03/2025;CONSELHO REGIONAL DE ODOTOLOGIA SC| PGTO REF ANUIDADE LABORATORIO LB 114;-182,64;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+31/03/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICACAO FINANCEIRA;-24200,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+02/04/2025;LIDIANE PEREIRA| PGTO REF FRETE BLOCOS ORDEM DE SERVIÇO;-35,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+02/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+02/04/2025;LIDIANE PEREIRA| PGTO REF FRETE BLOCOS ORDEM DE SERVIÇO;-35,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+02/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+02/04/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Rafaela Pagliosa Winter;1500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Sprandel;1318,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+02/04/2025;VALMIR ANTONIO PESSOLI| PGTO REF SOLDA (SERVIÇOS DE TERCEIROS);-20,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+04/04/2025;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);-2491,66;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+04/04/2025;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);-275,36;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+04/04/2025;EXACT SALES SOFTWARE| PGTO REF SOFTWERE (CARTAO);-2343,0;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,009196138276224395
+04/04/2025;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);-1918,31;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+04/04/2025;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF SERVIÇOS REVISAO 1.000HR MOT;-965,72;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+04/04/2025;CN EMBALAGENS| PGTO REF MATERIAL DE ESCRITORIO (CARTAO);-124,4;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+04/04/2025;MERCADO LIVRE| PGTO REF POTINHOS (CARTAO);-48,74;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+04/04/2025;TIPOBEL| PGTO REF CAIXAS DE TRB/EMABALAGENS (CARTAO);-1493,75;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,010568542720325421
+04/04/2025;LEMAR AUTO POSTO LTDA| PGTO REF ABASTECIMENTO (CARTAO);-421,7;768,0;;Despesas Comerciais;AUXÍLIO-TRANSPORTE E COMBUSTÍVEL ;IA (Contexto);0,009759683713097208
+04/04/2025;CENTRO NOVO COMERCIO| PRO LABORE (CARTAO);-63,55;188,0;;Custos;Pró-labore ;IA (Contexto);0,02733012450246369
+04/04/2025;MINAMI GASTRONOMIA| ALIMNETAÇÃO (PRO LABORE) (CARTAO);-50,37;188,0;;Custos;Pró-labore ;IA (Contexto);0,031349690802353974
+04/04/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICA P/ INIC;1000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,04255727630707782
+04/04/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:CAIXA FISICA TRANSF DE UNICRED PJ P/ CAIXA;-3000,0;1,0;;Atividades de caixa;-;IA (Contexto);0,04255727630707782
+04/04/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 3616;-383,17;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+04/04/2025;INOVA PRO COM PROD ODONTOLOGICO LT ME| PGTO REF MC NFe 78634807;-155,0;188,0;;Custos;Pró-labore ;IA (Contexto);0,008662464234871702
+04/04/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 141252;-597,71;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+04/04/2025;S. I. N. SISTEMAS DE IMPLANTE| PGTO REF NFe 0000192;-110,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008437737571753317
+04/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+07/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+07/04/2025;ELAINE BLOOT BASEI| PGTO REF SALARIO FIXO MARÇO;-1813,84;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,0350599425061134
+07/04/2025;PAULA REGINA BUGANÇA| PGTO REF SALARIO FIXO MARÇO;-2177,76;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,032296211726567596
+07/04/2025;JOSE CAZUNI DO AMARAL| PGTO REF SALARIO FIXO MARÇO;-1920,45;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03357617388981733
+07/04/2025;FABIANA KEMER PANDOLPHO| PGTO REF SAALRIO FIXO MARÇO;-1518,04;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,04707089697267814
+07/04/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF SALARIO FIXO MARÇO;-1072,15;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,024274598744022227
+07/04/2025;PAULISTA TRANSPORTES| PGTO REF FRETES E DESPACHOS;-150,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+07/04/2025;ERSON LUIZ ALVES MACIEL (MOTOBOY)| PGTO REF FRETES E DESPACHOS;-434,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+07/04/2025;JOANA SCAPINI| PGTO REF SALARIO FIXO MARÇO;-4500,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,042069110316552596
+07/04/2025;TRANSFERENCIA TEF PIX;-100,0;736,0;;Outras receitas/despesas;Compensações previdenciárias ;IA (Contexto);0,009277317103226811
+07/04/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+08/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+08/04/2025;CD ATACADO| PGTO REF MATERIAL DE ESCRITÓRIO;-42,9;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+08/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;1600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+08/04/2025;ESSENTIAL IMPORTACAO E COM DE PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 001634;-2450,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007937327019499433
+08/04/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+08/04/2025;MITSUI SUMITOMO SEGUROS S/A| PGTO REF SEGURO EMPRESARIAL;-355,66;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+08/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Lea Dallanora;924,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+08/04/2025;BAIXA DE BOLETO LEA DALLANORA;6,0;;216,0;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,01061291731499989
+08/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Luiz Fernando Griss;7000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012081859798330976
+09/04/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 801205/1;-463,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+09/04/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+09/04/2025;Pgto de serviço(s) realizado(s) | Cliente: FACES CLINICA ODONTOLOGICA LTDA;666,55;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011018436313801986
+09/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+09/04/2025;DEBITO DE CUSTAS DE CARTORIO (Boleto Andressa Dallanora);-181,7;365,0;;Despesas administrativas;DESPESAS LEGAIS E JUDICIAIS;Regra (Subgrupo);1,0
+09/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA (Boleto Oral Unic 59718-3);-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+10/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Clinica Sorria Mais Implantes;8277,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010886504723807307
+10/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Magali Parizzi;638,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+10/04/2025;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+10/04/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+10/04/2025;DEBITO TARIFA DE COBRANCA;-20,1;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+10/04/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 801716;-405,71;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+10/04/2025;URGTEC CONSULTORIA E TREINAMENTO LTDA| PGTO REF RENOVAÇÃO LABFACIL;-449,0;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010695368277960245
+10/04/2025;OSNI BOING & CIA LTDA;-2675,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+10/04/2025;ULTRATELECOM PROVEDORA DE INTERNET EIRELI| PGTO REF PLANO INTERNET+TELEFONE FIXO;-149,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,016028282025144936
+10/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Ama Odontologia LTDA;2195,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01197339908764461
+11/04/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICACAO FINANCEIRA;-5000,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+11/04/2025;SUPERVISA SUPERMERCADOS LTDA| PGTO REF CAFÉ;-69,46;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;953,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+11/04/2025;BAUER TRANSPORTES LTDA| 0013174326 PGTO REF FRETES E DESPACHOS;-140,97;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+11/04/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-1500,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+11/04/2025;BAUER TRANSPORTES LTDA| 1319833-1PGTO REF FRETES E DESPACHOS;-93,98;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+11/04/2025;BAUER TRANSPORTES LTDA| 0013261164 PGTO REF FRETES E DESPACHOS;-93,98;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+11/04/2025;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MATERIAL DE HIGIENE E LIMPEZA;-290,2;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+11/04/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+11/04/2025;JONECI FERREIRA (ENCANADOR)| PGTO REF SERVIÇOS DE ENCANADOR (PIA TRIAGEM);-100,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+11/04/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICA P/ UNI;8000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,04255727630707782
+11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Clínica Odonto Mais Vida SS Ltda;10356,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010651820182925684
+14/04/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 009913;-359,4;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+14/04/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 002498202;-239,79;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+14/04/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 034034;-720,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+15/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;1458,4;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+15/04/2025;DEBITO TARIFA DE COBRANCA;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+15/04/2025;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;-3459,88;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+15/04/2025;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;-1054,68;354,0;;Custos;Energia elétrica;Regra (Subgrupo);1,0
+15/04/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-1035,3;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+15/04/2025;ISABELLY ANDRADE DE ABREU LUGOVET| PGTO REF Prestação de serviço SDR referente a feverei;-2700,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+15/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Camila Mattos Menegazzo Duarte;767,7;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+17/04/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS + DARF;-2226,02;191,0;;Custos;INSS;IA (Contexto);0,03164134141096991
+17/04/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF VALE (ADIANTAMENTO DE SALARIO);-900,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,020713134207425314
+17/04/2025;FABIANA KEMER PANDOLPHO| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-1000,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,030893653037764517
+17/04/2025;ELAINE BLOOT BASEI| PGTO REF VALE (ADIANTAMENTO DE SALARIO);-500,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,027228617331735604
+17/04/2025;CAFER MATERIAIS DE CONSTRUCAO| PGTO REF ARRUELAS;-200,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+17/04/2025;EXPRESSO SÃO MIGUEL LTDA| 16454661 PGTO REF FRETES E DESPACHOS;-251,5;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+17/04/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MC NFe 034266;-525,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007600072163043063
+17/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Maycon Salmoria;5000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+22/04/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+22/04/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-9190,98;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+22/04/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO RF MP NFe 34116;-470,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007602532607084241
+22/04/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MP NFe 140085;-562,66;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006975557489605392
+22/04/2025;BESSER PRODUTOS ODONTOLOGICOS| PGTO REF NFe 01157;-612,62;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0082156559024259
+23/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;315,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+23/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Fagundes Odontologia Integrada;624,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+24/04/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| RPGTO REF MP NFe 537359;-474,54;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,006935668869341345
+24/04/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 796975/1;-592,92;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+24/04/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+24/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+24/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Andrea Bresola;1500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+24/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Cibeli Pilati;1749,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+24/04/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+25/04/2025;SERVIÇO AUTONOMO MUNICIPAL DE AGUA E ESGOTO- SAMAE| ARRECADAÇÃO DE CONVÊNIOS (agua casa V;-773,47;355,0;;Despesas administrativas;ÁGUA E SANEAMENTO;IA (Contexto);0,0683678558117681
+25/04/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-850,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+25/04/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 143646;-78,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+25/04/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2993;-795,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+25/04/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 2506454;-259,99;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+25/04/2025;CEPTIOM| PGTO RE MC NFe 9777;-287,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,01212935899693427
+25/04/2025;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF ENTRADA CONSERTO CANETA;-329,5;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+28/04/2025;FABIANA KEMER PANDOLPHO| PGTO REF VALE;-100,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,04737730521098553
+28/04/2025;BAUER TRANSPORTES LTDA| 1336465-6 PGTO REF FRETES E DESPACHOS;-234,95;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+28/04/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 546574;-479,6;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+28/04/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF NFe 138683;-218,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+28/04/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;-60,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+28/04/2025;BAUER TRANSPORTES LTDA| 0013306354 PGTO REF FRETES E DESPACHOS;-224,1;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+28/04/2025;RECK & CIA LTDA EPP| PGTO REF MANUTENÇÃO AR CONDICIONADO (5 LIMPESAS);-309,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+28/04/2025;ARTFLEX BIOFLEXMILAN COM DE MAT ELETR E HIDRAU LTDA ME| PGTO REF MC NFe 363;-364,75;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+29/04/2025;BIOART EQUIPAMENTOS ODONTOLOGICOS LTDA| PGTO REF REVISAO E TROCA DE PEÇAS ARTICULADORES;-408,4;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+29/04/2025;CN EMBALAGENS| PGTO REF PLASTICO BOLHA;-164,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,026420869703533825
+29/04/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;10892,74;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+29/04/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+29/04/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICACAO FINANCEIRA;-10900,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+29/04/2025;DEBITO CUSTAS GRAVACAO ELETRONICA;-9,19;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: ORAL UNIC IMPLANTES;6000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+30/04/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REFM MP NFe 79014;-571,59;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008992044635763129
+30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Cibeli Pilati;3000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Cibeli Pilati;400,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+30/04/2025;DEBITO DE CUSTAS DE CARTORIO;-130,98;365,0;;Despesas administrativas;DESPESAS LEGAIS E JUDICIAIS;Regra (Subgrupo);1,0
+30/04/2025;DEBITO TARIFA DE COBRANCA;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Rafaela Pagliosa Winter;3000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+02/05/2025;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;-32,3;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+02/05/2025;DEBITO TARIFA DE COBRANCA;-10,05;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+02/05/2025;Pgto de serviço(s) realizado(s) | Cliente: MARINA SPRANDEL;618,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+02/05/2025;INOVA PRO COM PROD ODONTOLOGICO LT ME| PGTO REF MC NFe 12645;-242,5;188,0;;Custos;Pró-labore ;IA (Contexto);0,008662464234871702
+02/05/2025;CLIN D AGUA LTDA| PGTO REF TROCA FILTROS BEBEDOURO;-260,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+02/05/2025;LIDIANE PEREIRA| PGTO REF BLOCOS ORDEM DE SERVIÇO;-1000,45;706,0;;Custos;Instrumentos de produção;IA (Contexto);0,009274408949002978
+02/05/2025;PIX / VINICIUS SCAPINI;-6450,0;736,0;;Outras receitas/despesas;Compensações previdenciárias ;IA (Contexto);0,009604103365149249
+05/05/2025;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);-275,36;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+05/05/2025;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF SERVIÇOS REVISAO 1.000HR MOT;-965,69;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+05/05/2025;TIPOBEL| PGTO REF CAIXAS DE TRB/EMABALAGENS (CARTAO);-1493,75;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,010568542720325421
+05/05/2025;MERCADO LIVRE| PGTO REF POTINHOS (CARTAO);-48,74;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+05/05/2025;MINAMI GASTRONOMIA| PGTO REF ALIMENTAÇÃO (CARTAO);-48,62;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+05/05/2025;MERCADO LIVRE| PGTO REF POTINHOS (CARTÃO);-54,68;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,010348344820607036
+05/05/2025;EXACT SALES SOFTWARE| PGTO REF SOFTWERE (CARTAO);-2343,0;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,009196138276224395
+05/05/2025;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);-1918,31;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+05/05/2025;DIVINO CACAU LTDA ME| PGTO REF PRESENTE JOSE (CARTAO);-47,98;536,0;;Despesas administrativas;Confraternizações;IA (Contexto);0,012069942672405725
+05/05/2025;MERCADO LIVRE| PGTO REF MATERIAL DE ESCRITORIO (CARTAO);-55,8;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+05/05/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 811161/1;-332,34;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+05/05/2025;EXPRESSO SÃO MIGUEL LTDA| 16544835 PGTO REF FRETE ARTICULADORES;-199,12;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+05/05/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 141252;-597,71;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+05/05/2025;S. I. N. SISTEMAS DE IMPLANTE| PGTO REF NFe 0000192;-110,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008437737571753317
+05/05/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 3616;-383,17;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+05/05/2025;VIVIANE FRANCIELI BRESSAN| PGTO REF SALGADOS DIA DO TRABALHO;-65,0;700,0;;Custos;Seguros de acidente do trabalho;IA (Contexto);0,01698569063067893
+05/05/2025;ISABELLY ANDRADE DE ABREU LUGOVET| PGTO REF Prestação de serviço SDR referente a Abril;-2827,5;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+05/05/2025;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);-2491,66;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+05/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+05/05/2025;CD ATACADO| COMPRA CARTAO VISA (MATER. ESCRITORIO);-17,49;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+05/05/2025;OSNI BOING & CIA LTDA| COMPRA CARTAO VISA (VASELINA);-17,8;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+06/05/2025;MATTES SERVIÇOS ELETRÔNICOS LTDA| PGTO REF MT PRIMA NFe 011485;-241,53;532,0;;Custos;MATÉRIA-PRIMA;IA (Contexto);0,013804453534433934
+06/05/2025;PAULA REGINA BUGANÇA| PGTO REF SAALRIO FIXO ABRIL;-2192,51;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03952212130031613
+06/05/2025;ELAINE BLOOT BASEI| PGTO REF SALARIO FIXO ABRIL;-2119,4;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,039661652427245696
+06/05/2025;FABIANA KEMER PANDOLPHO| PGTO REF SALARIO FIXO ABRIL;-1522,49;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,04924532497798126
+06/05/2025;JOANA SCAPINI| PGTO REF SAALRIO FIXO ABRIL (DIFERENÇA 2.600,00);-1900,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03934364618469927
+06/05/2025;PAULISTA TRANSPORTES| PGTO REF FRETES E DESPACHOS;-100,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+06/05/2025;JOSE CAZUNI DO AMARAL| PGTO REF SALARIO FIXO;-1994,58;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03772015184700802
+06/05/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF SALARIO FIXO ABRIL;-1370,93;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,026047581737166575
+07/05/2025;THIAGO NASCIMENTO TESSER| PGTO REF FRETES E DESPACHOS;-406,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+07/05/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 811636/1;-314,74;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: MARINA SPRANDEL;876,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+08/05/2025;ESSENTIAL IMPORTACAO E COM DE PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 001634;-2450,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007937327019499433
+09/05/2025;BRUNO CAVICHON LTDA - DIGITAL CONCEPT LB| PGTO REF FRESAGEM DE BARRA TITANIO ATÉ 10MM E F;-967,5;706,0;;Custos;Instrumentos de produção;IA (Contexto);0,008412136331656744
+09/05/2025;Pgto de serviço(s) realizado(s) | Cliente: AMA ODONTOLOGIA LTDA;4000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01197339908764461
+12/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICA P/ UNIC;1300,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+12/05/2025;TARIFA CHEQUE CUSTODIA PJ;-2,4;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: RENATA MACHADO;658,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01124183765853869
+12/05/2025;MITSUI SUMITOMO SEGUROS S/A| PGTO REF SEGURO EMPRESARIAL;-347,86;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+12/05/2025;URGTEC CONSULTORIA E TREINAMENTO LTDA| PGTO REF RENOVAÇÃO LABFACIL;-449,0;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010695368277960245
+12/05/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+12/05/2025;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF LAUDO;-200,0;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Maycon Salmoria;1016,48;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: SORRIA MAIS IMPLANTES;10944,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011763392312740113
+12/05/2025;BAUER TRANSPORTES LTDA| 1341963-9 PGTO REF FRETES E DESPACHOS;-254,54;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+12/05/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF CONTRATO ORAL UNIC;-1500,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+12/05/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 034034;-720,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Ronaldo Savaris;600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+12/05/2025;THIAGO QUEIROZ DE ALMEIDA| PGTO REF PLANO INTERNET+TELEFONE FIXO;-149,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,010633296057705131
+12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Ricardo Villela Armênio;490,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+12/05/2025;Estorno C.ReceberLanç/Cliente 12/05/25 Ronaldo Savaris;-600,0;377,0;;Outras despesas;INADIMPLÊNCIA DE CLIENTES;IA (Contexto);0,009009067602780437
+12/05/2025;OSNI BOING & CIA LTDA;-2675,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+13/05/2025;Pgto de serviço(s) realizado(s) | Cliente: GUILHERME SANDRI;761,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011955544084877706
+13/05/2025;Pgto de serviço(s) realizado(s) | Cliente: FAGUNDES ODONTOLOGIA INTEGRADA;1458,4;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Rossa Ribeiro;885,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011988526592472123
+13/05/2025;Pgto de serviço(s) realizado(s) | Cliente: FACES CLINICA ODONTOLOGICA LTDA;6576,75;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011018436313801986
+13/05/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 002498202;-239,79;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+13/05/2025;PRO LABORE| PGTO REF INTERNET;-119,9;188,0;;Custos;Pró-labore ;IA (Contexto);0,023115158834577675
+13/05/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+13/05/2025;DEBITO TARIFA DE COBRANCA;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+13/05/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 009913;-366,71;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+13/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;1000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+13/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;1530,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+13/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;600,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+13/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;500,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+13/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;1948,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+13/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;5000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: FAGUNDES ODONTOLOGIA INTEGRADA;342,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+14/05/2025;DEBITO TARIFA DE COBRANCA;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+14/05/2025;JUROS E MULTA BOLEO FAGUNDES;7,15;;374,0;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: ODONTO MAIS VIDA SS LTDA;231,32;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01124820113157064
+14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+15/05/2025;JOANA SCAPINI| PGTO REF COMPRA CAFE+OUTROS;-70,68;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+15/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO PARA UN;1200,0;;1,0;Atividades de caixa;-;IA (Contexto);0,0430929535433791
+15/05/2025;TARIFA CHEQUE CUSTODIA PJ;-2,4;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+15/05/2025;Pgto de serviço(s) realizado(s) | Cliente: CAMILA MATTOS MENEGAZZO DUARTE;5709,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+15/05/2025;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;-2620,27;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+15/05/2025;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;-888,77;354,0;;Custos;Energia elétrica;Regra (Subgrupo);1,0
+15/05/2025;PRO LABORE;-3000,0;188,0;;Custos;Pró-labore ;IA (Contexto);0,03454285593648348
+16/05/2025;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO;-25,98;359,0;;Despesas administrativas;Materiais de escritório;Regra (Subgrupo);1,0
+16/05/2025;Pgto de serviço(s) realizado(s) | Cliente: ORAL UNIC IMPLANTES;7000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+16/05/2025;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF CONSERTO CANETA;-329,5;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+16/05/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF NFe 15499;-342,7;188,0;;Custos;Pró-labore ;IA (Contexto);0,008948053990459745
+16/05/2025;JOMON INDUSTRIA DE ARTEFATOS CERAMICOS LTDA| PGTO REF MP NFe;-721,4;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006894938647403418
+16/05/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 002542775;-202,38;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+16/05/2025;DEBITO TARIFA DE COBRANCA;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+16/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Luiz Fernando Griss;4555,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012081859798330976
+16/05/2025;Estorno C.ReceberLanç/Cliente 16/05/25 Luiz Fernando Griss;-4555,0;377,0;;Outras despesas;INADIMPLÊNCIA DE CLIENTES;IA (Contexto);0,008450801202833704
+16/05/2025;PGTO REF VALE|0216 FABIANA KEMER PANDOLPHO;-1000,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,04737730521098553
+16/05/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF VALE;-900,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,025619497254939515
+19/05/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF NFe 15728;-252,18;188,0;;Custos;Pró-labore ;IA (Contexto);0,008948053990459745
+19/05/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MP NFe 140085;-562,66;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006975557489605392
+19/05/2025;EXPRESSO SÃO MIGUEL LTDA| 16629876 PGTO REF FRETES E DESPACHOS;-84,34;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+20/05/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+20/05/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS + DARF;-2010,28;191,0;;Custos;INSS;IA (Contexto);0,03164134141096991
+20/05/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-5101,23;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+20/05/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 034501;-411,68;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+20/05/2025;CELEBRE EVENTOS| PGTO REF BOLO ANIVERSARIO VINICIUS;-60,0;536,0;;Despesas administrativas;Confraternizações;IA (Contexto);0,011371277148032462
+20/05/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSFERENCIA ENTRE CONTAS;-100,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03227832479118146
+20/05/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-1070,06;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+20/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+22/05/2025;Pgto de serviço(s) realizado(s) | Cliente: FAGUNDES ODONTOLOGIA INTEGRADA;315,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+22/05/2025;Pgto de serviço(s) realizado(s) | Cliente: FAGUNDES ODONTOLOGIA INTEGRADA;624,8;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+22/05/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO RF MP NFe 34116;-470,0;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007602532607084241
+22/05/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+22/05/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 796975/1;-592,92;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+22/05/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| RPGTO REF MP NFe 537359;-474,52;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,006935668869341345
+23/05/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2993;-794,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+23/05/2025;DIVINO CACAU LTDA ME| PGTO REF PRESENTE CLIENTE;-25,97;593,0;;Despesas administrativas;Brindes para funcionários;IA (Contexto);0,00943831258069687
+23/05/2025;JOANA SCAPINI| PGTO REF FRET CELUALR COMERCIAL;-40,7;713,0;;Despesas Comerciais;Comercial/Marketing;IA (Contexto);0,00816368535195359
+26/05/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO P/ UNIC;4000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,03919187268707423
+26/05/2025;TARIFA CHEQUE CUSTODIA PJ;-2,4;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+26/05/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-850,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+26/05/2025;CEPTIOM| PGTO RE MC NFe 9777;-287,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,01212935899693427
+27/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+27/05/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 546574;-479,6;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+27/05/2025;RECK & CIA LTDA EPP| PGTO REF MANUTENÇÃO AR CONDICIONADO (5 LIMPESAS);-309,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+27/05/2025;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF PARAFUSOS HOLDER;-339,59;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+27/05/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;-60,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+29/05/2025;MARCOS GIOVANI DA SILVA| PGTO REF LIMPEZA COMPUTADOR;-430,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+29/05/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;12057,14;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+28/05/2025;Pgto de serviço(s) realizado(s) | Cliente: ORAL UNIC IMPLANTES;7000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+29/05/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+29/05/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:APLICAÇÃO APLICACAO FINANCEIRA;-12100,0;1,0;;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+29/05/2025;ARTFLEX BIOFLEXMILAN COM DE MAT ELETR E HIDRAU LTDA ME| PGTO REF MC NFe 363;-364,75;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+30/05/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REFM MP NFe 79014;-571,59;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008992044635763129
+30/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+30/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Rafaela Pagliosa Winter;6000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+30/05/2025;MCA ELETROMOTORES LTDA| PGTO REF MANGUEIRA RECORTADOR;-15,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+03/06/2025;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);-2491,66;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+03/06/2025;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);-275,36;709,0;;Custos;Cursos e treinamentos;Regra (Subgrupo);1,0
+03/06/2025;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF SERVIÇOS REVISAO 1.000HR MOT;-965,66;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+03/06/2025;TIPOBEL| PGTO REF CAIXAS DE TRB/EMABALAGENS (CARTAO);-1493,75;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,010568542720325421
+03/06/2025;MERCADO LIVRE| PGTO REF POTINHOS (CARTÃO);-54,67;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,010348344820607036
+03/06/2025;EXACT SALES SOFTWARE| PGTO REF SOFTWERE (CARTAO);-2343,0;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,009196138276224395
+03/06/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 3616;-383,17;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+03/06/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 811161/1;-332,34;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+03/06/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 141252;-597,71;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+03/06/2025;Pgto de serviço(s) realizado(s) | Cliente: CIBELI PILATI;200,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+03/06/2025;Pgto de serviço(s) realizado(s) | Cliente: CIBELI PILATI;4800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+04/06/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSFERÊNCIA ENTRE CONTAS;-7000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03227832479118146
+04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;900,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+04/06/2025;PRO LABORE| PGTO REF CONSERTO PORTÃO;-50,0;188,0;;Custos;Pró-labore ;IA (Contexto);0,01956042553723361
+05/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Luciano Rosa Varela;2500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011550485404236106
+05/06/2025;FABIANA KEMER PANDOLPHO| PGTO REF SALARIO FIXO REF MAIO;-1501,03;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03248016835117639
+05/06/2025;ELAINE BLOOT BASEI| PGTO REF SALARIO FIXO REF MAIO;-2701,07;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,028439458104765277
+05/06/2025;JOSE CAZUNI DO AMARAL| PGTO REF SALARIO FIXO REF MAIO;-1936,8;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,027520394979267504
+05/06/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF SALARIO FIXO REF MAIO;-1253,51;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,02137596063802393
+05/06/2025;JOANA SCAPINI| PGTO REF SALARIO FIXO REF MAIO;-4500,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03248016835117639
+05/06/2025;THIAGO NASCIMENTO TESSER| PGTO REF FRETES E DESPACHOS;-427,0;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+05/06/2025;PAULA REGINA BUGANÇA| PGTO REF SALARIO FIXO REF MAIO;-2472,67;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,02673025608248719
+06/06/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 811636/1;-314,73;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+06/06/2025;Pgto de serviço(s) realizado(s) | Cliente: CLÍNICA ODONTO MAIS VIDA SS LTDA;1818,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010651820182925684
+06/06/2025;CONSELHO REGIONAL DE ODOTOLOGIA SC| PGTO REF ANUIODADE ELAINE;-450,07;350,0;;Outras despesas;Impostos de terceiros ;Regra (Subgrupo);1,0
+06/06/2025;AJUSTE DE SALDO;-0,04;533,0;;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007247270359841436
+09/06/2025;TALMAX PRODUTOS DE PROTESE DENTARIA LTDA| PGTOEF MP NFe 99853;-1150,85;467,0;;Custos;Terceirização de produção;IA (Contexto);0,007592836153339608
+09/06/2025;ESSENTIAL IMPORTACAO E COM DE PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 001634;-2450,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007937327019499433
+10/06/2025;Pgto de serviço(s) realizado(s) | Cliente: SORRIA MAIS IMPLANTES;4990,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011763392312740113
+10/06/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSF DE CONTA PJ P/ CONTA FI;-4500,0;1,0;;Atividades de caixa;-;IA (Contexto);0,025407851184277186
+10/06/2025;MITSUI SUMITOMO SEGUROS S/A| PGTO REF SEGURO EMPRESARIAL;-347,86;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+10/06/2025;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF LAUDO;-200,0;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+10/06/2025;URGTEC CONSULTORIA E TREINAMENTO LTDA| PGTO REF RENOVAÇÃO LABFACIL;-449,0;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010695368277960245
+10/06/2025;OSNI BOING & CIA LTDA;-2675,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+10/06/2025;ULTRATELECOM PROVEDORA DE INTERNET EIRELI| PGTO REF PLANO INTERNET+TELEFONE FIXO;-149,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,016028282025144936
+11/06/2025;Pgto de serviço(s) realizado(s) | Cliente: ALEXANDRE ROSSA RIBEIRO;434,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011988526592472123
+11/06/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+12/06/2025;Transf. |Origem:CAIXA FISICA-Destino:BANCO UNICRED 165099-8 TRANSF DE CAIXA FISICO PARA UN;10000,0;;1,0;Atividades de caixa;-;IA (Contexto);0,0430929535433791
+13/06/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 002498202;-239,79;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+13/06/2025;Pgto de serviço(s) realizado(s) | Cliente: FAGUNDES ODONTOLOGIA INTEGRADA;342,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/06/2025;Pgto de serviço(s) realizado(s) | Cliente: FAGUNDES ODONTOLOGIA INTEGRADA;1458,4;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012798971215233053
+13/06/2025;DÉBITO TARIFA DE COBRANÇA COMPE;-3,8;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+13/06/2025;ELAINE BLOOT BASEI| PGTO REF RECISAO TRABALHISTA;-6328,66;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,03157783320813396
+13/06/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF MULTA RECISORIA (EL;-8140,36;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,010539328692813814
+13/06/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 009913;-366,83;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+16/06/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSF DE UNICRED PJ P/ UNICRE;-500,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03480786280742767
+16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: CAMILA MATTOS MENEGAZZO DUARTE;1948,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: ORAL UNIC IMPLANTES;7000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,010258070677477646
+16/06/2025;DEBITO TARIFA DE COBRANCA;-1,9;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;Regra (Subgrupo);1,0
+16/06/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF NFe 15499;-342,7;188,0;;Custos;Pró-labore ;IA (Contexto);0,008948053990459745
+16/06/2025;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;-2620,27;699,0;;Custos;Assistência médica e social;Regra (Subgrupo);1,0
+16/06/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF MP NFe 002542775;-202,38;188,0;;Custos;Pró-labore ;IA (Contexto);0,008688755393467884
+16/06/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 824382/1;-502,2;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: CIBELI PILATI;3000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+17/06/2025;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;-705,7;354,0;;Custos;Energia elétrica;Regra (Subgrupo);1,0
+17/06/2025;SURYA DENTAL COM.PRO.ODONT.E FARM. S/A| PGTO REF NFe 15728;-252,18;188,0;;Custos;Pró-labore ;IA (Contexto);0,008948053990459745
+17/06/2025;S. I. N. SISTEMAS DE IMPLANTE| PGTO REF MP NFe 1555;-280,9;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007972083337033963
+17/06/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MP NFe 140085;-562,62;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006975557489605392
+17/06/2025;Pgto de serviço(s) realizado(s) | Cliente: ANDRESSA DALLANORA;761,7;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012707912089536661
+18/06/2025;EXPRESSO SÃO MIGUEL LTDA| PGTO REF FRETES E DESPACHOS;-236,29;801,0;;Custos;Fretes;Regra (Subgrupo);1,0
+18/06/2025;ANDREZA VERGINIA SOUSA DA SILVA | PGTO REF VALE;-900,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,025619497254939515
+18/06/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF FGTS;-1033,56;762,0;;Despesas Comerciais;FGTS;IA (Contexto);0,026323187206509543
+20/06/2025;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;-6053,92;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,0859389612046875
+20/06/2025;MINISTÉRIO DA FAZENDA - SECRETARIA DA RECEITA FEDERAL DO BR| PGTO REF INSS + DARF;-1930,78;191,0;;Custos;INSS;IA (Contexto);0,03164134141096991
+20/06/2025;CELMAT - JDG COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA | PGTO REF MP NFe 2993;-794,0;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,007421382980137616
+20/06/2025;H2T COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA ME| PGTO REF MP NFe 034501;-411,66;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,007521299384526232
+20/06/2025;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MT DE HIG E LIMPEZ;-138,5;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;9839,62;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;9514,02;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;11074,17;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;13738,0;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;13594,02;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;13071,73;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;12561,91;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;9222,1;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;11865,93;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;23460,7;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;16293,29;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:APLICAÇÃO FINANCEIRA-Destino:BANCO UNICRED 165099-8 RESGATE APLICACAO FINA;15764,51;;1,0;Atividades de caixa;-;IA (Contexto);0,017839958172844707
+20/06/2025;Transf. |Origem:BANCO UNICRED 165099-8-Destino:BANCO UNICRE TRANSFERENCIA DE UNICRED PJ P/;-159000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04573632901094427
+20/06/2025;Pgto de serviço(s) realizado(s) | Cliente: AMA ODONTOLOGIA LTDA;1400,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01197339908764461
+20/06/2025;FABIANA KEMER PANDOLPHO| PGTO REF VALE ADIANTAMENTO DE SALARIO;-300,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,030893653037764517
+24/06/2025;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;-283,77;358,0;;Despesas administrativas;Seguro de vida ;Regra (Subgrupo);1,0
+25/06/2025;ARTFLEX BIOFLEXMILAN COM DE MAT ELETR E HIDRAU LTDA ME| PGTO REF MC NFe 363;-364,75;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+25/06/2025;FABIANA KEMER PANDOLPHO| VALE;-80,0;753,0;;Despesas Comerciais;SALÁRIOS E ORDENADOS;IA (Contexto);0,0630361905249384
+25/06/2025;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MAT DE HI G E LIMPEZA;-257,27;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;Regra (Subgrupo);1,0
+25/06/2025;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;-850,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;Regra (Subgrupo);1,0
+25/06/2025;SUPERVISA SUPERMERCADOS LTDA| PGTO REF COMPRA CAFÉ;-19,9;594,0;;Despesas administrativas;Copa e cozinha;Regra (Subgrupo);1,0
+25/06/2025;TAMIRES FILGUEIRAS DE MOURA| PGTO REF SDR COMERCIAL;-1900,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+25/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Luiz Fernando Griss;2100,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012081859798330976
+26/06/2025;JJGC INDUSTRIA E COMERCIO DE MATERIAIS DENTARIOS S.A| PGTO REF MC NFe 546574;-479,6;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,0070531808227764356
+26/06/2025;RECK & CIA LTDA EPP| PGTO REF MANUTENÇÃO AR CONDICIONADO (5 LIMPESAS);-307,0;533,0;;Despesas administrativas;Manutenção de equipamentos;Regra (Subgrupo);1,0
+27/06/2025;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;-60,0;362,0;;Despesas administrativas;Serviços de terceiros;Regra (Subgrupo);1,0
+30/06/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REF MP NFe 829875/1;-349,62;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008474111662109162
+30/06/2025;DENTALSHOP PROD ODONTOLOGICOS LTDA| PGTO REFM MP NFe 79014;-571,59;216,0;;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,008992044635763129

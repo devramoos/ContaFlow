@@ -5,10 +5,10 @@ from unidecode import unidecode
 
 # --- 1. CONFIGURAÇÕES ---
 # Nome do arquivo do banco de dados (deve estar na mesma pasta)
-NOME_BANCO_DE_DADOS = 'contaflow.db'
+NOME_BANCO_DE_DADOS = r'..\contaflow.db'
 
 # Nome do arquivo do novo cliente que queremos "aprender"
-ARQUIVO_NOVO_CLIENTE = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\arquivo_para_classificar\plano_de_contas_pcpl.csv'
+ARQUIVO_NOVO_CLIENTE = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\base_de_conhecimento\plano_de_contas_pcpl.csv'
 
 
 def ler_csv_com_fallback(caminho_arquivo):

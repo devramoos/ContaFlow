@@ -6,6 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="bba1715b-3efc-436b-8e89-5e5466a86a73" name="Changes" comment="add initial project files and implement cash flow classification scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/base_de_treinamento_ia.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_conhecimento/unificador_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_conhecimento/unificador_sqlite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contaflow.db" beforeDir="false" afterPath="$PROJECT_DIR$/contaflow.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/modelo_classificador_avancado.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelo_ia/treinador_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/treinador_sqlite.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +108,7 @@
     &quot;Python.classificador_inteligente.executor&quot;: &quot;Run&quot;,
     &quot;Python.classificador_sqlite.executor&quot;: &quot;Run&quot;,
     &quot;Python.gerador_fluxo_classificado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.holograma.executor&quot;: &quot;Run&quot;,
     &quot;Python.migrador_csv_para_sqlite.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_app.executor&quot;: &quot;Run&quot;,
     &quot;Python.treinador_ia.executor&quot;: &quot;Run&quot;,
@@ -112,7 +121,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;classificador-pre-end&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rodri/Documents/PROGRAMAÇÃO/PYTHON/projeto_classificacao_financeira/Base de dados/gerenciamento_db&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rodri/Documents/PROGRAMAÇÃO/PYTHON/projeto_classificacao_financeira/Base de dados&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -136,8 +145,8 @@
       <recent name="C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_app">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.treinador_sqlite">
+    <configuration name="holograma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Base de dados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +160,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/holograma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classificador_sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="migrador_csv_para_sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Base de dados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modelo_ia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gerenciamento_db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gerenciamento_db/migrador_csv_para_sqlite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unificador_sqlite (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="unificador_sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Base de dados" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_app" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.classificador_sqlite" />
         <item itemvalue="Python.treinador_sqlite" />
-        <item itemvalue="Python.unificador_sqlite (1)" />
+        <item itemvalue="Python.unificador_sqlite" />
+        <item itemvalue="Python.migrador_csv_para_sqlite" />
+        <item itemvalue="Python.holograma" />
+        <item itemvalue="Python.test_app" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +293,13 @@
       <workItem from="1758120891126" duration="720000" />
       <workItem from="1758123997915" duration="6639000" />
       <workItem from="1758141199252" duration="323000" />
+      <workItem from="1758283271553" duration="1042000" />
+      <workItem from="1758290705766" duration="815000" />
+      <workItem from="1758318037406" duration="382000" />
+      <workItem from="1758572865558" duration="1340000" />
+      <workItem from="1758633934423" duration="1586000" />
+      <workItem from="1758636458389" duration="311000" />
+      <workItem from="1758644137673" duration="6461000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project files and implement cash flow classification scripts">
       <option name="closed" value="true" />
@@ -320,14 +336,15 @@
     <SUITE FILE_PATH="coverage/Base_de_dados$gerador_fluxo_classificado.coverage" NAME="gerador_fluxo_classificado Coverage Results" MODIFIED="1758024600464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motor_de_classificacao" />
     <SUITE FILE_PATH="coverage/Base_de_dados$treinador_ia.coverage" NAME="treinador_ia Coverage Results" MODIFIED="1758047074152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_inteligente.coverage" NAME="classificador_inteligente Coverage Results" MODIFIED="1757968911247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motor_inteligente" />
-    <SUITE FILE_PATH="coverage/Base_de_dados$unificador_sqlite.coverage" NAME="unificador_sqlite Coverage Results" MODIFIED="1758046424778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
-    <SUITE FILE_PATH="coverage/Base_de_dados$treinador_sqlite.coverage" NAME="treinador_sqlite Coverage Results" MODIFIED="1758113080913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$unificador_sqlite.coverage" NAME="unificador_sqlite Coverage Results" MODIFIED="1758636732942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base_de_conhecimento" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$holograma.coverage" NAME="holograma Coverage Results" MODIFIED="1758573574392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$treinador_sqlite.coverage" NAME="treinador_sqlite Coverage Results" MODIFIED="1758659517354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_sqlite.coverage" NAME="classificador_sqlite Coverage Results" MODIFIED="1758113235532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$app.coverage" NAME="app Coverage Results" MODIFIED="1758124031886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador.coverage" NAME="classificador Coverage Results" MODIFIED="1758043959071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$test_app.coverage" NAME="test_app Coverage Results" MODIFIED="1758124045200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Base_de_dados$unificador_de_planos.coverage" NAME="unificador_de_planos Coverage Results" MODIFIED="1758028136511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base_de_conhecimento" />
-    <SUITE FILE_PATH="coverage/Base_de_dados$migrador_csv_para_sqlite.coverage" NAME="migrador_csv_para_sqlite Coverage Results" MODIFIED="1758046417198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$migrador_csv_para_sqlite.coverage" NAME="migrador_csv_para_sqlite Coverage Results" MODIFIED="1758636607283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gerenciamento_db" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_final_hibrido__1_.coverage" NAME="classificador_final_hibrido (1) Coverage Results" MODIFIED="1758043968038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
   </component>
 </project>
