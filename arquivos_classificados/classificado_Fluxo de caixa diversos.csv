@@ -1,583 +1,107 @@
 ﻿Data;DescricaoOriginal;Valor;Débito;Crédito;GrupoClassificado;SubgrupoClassificado;Metodo;Confianca
-03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;1732,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014510576521476035
-04/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-547,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-04/02/2025;jose caetano lalamove;-15,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007068309817081629
-04/02/2025;lucas costa lalamove;-15,0;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,007109297433763513
-04/02/2025;0130 Rubens Horikawa Katagiri;-427,2;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-04/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;190,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014919998256567814
-04/02/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-97,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-04/02/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-200,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-05/02/2025;mangueira de ar (manutenção predial)|0131 SANTO AMARO MANGUEIRAS E CONEXOES LTDA;-66,0;530,0;;Custos;Manutenção predial;IA (Contexto);0,09832600394711827
-07/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-1000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;1147,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-07/02/2025;THE COFFEE - PRESENTE DRA MARINA;-75,0;717,0;;Despesas comerciais;Brindes para clientes;IA (Contexto);0,018328741405123975
-07/02/2025;PGTO FATIMA|0054 Paulo Roberto Maciel;-130,5;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-07/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-224,5;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-07/02/2025;RESERVA PARA MARKETING|0048 PAULO ROBERTO MACIEL FILHO;-100,0;713,0;;Despesas Comerciais;Comercial/Marketing;IA (Contexto);0,01468611990490406
-07/02/2025;0080 SANI MACIEL;-500,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;390,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-07/02/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-27,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-07/02/2025;GIRO COPIAS - IMPRESSAO DE CARTAS;-41,6;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,008043832303493158
-07/02/2025;0048 PAULO ROBERTO MACIEL FILHO;-112,25;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;2000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-10/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-101,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-10/02/2025;0053 Everaldo Barbosa dos Santos;-230,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;200,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;1090,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012882742482612708
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;510,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;1023,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;2490,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013244237912908189
-12/02/2025;elasticos|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-86,13;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,01955327687874621
-12/02/2025;0054 Paulo Roberto Maciel;-1219,5;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-12/02/2025;0054 Paulo Roberto Maciel;-1081,7;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-12/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-164,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-12/02/2025;0132 BANCO DO BRASIL;-97,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,053404944309441225
-12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;4519,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012728106360858775
-12/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-249,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-12/02/2025;pelicula impressora 3d|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-279,99;546,0;;Despesas administrativas;Bens de pequeno valor;IA (Contexto);0,010876880893221261
-12/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-1500,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;1155,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-12/02/2025;resina|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-361,41;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,007292952322343193
-13/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;97,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014632736024947478
-14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-3000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-2400,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-14/02/2025;luva e mascara|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-48,5;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,01304159459295877
-14/02/2025;0054 Paulo Roberto Maciel;-567,6;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-14/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-65,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-17/02/2025;0054 Paulo Roberto Maciel;-570,6;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-17/02/2025;0048 PAULO ROBERTO MACIEL FILHO;-470,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-17/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-28,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-17/02/2025;motoboy app|0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-200,0;714,0;;Despesas comerciais;Fretes e carretos;IA (Contexto);0,011642763503556029
-19/02/2025;sabonetes e luvas|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-41,5;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-19/02/2025;terceirização frezagem|0078 ZYRCAD - JHH ARTESANATOS LTDA;-595,0;467,0;;Custos;Terceirização de produção;IA (Contexto);0,011628425134378803
-19/02/2025;adiantamento|0053 Everaldo Barbosa dos Santos;-656,0;785,0;;Atividades de financiamentos;Antecipação de recebíveis;IA (Contexto);0,008959695024494155
-19/02/2025;eletropaulo|0108 ENEL BRASIL S.A;-248,83;533,0;;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007383138385272122
-19/02/2025;PRESENTE DRA ADRIANA|0133 SHOPEE SHPS TECNOLOGIA E SERVICOS LTDA.;-54,52;717,0;;Despesas comerciais;Brindes para clientes;IA (Contexto);0,014082625808559077
-19/02/2025;0056 EFF Dental componentes;-186,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,009566705798428523
-20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;890,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-21/02/2025;boleto devolvido;186,0;;433,0;Receitas financeiras;Juros recebidos;IA (Contexto);0,010266002161502506
-21/02/2025;sefaz;-211,01;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-21/02/2025;mercado papel higienico;-23,49;535,0;;Despesas administrativas;Refeições;IA (Contexto);0,008183731476114531
-21/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-89,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-21/02/2025;0126 CAIXA ECONOMICA FEDERAL;-131,2;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,03011980360951456
-21/02/2025;certificado digital cnpj|0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;-220,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,008063128254901271
-21/02/2025;0080 SANI MACIEL;-500,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-21/02/2025;provisao imposto;98,0;;506,0;Outras despesas;Devolução de vendas ;IA (Contexto);0,0069487850352376295
-26/02/2025;Transf. |Origem:BANCO ITAÚ PJ-Destino:BANCO DO BRASIL PJ provisao pgto certificado digital;220,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,028413003891722924
-26/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;1140,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014632736024947478
-26/02/2025;certificado digital empresa|0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;-220,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,008001430748805377
-26/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-114,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-26/02/2025;suporte para celular|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-36,5;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,0181601686608262
-28/02/2025;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ;2000,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,044702008602063324
-28/02/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;-1669,29;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04105973612717844
-28/02/2025;19 dias |0053 Everaldo Barbosa dos Santos;-338,2;550,0;;Atividades de financiamentos;Pagamento de dívida tributária parcelada;IA (Contexto);0,007593438461900836
-28/02/2025;19 dias|0130 Rubens Horikawa Katagiri;-338,2;550,0;;Atividades de financiamentos;Pagamento de dívida tributária parcelada;IA (Contexto);0,008507376358179011
-28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;2433,2;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-28/02/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-28/02/2025;0053 Everaldo Barbosa dos Santos;-105,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-28/02/2025;BORRACHA MAQUINA DE VAPOR|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-49,83;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,01461441736492634
-28/02/2025;0054 Paulo Roberto Maciel;-800,2;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-28/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-163,3;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-28/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-1938,05;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-05/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;2500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-06/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;270,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014632736024947478
-06/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;2659,3;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014919998256567814
-07/03/2025;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ;5000,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,044702008602063324
-07/03/2025;dev pgto excedente everaldo;53,46;;801,0;Custos;Fretes;IA (Contexto);0,011798709590191862
-07/03/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;-799,9;90,0;;Atividades de investimentos;Aquisição de participações em outras empresas;IA (Contexto);0,009031783145382324
-07/03/2025;pastilhas|0083 LSI S.A.;-1005,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-07/03/2025;pagou boleto do parcelamento de imposto na conta pf|0080 SANI MACIEL;-527,89;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,007757608413535185
-07/03/2025;scanner|0083 LSI S.A.;-1450,9;569,0;;N/A;N/A;IA (Contexto);0,37923906385388295
-07/03/2025;0053 Everaldo Barbosa dos Santos;-879,23;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-07/03/2025;0130 Rubens Horikawa Katagiri;-832,77;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-07/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Lillian Maria da Costa Marques Sandrin;123,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013099480445377502
-10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;850,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;2460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013244237912908189
-10/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-410,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-10/03/2025;pgto helton|0054 Paulo Roberto Maciel;-1350,0;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-10/03/2025;pgto fatima|0054 Paulo Roberto Maciel;-115,0;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-10/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-3200,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-10/03/2025;provisao para aluguel;500,0;;740,0;Custos;Aluguel de imóvel;IA (Contexto);0,024544664681846132
-12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;1280,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012882742482612708
-12/03/2025;provisão contas a pagar;500,0;;216,0;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,014213798497535977
-12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;300,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-12/03/2025;devolução de provisão;-500,0;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,007420173846037666
-12/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-459,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-12/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P devolução de provisão;-3500,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,035605512465906666
-12/03/2025;cartão de credito empresarial;-431,82;534,0;;Despesas administrativas;CARTÃO DE CRÉDITO;IA (Contexto);0,012927948805924629
-12/03/2025;0132 BANCO DO BRASIL;-74,32;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,053404944309441225
-13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;185,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013708867125074993
-13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Clínica BN Odontologia;15,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013964987469133269
-14/03/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) realizad;370,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,029602415243188046
-14/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;385,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-14/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;3132,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-14/03/2025;0054 Paulo Roberto Maciel;-483,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-14/03/2025;0054 Paulo Roberto Maciel;-322,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-14/03/2025;0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-14/03/2025;0054 Paulo Roberto Maciel;-322,01;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-14/03/2025;beteria camera|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-138,76;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,01562010697192781
-17/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;382,13;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-17/03/2025;0054 Paulo Roberto Maciel;-2053,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-17/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-100,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-17/03/2025;0053 Everaldo Barbosa dos Santos;-175,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-19/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014453959021686415
-21/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P;-1500,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,044702008602063324
-21/03/2025;0050 Dental Andaluz;-109,5;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,011144920526736966
-21/03/2025;0126 CAIXA ECONOMICA FEDERAL;-275,2;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,03011980360951456
-24/03/2025;0069 Roberto Hafran;-10,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-24/03/2025;0053 Everaldo Barbosa dos Santos;-175,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-26/03/2025;0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-64,13;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,01955327687874621
-26/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-57,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-26/03/2025;venda de imobilizado;10000,0;;454,0;Atividades de investimentos;Receita na venda de imobilizado;IA (Contexto);0,10221614114582289
-28/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;-7000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-28/03/2025;contabilidade|0068 MAYPER CONTADORES ASSOCIADOS LTDA;-534,65;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;IA (Contexto);0,06164384281159031
-28/03/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;-1669,29;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04105973612717844
-02/04/2025;0053 Everaldo Barbosa dos Santos;-356,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-02/04/2025;0130 Rubens Horikawa Katagiri;-356,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;4593,65;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Suzana;120,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-02/04/2025;boleto devolvido;799,9;;433,0;Receitas financeiras;Juros recebidos;IA (Contexto);0,010266002161502506
-02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01373612208048427
-02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;1507,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014919998256567814
-02/04/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;741,0;;Custos;Aluguel de software;IA (Contexto);0,00882112659334544
-02/04/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;-799,9;90,0;;Atividades de investimentos;Aquisição de participações em outras empresas;IA (Contexto);0,009031783145382324
-07/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014453959021686415
-07/04/2025;alcool|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-35,6;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,0183238294068427
-07/04/2025;antoniel|0054 Paulo Roberto Maciel;-829,45;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-07/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-586,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-07/04/2025;fatima|0054 Paulo Roberto Maciel;-105,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-07/04/2025;antec DL|0048 PAULO ROBERTO MACIEL FILHO;-5000,0;548,0;;Atividades de investimentos;Recebimento de lucros e dividendos;IA (Contexto);0,007867006804607836
-07/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;200,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-07/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;1710,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-07/04/2025;0053 Everaldo Barbosa dos Santos;-80,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-07/04/2025;dev aliexpress;170,64;;506,0;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-09/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Eduardo Lucas Maciel;600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01369882673970757
-10/04/2025;prov aluguel;1731,0;;740,0;Custos;Aluguel de imóvel;IA (Contexto);0,03666816381342678
-10/04/2025;prov imposto;372,0;;506,0;Outras despesas;Devolução de vendas ;IA (Contexto);0,0069487850352376295
-10/04/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;920,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-10/04/2025;placa de bruxismo jessica|0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,00748371673911762
-10/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-228,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-10/04/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;-3461,43;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,0074755672440151195
-10/04/2025;0090 ELINEI MENDES;-170,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006952537115050835
-10/04/2025;jb|0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;4800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;950,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012882742482612708
-11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Vieira;1300,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;1447,6;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;2940,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013244237912908189
-11/04/2025;peça impressora|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-197,54;546,0;;Despesas administrativas;Bens de pequeno valor;IA (Contexto);0,008704915948209066
-11/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;-4000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-11/04/2025;cartão de credito|0132 BANCO DO BRASIL;-442,81;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,023014048951819223
-11/04/2025;taxa adm|0132 BANCO DO BRASIL;-49,5;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,02849013305856915
-16/04/2025;prov imposto;78,0;;506,0;Outras despesas;Devolução de vendas ;IA (Contexto);0,0069487850352376295
-16/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Lillian Maria da Costa Marques Sandrin;1560,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013099480445377502
-16/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-1084,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-16/04/2025;0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-16/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;-5500,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-16/04/2025;0053 Everaldo Barbosa dos Santos;-240,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-16/04/2025;ZYRCAD - VENDA DE IMOBILIZADO;5000,0;;454,0;Atividades de investimentos;Receita na venda de imobilizado;IA (Contexto);0,10221614114582289
-16/04/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) realizad;1325,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,029602415243188046
-23/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-156,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-23/04/2025;0053 Everaldo Barbosa dos Santos;-656,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-23/04/2025;0130 Rubens Horikawa Katagiri;-720,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-23/04/2025;be smile|0054 Paulo Roberto Maciel;-1130,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-23/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-562,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-23/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo negativo;-1025,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-23/04/2025;imposto|0065 SIMPLES NACIONAL;-533,02;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,06689920005183587
-23/04/2025;0126 CAIXA ECONOMICA FEDERAL;-275,2;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,03011980360951456
-23/04/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;-1652,09;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04105973612717844
-23/04/2025;0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;-799,9;90,0;;Atividades de investimentos;Aquisição de participações em outras empresas;IA (Contexto);0,009031783145382324
-23/04/2025;0108 ENEL BRASIL S.A;-326,25;533,0;;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007383138385272122
-23/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P reserva para pgto de contas;-524,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,035489927497407106
-23/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P reserva para pgto de contas;-712,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,035489927497407106
-23/04/2025;imposto de renda|0068 MAYPER CONTADORES ASSOCIADOS LTDA;-250,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;IA (Contexto);0,05808066094406553
-23/04/2025;0053 Everaldo Barbosa dos Santos;-120,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-23/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;2666,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-24/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;2464,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015525694109823919
-25/04/2025;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ uso do valor separado;524,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,0337436966732447
-25/04/2025;0054 Paulo Roberto Maciel;-1696,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-25/04/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;-524,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;IA (Contexto);0,07296652818839333
-25/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;-170,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03499286061069158
-25/04/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;741,0;;Custos;Aluguel de software;IA (Contexto);0,00882112659334544
-25/04/2025;presentes dres aniversario|0080 SANI MACIEL;-150,0;536,0;;Despesas administrativas;Confraternizações;IA (Contexto);0,016307033743412802
-25/04/2025;0054 Paulo Roberto Maciel;-1783,7;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-25/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-68,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-25/04/2025;0069 Roberto Hafran;-60,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-25/04/2025;bolsa para entrega;-89,99;700,0;;Custos;Seguros de acidente do trabalho;IA (Contexto);0,011552324477972633
-30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;185,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013708867125074993
-30/04/2025;0053 Everaldo Barbosa dos Santos;-90,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-30/04/2025;0053 Everaldo Barbosa dos Santos;-356,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-30/04/2025;0130 Rubens Horikawa Katagiri;-356,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-30/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-72,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-30/04/2025;0048 PAULO ROBERTO MACIEL FILHO;-1400,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014510576521476035
-30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;690,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-05/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;720,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014510576521476035
-05/05/2025;HBA Materiais de construção (mangueira vapor);-33,8;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,010853892640005837
-05/05/2025;renegociação|0065 SIMPLES NACIONAL;-537,89;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,06384071339041301
-05/05/2025;0053 Everaldo Barbosa dos Santos;-180,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-05/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;1858,79;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014919998256567814
-07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;6337,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;548,09;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-07/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-186,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-07/05/2025;0054 Paulo Roberto Maciel;-685,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-07/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-566,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-07/05/2025;pastilhas|0083 LSI S.A.;-213,39;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-07/05/2025;scanner|0083 LSI S.A.;-1450,9;569,0;;N/A;N/A;IA (Contexto);0,37923906385388295
-07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;490,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-09/05/2025;aluguel;1356,0;;740,0;Custos;Aluguel de imóvel;IA (Contexto);0,03666816381342678
-09/05/2025;0053 Everaldo Barbosa dos Santos;-782,05;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-09/05/2025;0130 Rubens Horikawa Katagiri;-763,79;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-09/05/2025;0080 SANI MACIEL;-1351,02;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-09/05/2025;0048 PAULO ROBERTO MACIEL FILHO;-1351,02;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-09/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-55,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-09/05/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;-3461,43;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,0074755672440151195
-09/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;1710,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01373612208048427
-12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;976,75;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;600,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012882742482612708
-12/05/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-200,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-12/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-171,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-12/05/2025;empréstimo para pai (pgto deivison);-1500,0;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,04701399164097833
-14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-14/05/2025;pgto jb |0054 Paulo Roberto Maciel;-680,0;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-14/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-60,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-14/05/2025;reembolso pgto comissão everaldo|0048 PAULO ROBERTO MACIEL FILHO;-200,0;581,0;;Custos;COMISSÕES ;IA (Contexto);0,018558955849108615
-14/05/2025;0048 PAULO ROBERTO MACIEL FILHO;-300,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-14/05/2025;0132 BANCO DO BRASIL;-49,5;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,053404944309441225
-14/05/2025;0132 BANCO DO BRASIL;-307,99;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,053404944309441225
-14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;1820,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014511591472139868
-14/05/2025;Estorno C.ReceberLanç/Cliente 07/05/25 Larissa Consentino Viei;-548,09;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,00838714101635722
-14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;548,09;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;4720,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015525694109823919
-19/05/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;8018,81;;1,0;Atividades de caixa;-;IA (Contexto);0,03370157946156679
-19/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;525,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-19/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-239,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-19/05/2025;antec dl|0048 PAULO ROBERTO MACIEL FILHO;-350,0;548,0;;Atividades de investimentos;Recebimento de lucros e dividendos;IA (Contexto);0,007867006804607836
-19/05/2025;plastico bolha|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-12,6;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,03892500563098761
-19/05/2025;0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-19/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-456,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-19/05/2025;devolução pgto incorreto;1600,0;;801,0;Custos;Fretes;IA (Contexto);0,007995057452009933
-19/05/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-8,6;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-19/05/2025;0053 Everaldo Barbosa dos Santos;-656,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-19/05/2025;0130 Rubens Horikawa Katagiri;-720,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-19/05/2025;conta labstone;-780,0;1,0;;Atividades de caixa;-;IA (Contexto);0,008185703584149577
-19/05/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;-2840,0;801,0;;Custos;Fretes;IA (Contexto);0,011702842167417191
-19/05/2025;devolução pagamento incorreto;-1600,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,0086205234389374
-19/05/2025;drogaria sao paulo algodão;-27,99;736,0;;Outras receitas/despesas;Compensações previdenciárias ;IA (Contexto);0,008044890292516715
-19/05/2025;0053 Everaldo Barbosa dos Santos;-85,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-19/05/2025;faxina|0090 ELINEI MENDES;-170,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006952537115050835
-19/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-802,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-19/05/2025;0126 CAIXA ECONOMICA FEDERAL;-264,58;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,03011980360951456
-19/05/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;-1652,09;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04105973612717844
-19/05/2025;0056 EFF Dental componentes;-315,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,009566705798428523
-19/05/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;-799,9;90,0;;Atividades de investimentos;Aquisição de participações em outras empresas;IA (Contexto);0,009031783145382324
-19/05/2025;0108 ENEL BRASIL S.A;-317,14;533,0;;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007383138385272122
-19/05/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;741,0;;Custos;Aluguel de software;IA (Contexto);0,00882112659334544
-19/05/2025;0080 SANI MACIEL;-677,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-19/05/2025;0080 SANI MACIEL;-500,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-19/05/2025;0125 RECEITA FEDERAL;-521,08;446,0;;Outras receitas;RECEITA DE EQUIVALÊNCIA PATRIMONIAL;IA (Contexto);0,021577317985118378
-19/05/2025;0065 SIMPLES NACIONAL;-1915,21;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,11662464153542679
-21/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;3000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-21/05/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-21/05/2025;0048 PAULO ROBERTO MACIEL FILHO;-1300,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-21/05/2025;0048 PAULO ROBERTO MACIEL FILHO;-2172,08;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-23/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Andressa Veiga Rubbi;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01449956781088616
-23/05/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-23/05/2025;0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-23/05/2025;0054 Paulo Roberto Maciel;-730,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-23/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-362,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-23/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-57,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-23/05/2025;0069 Roberto Hafran;-32,5;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-28/05/2025;0053 Everaldo Barbosa dos Santos;-200,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-28/05/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-28/05/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;460,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-28/05/2025;gasolina;-234,1;730,0;;Despesas comerciais;Manutenção de veículos;IA (Contexto);0,0221701489227969
-28/05/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-69,9;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-28/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-30/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Ivan José Galvão de França erro de lançamento;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013424335714833912
-30/05/2025;Transf. | Origem: BANCO DO BRASIL PJ - Destino: BANCO ITA? Pgto de serviço(s) realizado(;-570,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03611427118980064
-30/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Fabiana Callado;70,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014619936392757753
-30/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-126,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-30/05/2025;0053 Everaldo Barbosa dos Santos;-338,5;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-30/05/2025;0130 Rubens Horikawa Katagiri;-338,5;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-30/05/2025;papelaria adesivos;-35,0;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,00974363739471646
-02/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;5165,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-02/06/2025;0053 Everaldo Barbosa dos Santos;-180,0;581,0;;Custos;COMISSÕES ;Regra (Grupo+Subgrupo);1,0
-02/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-200,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;2018,24;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014919998256567814
-04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;342,9;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014453959021686415
-04/06/2025;faxina|0090 ELINEI MENDES;-170,0;772,0;;Despesas comerciais;Outras despesas comerciais;IA (Contexto);0,013262289129398775
-04/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-421,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-04/06/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;-524,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;IA (Contexto);0,0403661380279302
-04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-04/06/2025;0054 Paulo Roberto Maciel;-900,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-06/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;1140,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01373612208048427
-06/06/2025;0054 Paulo Roberto Maciel;-922,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-06/06/2025;scanner|0083 LSI S.A.;-1451,38;570,0;;Bens Imobilizados da Empresa;Imobilizado ;Regra (Subgrupo);1,0
-06/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-132,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-06/06/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;960,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013244237912908189
-06/06/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-38,5;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-09/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;3500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-09/06/2025;0053 Everaldo Barbosa dos Santos;-89,87;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-09/06/2025;0130 Rubens Horikawa Katagiri;-41,84;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;1380,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;1100,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;10,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-12/06/2025;resina compra pf;-400,0;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-12/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-268,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-12/06/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;-3461,43;740,0;;Custos;Aluguel de imóvel;Regra (Subgrupo);1,0
-12/06/2025;0080 SANI MACIEL;-1351,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-12/06/2025;0048 PAULO ROBERTO MACIEL FILHO;-1051,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;812,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-12/06/2025;pgto condominio|0048 PAULO ROBERTO MACIEL FILHO;-1070,51;548,0;;Atividades de investimentos;Recebimento de lucros e dividendos;IA (Contexto);0,009098333645404692
-12/06/2025;pagamento celular|0048 PAULO ROBERTO MACIEL FILHO;-92,39;548,0;;Atividades de investimentos;Recebimento de lucros e dividendos;IA (Contexto);0,009029016817366333
-12/06/2025;0132 BANCO DO BRASIL;-49,5;369,0;;Despesas financeiras;Tarifas bancárias;Regra (Grupo+Subgrupo);1,0
-12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;1800,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-12/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-12/06/2025;cartão de credito|0132 BANCO DO BRASIL;-330,9;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-13/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-200,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-13/06/2025;repasse jb odntologia|0054 Paulo Roberto Maciel;-870,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-13/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-318,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-13/06/2025;pástico bolha|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-11,5;715,0;;Despesas comerciais;Embalagens;Regra (Grupo+Subgrupo);1,0
-16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;1020,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014511591472139868
-16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;4000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;910,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;241,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014624940129410237
-16/06/2025;0053 Everaldo Barbosa dos Santos;-85,0;581,0;;Custos;COMISSÕES ;Regra (Grupo+Subgrupo);1,0
-18/06/2025;devolução transferencia elinei;170,0;;736,0;Outras receitas/despesas;Compensações previdenciárias ;IA (Contexto);0,007487324407064493
-18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Allegra Odontologia;2000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-18/06/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;4298,7;;1,0;Atividades de caixa;-;IA (Contexto);0,03370157946156679
-18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;480,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-18/06/2025;alcool|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-38,15;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-18/06/2025;0090 ELINEI MENDES;-170,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,038034639550398014
-18/06/2025;adiantamento|0053 Everaldo Barbosa dos Santos;-656,0;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-18/06/2025;adiantamento|0130 Rubens Horikawa Katagiri;-720,0;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;6087,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015525694109823919
-18/06/2025;distribuição de lucros|0048 PAULO ROBERTO MACIEL FILHO;-1150,0;802,0;;Outras receitas;Outras Receitas;IA (Contexto);0,06014617552136405
-18/06/2025;0054 Paulo Roberto Maciel;-4310,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-18/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-218,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-18/06/2025;0054 Paulo Roberto Maciel;-883,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-18/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-342,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-18/06/2025;0090 ELINEI MENDES;-170,0;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,038034639550398014
-18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Helder de Mello;920,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016339388237299305
-23/06/2025;Transf. | Origem: BANCO DO BRASIL PJ - Destino: BANCO ITA? Pgto de serviço(s) realizado(;-920,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03611427118980064
-23/06/2025;bolo café funcionários;-28,0;694,0;;Custos;GRATIFICAÇÕES;Regra (Grupo+Subgrupo);1,0
-23/06/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;-2105,0;706,0;;Custos;Instrumentos de produção;IA (Contexto);0,030603657568514603
-23/06/2025;0054 Paulo Roberto Maciel;-2681,1;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-23/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-589,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-23/06/2025;0048 PAULO ROBERTO MACIEL FILHO;-2000,0;549,0;;Atividades de financiamentos;Distribuição de lucros ou dividendos;IA (Contexto);0,01043258444699272
-23/06/2025;0065 SIMPLES NACIONAL;-1219,96;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;Regra (Subgrupo);1,0
-23/06/2025;0125 RECEITA FEDERAL;-534,81;178,0;;N/A;N/A;IA (Contexto);0,015100210865206102
-23/06/2025;0126 CAIXA ECONOMICA FEDERAL;-276,79;749,0;;Custos;FGTS;Regra (Grupo+Subgrupo);1,0
-23/06/2025;0053 Everaldo Barbosa dos Santos;-20,0;581,0;;Custos;COMISSÕES ;Regra (Grupo+Subgrupo);1,0
-23/06/2025;adiantamento|0053 Everaldo Barbosa dos Santos;-300,0;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-23/06/2025;0048 PAULO ROBERTO MACIEL FILHO;-3100,0;549,0;;Atividades de financiamentos;Distribuição de lucros ou dividendos;IA (Contexto);0,01043258444699272
-26/06/2025;0048 PAULO ROBERTO MACIEL FILHO;-300,0;549,0;;Atividades de financiamentos;Distribuição de lucros ou dividendos;IA (Contexto);0,01043258444699272
-26/06/2025;0053 Everaldo Barbosa dos Santos;-409,4;732,0;;Custos;Outros custos;IA (Contexto);0,008702782083947432
-26/06/2025;0130 Rubens Horikawa Katagiri;-409,4;732,0;;Custos;Outros custos;IA (Contexto);0,010791853584018851
-26/06/2025;0106 BANCO DE LAGE LANDEN BRASIL S.A.;-1652,09;570,0;;Bens Imobilizados da Empresa;Imobilizado ;Regra (Subgrupo);1,0
-26/06/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;531,0;;Despesas administrativas;Software/Licença de uso;IA (Contexto);0,010818524978853461
-26/06/2025;0108 ENEL BRASIL S.A;-320,32;538,0;;Despesas administrativas;ENERGIA ELÉTRICA ;Regra (Grupo+Subgrupo);1,0
-26/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Francisco Chaves;175,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01473681136305884
-26/06/2025;boy lalamove;-15,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-26/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Allegra Odontologia;1208,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-26/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Stephane R. Alves Maia;120,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014861211032228037
-26/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-26/06/2025;boy lalamove;-15,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-30/06/2025;pgto dr francisco|0054 Paulo Roberto Maciel;-175,0;732,0;;Custos;Outros custos;IA (Contexto);0,009013097715011024
-30/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-132,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-30/06/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;-799,9;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-30/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Eliane Silva;240,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015368447605090981
-30/06/2025;0048 PAULO ROBERTO MACIEL FILHO;-353,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-30/06/2025;0069 Roberto Hafran;-67,5;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-01/07/2025;sani - provisão pgto de contas;80,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,009911191572721474
-01/07/2025;Transf. | Origem: BANCO ITAU PAULINHO - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) re;1000,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03556663110261628
-01/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;630,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014510576521476035
-01/07/2025;0065 SIMPLES NACIONAL;-549,17;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,11662464153542679
-03/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;1859,46;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014919998256567814
-03/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;480,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-04/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-200,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-04/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-163,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-04/07/2025;0054 Paulo Roberto Maciel;-185,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-04/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;185,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-04/07/2025;0048 PAULO ROBERTO MACIEL FILHO;-300,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-04/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Fábio Eduardo Fernandes;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014632770977405894
-07/07/2025;lenços|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-26,4;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-07/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-291,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-07/07/2025;0054 Paulo Roberto Maciel;-161,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-07/07/2025;scanner|0083 LSI S.A.;-1451,38;569,0;;N/A;N/A;IA (Contexto);0,37923906385388295
-07/07/2025;0053 Everaldo Barbosa dos Santos;-541,69;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-07/07/2025;0053 Everaldo Barbosa dos Santos;-40,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-07/07/2025;0130 Rubens Horikawa Katagiri;-787,03;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-10/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;4499,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-10/07/2025;aluguel lab;325,0;;740,0;Custos;Aluguel de imóvel;IA (Contexto);0,019028167474945137
-10/07/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;-3461,43;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,0074755672440151195
-10/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-294,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-10/07/2025;0048 PAULO ROBERTO MACIEL FILHO;-600,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-10/07/2025;0080 SANI MACIEL;-600,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-10/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;1153,56;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014942673625565436
-10/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;2307,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-10/07/2025;boy lalamove;-20,0;714,0;;Despesas comerciais;Fretes e carretos;IA (Contexto);0,007984409686728132
-11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;1737,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Mariana Yuri de França Shimizu;245,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016339388237299305
-11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013244237912908189
-11/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-11/07/2025;pgto helton|0054 Paulo Roberto Maciel;-2307,0;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-11/07/2025;0110 COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABE;-76,3;731,0;;Custos;Água e saneamento;IA (Contexto);0,0179353229303301
-11/07/2025;0080 SANI MACIEL;-1200,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,008259007352319103
-11/07/2025;0132 BANCO DO BRASIL;-49,5;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,053404944309441225
-11/07/2025;cartão de crédito|0132 BANCO DO BRASIL;-421,14;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,023014048951819223
-14/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Eduardo Lucas Maciel;1000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01369882673970757
-14/07/2025;Transf. | Origem: BANCO DO BRASIL PJ - Destino: BANCO ITA? ERRO DE LANÇAMENTO Pgto de se;-1000,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04152772408766208
-14/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;350,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-14/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-114,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-14/07/2025;pgto dra mariana|0054 Paulo Roberto Maciel;-185,0;717,0;;Despesas comerciais;Brindes para clientes;IA (Contexto);0,011217280068506991
-14/07/2025;pgto besmile|0054 Paulo Roberto Maciel;-1349,0;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-14/07/2025;isopor|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-51,99;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,01955327687874621
-14/07/2025;0053 Everaldo Barbosa dos Santos;-180,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-14/07/2025;cartoes e tags|0121 ALLUPRINT SERVICOS GRAFICOS LTDA;-226,5;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,009904800459382808
-14/07/2025;pgto aline|0054 Paulo Roberto Maciel;-350,0;801,0;;Custos;Fretes;IA (Contexto);0,007925983156370085
-15/07/2025;DESCARTÁVEIS;-12,46;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-15/07/2025;0048 PAULO ROBERTO MACIEL FILHO;-300,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-15/07/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;3007,38;;1,0;Atividades de caixa;-;IA (Contexto);0,03370157946156679
-15/07/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;1840,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-15/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-15/07/2025;RESINA IMPRESSÃO|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-1045,61;736,0;;Outras receitas/despesas;Compensações previdenciárias ;IA (Contexto);0,007724373123122896
-15/07/2025;PAGAMENTO EMPRÉSTIMO;-1000,0;152,0;;Atividades de financiamentos;Captação de empréstimo bancário;IA (Contexto);0,04996703024642888
-16/07/2025;pgto ana gouveia|0054 Paulo Roberto Maciel;-1594,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007700243883140488
-16/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-326,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-16/07/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;-900,0;801,0;;Custos;Fretes;IA (Contexto);0,011702842167417191
-18/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;1140,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01373612208048427
-18/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-114,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-18/07/2025;0053 Everaldo Barbosa dos Santos;-656,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-18/07/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;-270,0;801,0;;Custos;Fretes;IA (Contexto);0,011702842167417191
-18/07/2025;0130 Rubens Horikawa Katagiri;-720,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-18/07/2025;0048 PAULO ROBERTO MACIEL FILHO;-2109,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-18/07/2025;larissa;-25,0;492,0;;Despesas administrativas;Transportadora/coleta/entrega ;IA (Contexto);0,009900204841099365
-21/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;1275,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-21/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;2500,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015525694109823919
-21/07/2025;casa de bolos;-26,0;355,0;;Despesas administrativas;ÁGUA E SANEAMENTO;IA (Contexto);0,008248862552369009
-21/07/2025;0054 Paulo Roberto Maciel;-635,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007748948649369549
-21/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-64,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-21/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-250,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-21/07/2025;0125 RECEITA FEDERAL;-529,69;446,0;;Outras receitas;RECEITA DE EQUIVALÊNCIA PATRIMONIAL;IA (Contexto);0,021577317985118378
-21/07/2025;0126 CAIXA ECONOMICA FEDERAL;-272,24;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,03011980360951456
-21/07/2025;0065 SIMPLES NACIONAL;-818,68;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,11662464153542679
-21/07/2025;0053 Everaldo Barbosa dos Santos;-80,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-21/07/2025;0108 ENEL BRASIL S.A;-300,17;533,0;;Despesas administrativas;Manutenção de equipamentos;IA (Contexto);0,007383138385272122
-21/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-23/07/2025;Repasse Dra Vânia;690,0;;717,0;Despesas comerciais;Brindes para clientes;IA (Contexto);0,018328741405123975
-23/07/2025;0048 PAULO ROBERTO MACIEL FILHO;-350,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-23/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-69,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-23/07/2025;0048 PAULO ROBERTO MACIEL FILHO;-1619,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007551439630997216
-23/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Ricardo Lilla;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014843067910046108
-25/07/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-146,8;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-25/07/2025;MOP LIMPEZA;-64,9;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,0312011752860514
-28/07/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-39,2;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,025854401279097303
-28/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-57,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-28/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-28/07/2025;0053 Everaldo Barbosa dos Santos;-150,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-30/07/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;-1652,09;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,04105973612717844
-30/07/2025;0056 EFF Dental componentes;-322,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,009566705798428523
-30/07/2025;contabilidade|0068 MAYPER CONTADORES ASSOCIADOS LTDA;-524,0;361,0;;Despesas administrativas;ASSISTÊNCIA CONTÁBIL;IA (Contexto);0,06164384281159031
-30/07/2025;0053 Everaldo Barbosa dos Santos;-373,8;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,007106699441505449
-30/07/2025;0130 Rubens Horikawa Katagiri;-373,8;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006953446788347853
-30/07/2025;pé de mesa|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-72,77;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,014266790136753497
-31/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;3000,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015525694109823919
-31/07/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;741,0;;Custos;Aluguel de software;IA (Contexto);0,00882112659334544
-31/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-50,0;801,0;;Custos;Fretes;IA (Contexto);0,008707914757153946
-01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013056246978036158
-01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;789,3;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Vieira;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;270,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014510576521476035
-01/08/2025;DESCARTAVEIS|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-34,7;594,0;;Despesas administrativas;Copa e cozinha;Regra (Grupo+Subgrupo);1,0
-01/08/2025;darf|0125 RECEITA FEDERAL;-554,81;446,0;;Outras receitas;RECEITA DE EQUIVALÊNCIA PATRIMONIAL;IA (Contexto);0,011682144616934304
-04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;5971,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;300,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015525694109823919
-04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;240,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013708867125074993
-04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Suzana;480,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Isaac Newton Hoga;1020,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-04/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-520,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-04/08/2025;0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;-823,9;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-04/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-04/08/2025;0053 Everaldo Barbosa dos Santos;-200,0;581,0;;Custos;COMISSÕES ;Regra (Grupo+Subgrupo);1,0
-06/08/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-14,9;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,04292712725847692
-06/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-680,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-06/08/2025;0054 Paulo Roberto Maciel;-1879,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-06/08/2025;0054 Paulo Roberto Maciel;-249,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-06/08/2025;0054 Paulo Roberto Maciel;-161,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-06/08/2025;scanner|0083 LSI S.A.;-1450,9;570,0;;Bens Imobilizados da Empresa;Imobilizado ;Regra (Subgrupo);1,0
-06/08/2025;0080 SANI MACIEL;-1800,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-06/08/2025;0053 Everaldo Barbosa dos Santos;-600,0;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-06/08/2025;0130 Rubens Horikawa Katagiri;-600,0;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-06/08/2025;equipamento foto|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-287,17;546,0;;Despesas administrativas;Bens de pequeno valor;Regra (Grupo+Subgrupo);1,0
-08/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Stephanie Paula Vaz Domingues;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01549734800894118
-08/08/2025;0053 Everaldo Barbosa dos Santos;-49,28;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-08/08/2025;0130 Rubens Horikawa Katagiri;-61,68;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-08/08/2025;Transf. | Origem: BANCO ITAÚ PF PAULO - Destino: BANCO DO BRASIL PJ pagamento de aluguel;1818,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03015953097388649
-11/08/2025;aluguel;76,0;;444,0;Outras receitas;Receita de aluguel de imóvel;Regra (Grupo+Subgrupo);1,0
-11/08/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;2916,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013244237912908189
-11/08/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;370,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016420834824589683
-11/08/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;-3613,5;740,0;;Custos;Aluguel de imóvel;Regra (Subgrupo);1,0
-11/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-57,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-11/08/2025;0053 Everaldo Barbosa dos Santos;-5,0;581,0;;Custos;COMISSÕES ;Regra (Grupo+Subgrupo);1,0
-11/08/2025;alex alves motoboy;-40,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-13/08/2025;REPASSE BESMILE|0054 Paulo Roberto Maciel;-322,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-13/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-292,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-13/08/2025;0048 PAULO ROBERTO MACIEL FILHO;-2500,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-13/08/2025;0132 BANCO DO BRASIL;-49,5;369,0;;Despesas financeiras;Tarifas bancárias;Regra (Grupo+Subgrupo);1,0
-13/08/2025;CARTÃO DE CRÉDITO|0132 BANCO DO BRASIL;-146,74;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-13/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;3921,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014982195171594612
-13/08/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;1380,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,015517559126343323
-13/08/2025;CARTAO DE CREDITO|0132 BANCO DO BRASIL;-16,81;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-14/08/2025;receita curso paulinho;600,0;;802,0;Outras receitas;Outras Receitas;IA (Contexto);0,1930535720028551
-14/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;1200,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-14/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;185,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014511591472139868
-14/08/2025;0119 DIA BRASIL SOCIEDADE LIMITADA EM RECUPERACAO JUDICIAL;-26,49;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,025523391609462258
-14/08/2025;repasse helton|0054 Paulo Roberto Maciel;-3471,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-14/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-181,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-14/08/2025;0048 PAULO ROBERTO MACIEL FILHO;-1000,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-14/08/2025;RP IMPLANTES;-237,5;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-14/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-50,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-14/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;7975,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,012728106360858775
-14/08/2025;Estorno C.ReceberLanç/Cliente 14/08/25 Ana Claudia Ynone Gouve;-7975,5;717,0;;Despesas comerciais;Brindes para clientes;IA (Contexto);0,008780044488055555
-15/08/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;7568,32;;1,0;Atividades de caixa;-;IA (Contexto);0,03370157946156679
-15/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;170,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014624940129410237
-15/08/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-15,4;594,0;;Despesas administrativas;Copa e cozinha;Regra (Grupo+Subgrupo);1,0
-15/08/2025;repasse ana gouveia|0054 Paulo Roberto Maciel;-1385,0;732,0;;Custos;Outros custos;IA (Contexto);0,009637703974314802
-15/08/2025;repasse maarina e aline|0054 Paulo Roberto Maciel;-1740,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-15/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-565,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-15/08/2025;0110 COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABE;-78,2;355,0;;Despesas administrativas;ÁGUA E SANEAMENTO;Regra (Grupo+Subgrupo);1,0
-18/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;150,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014624940129410237
-18/08/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-59,3;360,0;;Despesas administrativas;Materiais de limpeza e de higiene;IA (Contexto);0,04292712725847692
-18/08/2025;mimo cliente novo;-29,99;717,0;;Despesas comerciais;Brindes para clientes;Regra (Grupo+Subgrupo);1,0
-18/08/2025;0048 PAULO ROBERTO MACIEL FILHO;-600,0;691,0;;Custos;PRÓ-LABORES;Regra (Grupo+Subgrupo);1,0
-18/08/2025;0053 Everaldo Barbosa dos Santos;-721,6;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-18/08/2025;0130 Rubens Horikawa Katagiri;-792,0;746,0;;Custos;SALÁRIOS E ORDENADOS;Regra (Grupo+Subgrupo);1,0
-18/08/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;-2110,0;706,0;;Custos;Instrumentos de produção;IA (Contexto);0,030603657568514603
-18/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-18/08/2025;0053 Everaldo Barbosa dos Santos;-100,0;581,0;;Custos;COMISSÕES ;Regra (Grupo+Subgrupo);1,0
-20/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-163,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-20/08/2025;0108 ENEL BRASIL S.A;-400,3;538,0;;Despesas administrativas;ENERGIA ELÉTRICA ;Regra (Grupo+Subgrupo);1,0
-20/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;3168,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01505250160807302
-20/08/2025;Fernando/motoboy;-25,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-20/08/2025;josé;-15,04;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-22/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-22/08/2025;repasse markiodonto|0054 Paulo Roberto Maciel;-990,0;732,0;;Custos;Outros custos;IA (Contexto);0,010063230795839134
-22/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-218,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,022981401542433826
-22/08/2025;0125 RECEITA FEDERAL;-559,73;696,0;;Custos;INSS;Regra (Grupo+Subgrupo);1,0
-22/08/2025;0065 SIMPLES NACIONAL;-843,3;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;Regra (Subgrupo);1,0
-22/08/2025;0126 CAIXA ECONOMICA FEDERAL;-298,95;749,0;;Custos;FGTS;Regra (Grupo+Subgrupo);1,0
-22/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;462,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,016372512864846374
-22/08/2025;compra agua mineralizada;-27,48;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-25/08/2025;repasse jb odontologia|0054 Paulo Roberto Maciel;-402,5;732,0;;Custos;Outros custos;IA (Contexto);0,009648767720526365
-25/08/2025;0069 Roberto Hafran;-52,5;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-29/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;150,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014624940129410237
-29/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Roberta Martins Figueiredo;283,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01405501635935654
-29/08/2025;dental tanaka;-179,0;532,0;;Custos;MATÉRIA-PRIMA;Regra (Grupo+Subgrupo);1,0
-29/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
-29/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Flávia Lima Pinheiro Guerra;280,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,013640515702898284
-29/08/2025;boy lalamove;-25,19;714,0;;Despesas comerciais;Fretes e carretos;Regra (Subgrupo);1,0
+03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;681,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,0135623929711358
+04/02/2025;MANUTENÇÃO AR CONDICIONADO|0128 ROSIMAR VIEIRA;-350,0;730,0;;Despesas comerciais;Manutenção de veículos;IA (Contexto);0,01042628096842217
+04/02/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,0079297109198604
+04/02/2025;0116 FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.;-100,0;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,00894031076498239
+04/02/2025;0065 SIMPLES NACIONAL;-522,71;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,12397146652675356
+04/02/2025;PAO DE QUEIJO REUNIÃO|0129 CONFEITARIA ORQUIDEA PEROLA LTDA;-22,8;535,0;;Despesas administrativas;Refeições;IA (Contexto);0,008093786506008204
+04/02/2025;0053 Everaldo Barbosa dos Santos;-215,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,006596117288343856
+04/02/2025;SCANNER CREMER|0083 LSI S.A.;-1450,9;569,0;;N/A;N/A;IA (Contexto);0,0873705257915099
+04/02/2025;PASTILHAS CREMER|0083 LSI S.A.;-1005,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006742719010296158
+04/02/2025;0082 ITAU UNIBANCO S.A.;-7,6;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+04/02/2025;0082 ITAU UNIBANCO S.A.;-997,94;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+05/02/2025;APARECIDO;-15,7;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,00644441750505115
+05/02/2025;PGTO ALINE|0054 Paulo Roberto Maciel;-681,0;709,0;;Custos;Cursos e treinamentos;IA (Contexto);0,008678004163985224
+05/02/2025;0053 Everaldo Barbosa dos Santos;-881,53;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,006596117288343856
+05/02/2025;0048 PAULO ROBERTO MACIEL FILHO;-5993,47;709,0;;Custos;Cursos e treinamentos;IA (Contexto);0,008332737313698641
+05/02/2025;0082 ITAU UNIBANCO S.A.;-93,14;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+05/02/2025;NEGATIVAÇÃO|0082 ITAU UNIBANCO S.A.;-10,99;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+05/02/2025;PLANO ADAPT REDE|0082 ITAU UNIBANCO S.A.;-139,0;741,0;;Custos;Aluguel de software;IA (Contexto);0,007601532171890237
+07/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;1000,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+07/02/2025;0056 EFF Dental componentes;-307,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,008376738665689814
+12/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;1500,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+12/02/2025;prov aluguel;1288,0;;740,0;Custos;Aluguel de imóvel;IA (Contexto);0,02648130681309022
+12/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-15,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,014315044990316562
+12/02/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;-3461,43;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,0071632659606853544
+12/02/2025;0090 ELINEI MENDES;-170,0;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006462990422736224
+12/02/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,006921977580447613
+12/02/2025;papelaria (marco aurelio);-36,0;359,0;;Despesas administrativas;Materiais de escritório;IA (Contexto);0,008682734000207354
+12/02/2025;0082 ITAU UNIBANCO S.A.;-8,16;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+14/02/2025;cremer|0083 LSI S.A.;-162,63;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006742719010296158
+14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;3000,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+14/02/2025;teclado |0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;-85,4;356,0;;Despesas administrativas;Telefonia e internet;IA (Contexto);0,013904649623459437
+14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;2400,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+14/02/2025;luva e mascara|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-48,5;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,011862858586000266
+14/02/2025;Estorno C.P. Pgto: 14/02/2025 M&B EMBALAGENS DESCARTAVEIS LTDA;48,5;;715,0;Despesas comerciais;Embalagens;IA (Contexto);0,011006452695673463
+17/02/2025;0053 Everaldo Barbosa dos Santos;-75,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,006596117288343856
+19/02/2025;adiantamento|0130 Rubens Horikawa Katagiri;-720,0;785,0;;Atividades de financiamentos;Antecipação de recebíveis;IA (Contexto);0,015615352543639889
+19/02/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-21,28;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,018781155968077144
+19/02/2025;cartao de credito empresa;-519,51;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;IA (Contexto);0,012930555110270097
+19/02/2025;casa de bolos;-16,0;785,0;;Atividades de financiamentos;Antecipação de recebíveis;IA (Contexto);0,012269286571608024
+21/02/2025;0065 SIMPLES NACIONAL;-1966,36;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,12397146652675356
+21/02/2025;0065 SIMPLES NACIONAL;-2243,26;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,12397146652675356
+21/02/2025;0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-254,88;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,00644441750505115
+24/02/2025;comprar cartao credito pf|0048 PAULO ROBERTO MACIEL FILHO;-1799,64;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;IA (Contexto);0,0099099761052002
+24/02/2025;0053 Everaldo Barbosa dos Santos;-240,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,006596117288343856
+24/02/2025;cobranca de boleto|0082 ITAU UNIBANCO S.A.;-8,16;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,0083146996990463
+26/02/2025;Transf. |Origem:BANCO ITAÚ PJ-Destino:BANCO DO BRASIL PJ provisao pgto certificado digi;-220,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,03357293512394714
+26/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-20,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,014315044990316562
+26/02/2025;0090 ELINEI MENDES;-170,0;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006462990422736224
+26/02/2025;dev pix mercado livre;85,4;;736,0;Outras receitas/despesas;Compensações previdenciárias ;IA (Contexto);0,00784652708898532
+26/02/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;-524,0;726,0;;Despesas administrativas;Causas Trabalhistas ;IA (Contexto);0,014854215335966451
+26/02/2025;0082 ITAU UNIBANCO S.A.;-24,48;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+26/02/2025;0082 ITAU UNIBANCO S.A.;-23,48;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+28/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;1938,05;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+28/02/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;-78,37;362,0;;Despesas administrativas;Serviços de terceiros;IA (Contexto);0,0079297109198604
+28/02/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;-1000,0;726,0;;Despesas administrativas;Causas Trabalhistas ;IA (Contexto);0,014854215335966451
+07/03/2025;0080 SANI MACIEL;-500,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007533403173377701
+07/03/2025;0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;-211,01;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,008855339646082316
+07/03/2025;0082 ITAU UNIBANCO S.A.;-0,28;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+07/03/2025;0082 ITAU UNIBANCO S.A.;-2751,96;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+07/03/2025;cobrança boleto|0082 ITAU UNIBANCO S.A.;-24,48;369,0;;Despesas financeiras;Tarifas bancárias;IA (Contexto);0,008670709723681674
+07/03/2025;iof|0082 ITAU UNIBANCO S.A.;-104,4;785,0;;Atividades de financiamentos;Antecipação de recebíveis;IA (Contexto);0,007859370022266842
+10/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;3200,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+10/03/2025;provisao aluguel;2092,0;;740,0;Custos;Aluguel de imóvel;IA (Contexto);0,02648130681309022
+10/03/2025;provisao contas a pagar;1000,0;;216,0;Outras despesas;Juros sobre capital próprio a pagar;IA (Contexto);0,01326153812276089
+10/03/2025;dev de provisionamento|0048 PAULO ROBERTO MACIEL FILHO;-3400,0;709,0;;Custos;Cursos e treinamentos;IA (Contexto);0,007999064652907577
+10/03/2025;0053 Everaldo Barbosa dos Santos;-115,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,006596117288343856
+12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;1140,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,0135623929711358
+12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;730,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,01352831417208489
+12/03/2025;0055 REDECARD INSTITUICAO DE PAGAMENTO S.A.;-159,0;682,0;;Atividades de financiamentos;Pagamento de dívida trabalhista parcelada;IA (Contexto);0,008910820378433718
+12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Isaac Newton Hoga;465,38;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014956642641376116
+12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;370,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014956642641376116
+13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;4429,5;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,011365942445494444
+13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;1799,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014043694668597586
+14/03/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASI Pgto de serviço(s) realizado(;-370,0;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,033479307166992364
+14/03/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO ITAÚ PF Pgto de serviço(s) realizado(;-465,38;11,0;;Atividades de caixa;Banco Entrada;IA (Contexto);0,027194666361113718
+14/03/2025;0082 ITAU UNIBANCO S.A.;-16,32;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+14/03/2025;JUROS TRANSAÇÃO MAQUININHA LINK|0055 REDECARD INSTITUICAO DE PAGAMENTO S.A.;-235,0;433,0;;Receitas financeiras;Juros recebidos;IA (Contexto);0,013564639405107137
+17/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;-575,0;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,014315044990316562
+17/03/2025;PGTO ANA GOUVEIA|0054 Paulo Roberto Maciel;-217,35;709,0;;Custos;Cursos e treinamentos;IA (Contexto);0,008344403073441012
+17/03/2025;PGTO NADJHILA|0054 Paulo Roberto Maciel;-217,35;709,0;;Custos;Cursos e treinamentos;IA (Contexto);0,008678004163985224
+17/03/2025;KEY SACO ASPIRADOR|0137 OSVALDO BENTO DE SOUZA COMERCIO DE MOVEIS;-119,5;729,0;;Custos;Manutenção de equipamentos ;IA (Contexto);0,010502486204412794
+21/03/2025;pastilhas|0083 LSI S.A.;-162,63;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,00644441750505115
+21/03/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;-2145,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,007267821271987016
+21/03/2025;0080 SANI MACIEL;-500,0;738,0;;Custos;Auxílio-transporte e combustível;IA (Contexto);0,007533403173377701
+21/03/2025;0108 ENEL BRASIL S.A;-368,93;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006769756847256101
+21/03/2025;faxina|0090 ELINEI MENDES;-180,0;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,006462990422736224
+21/03/2025;cartao de credito|0082 ITAU UNIBANCO S.A.;-519,5;374,0;;Despesas financeiras;Tarifas de cartões de crédito ;IA (Contexto);0,012980738926815867
+21/03/2025;aluguel|0055 REDECARD INSTITUICAO DE PAGAMENTO S.A.;-35,0;740,0;;Custos;Aluguel de imóvel;IA (Contexto);0,012326499948331219
+21/03/2025;0082 ITAU UNIBANCO S.A.;-13,96;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+21/03/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,006921977580447613
+21/03/2025;0053 Everaldo Barbosa dos Santos;-656,0;187,0;;Despesas com Salários e Encargos;Salários ;IA (Contexto);0,006596117288343856
+21/03/2025;0130 Rubens Horikawa Katagiri;-720,0;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,00644441750505115
+21/03/2025;0048 PAULO ROBERTO MACIEL FILHO;-2300,0;709,0;;Custos;Cursos e treinamentos;IA (Contexto);0,008332737313698641
+21/03/2025;resina|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;-278,46;506,0;;Outras despesas;Devolução de vendas ;IA (Contexto);0,006704424523468798
+21/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Andressa Veiga Rubbi;570,0;;504,0;Receitas;Devoluções de vendas;IA (Contexto);0,014956642641376116
+26/03/2025;Estorno C.ReceberLanç/Cliente 21/03/25 Andressa Veiga Rubbi;-570,0;504,0;;Receitas;Devoluções de vendas;IA (Contexto);0,007788199850909991
+26/03/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,006921977580447613
+26/03/2025;0082 ITAU UNIBANCO S.A.;-8,16;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+26/03/2025;0082 ITAU UNIBANCO S.A.;-24,48;358,0;;Despesas administrativas;Seguro de vida ;IA (Contexto);0,008088494789681022
+28/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;7000,0;;11,0;Atividades de caixa;Banco Entrada;IA (Contexto);0,03907102952041098
+28/03/2025;venda de imobilizado;5000,0;;454,0;Atividades de investimentos;Receita na venda de imobilizado;IA (Contexto);0,08539996960212139
+28/03/2025;venda de imobilizado;5000,0;;454,0;Atividades de investimentos;Receita na venda de imobilizado;IA (Contexto);0,08539996960212139
+28/03/2025;venda de imobilizado;5000,0;;454,0;Atividades de investimentos;Receita na venda de imobilizado;IA (Contexto);0,08539996960212139
+28/03/2025;0065 SIMPLES NACIONAL;-1331,75;479,0;;Parcelamentos e Dívidas;Parcelamento do simples nacional ;IA (Contexto);0,12397146652675356
+28/03/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;-100,0;350,0;;Outras despesas;Impostos de terceiros ;IA (Contexto);0,006921977580447613
+28/03/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;-23,5;715,0;;Despesas comerciais;Embalagens;IA (Contexto);0,018781155968077144

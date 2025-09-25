@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bba1715b-3efc-436b-8e89-5e5466a86a73" name="Changes" comment="add initial project files and implement cash flow classification scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_classificados/classificado_Fluxo de caixa diversos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos_para_classificar/Fluxo de caixa diversos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contaflow.db" beforeDir="false" afterPath="$PROJECT_DIR$/contaflow.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_ia/classificador_sqlite.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,6 +301,8 @@
       <workItem from="1758636458389" duration="311000" />
       <workItem from="1758644137673" duration="6461000" />
       <workItem from="1758745580241" duration="2147000" />
+      <workItem from="1758807582528" duration="439000" />
+      <workItem from="1758833281114" duration="478000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project files and implement cash flow classification scripts">
       <option name="closed" value="true" />
@@ -335,7 +341,7 @@
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_inteligente.coverage" NAME="classificador_inteligente Coverage Results" MODIFIED="1757968911247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motor_inteligente" />
     <SUITE FILE_PATH="coverage/Base_de_dados$unificador_sqlite.coverage" NAME="unificador_sqlite Coverage Results" MODIFIED="1758636732942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base_de_conhecimento" />
     <SUITE FILE_PATH="coverage/Base_de_dados$holograma.coverage" NAME="holograma Coverage Results" MODIFIED="1758573574392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Base_de_dados$treinador_sqlite.coverage" NAME="treinador_sqlite Coverage Results" MODIFIED="1758747003404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
+    <SUITE FILE_PATH="coverage/Base_de_dados$treinador_sqlite.coverage" NAME="treinador_sqlite Coverage Results" MODIFIED="1758807833073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador_sqlite.coverage" NAME="classificador_sqlite Coverage Results" MODIFIED="1758113235532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />
     <SUITE FILE_PATH="coverage/Base_de_dados$app.coverage" NAME="app Coverage Results" MODIFIED="1758124031886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Base_de_dados$classificador.coverage" NAME="classificador Coverage Results" MODIFIED="1758043959071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modelo_ia" />

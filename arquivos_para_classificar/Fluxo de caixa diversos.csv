@@ -1,583 +1,107 @@
-debito;credito;data;descrição;grupo;subgrupo;valor;
-;;03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;;;1732,2;
-;;04/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-547;
-;;04/02/2025;jose caetano lalamove;;;-15;
-;;04/02/2025;lucas costa lalamove;;;-15;
-;;04/02/2025;0130 Rubens Horikawa Katagiri;;;-427,2;
-;;04/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;;;190;
-;;04/02/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-97;
-;;04/02/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-200;
-;;05/02/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;460;
-;;05/02/2025;mangueira de ar (manutenção predial)|0131 SANTO AMARO MANGUEIRAS E CONEXOES LTDA;;;-66;
-;;07/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-1000;
-;;07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;1147,2;
-;;07/02/2025;THE COFFEE - PRESENTE DRA MARINA;;;-75;
-;;07/02/2025;PGTO FATIMA|0054 Paulo Roberto Maciel;;;-130,5;
-;;07/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-224,5;
-;;07/02/2025;RESERVA PARA MARKETING|0048 PAULO ROBERTO MACIEL FILHO;;;-100;
-;;07/02/2025;0080 SANI MACIEL;;;-500;
-;;07/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;390;
-;;07/02/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-27;
-;;07/02/2025;GIRO COPIAS - IMPRESSAO DE CARTAS;;;-41,6;
-;;07/02/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-112,25;
-;;10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;2000;
-;;10/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-101;
-;;10/02/2025;0053 Everaldo Barbosa dos Santos;;;-230;
-;;10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;200;
-;;10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;;;1090;
-;;10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;;;510;
-;;10/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;1023;
-;;11/02/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;;;2490;
-;;12/02/2025;elasticos|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-86,13;
-;;12/02/2025;0054 Paulo Roberto Maciel;;;-1219,5;
-;;12/02/2025;0054 Paulo Roberto Maciel;;;-1081,7;
-;;12/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-164;
-;;12/02/2025;0132 BANCO DO BRASIL;;;-97;
-;;12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;;;4519;
-;;12/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-249;
-;;12/02/2025;pelicula impressora 3d|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;;;-279,99;
-;;12/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-1500;
-;;12/02/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;;;1155;
-;;12/02/2025;resina|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;;;-361,41;
-;;13/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;;;97;
-;;14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-3000;
-;;14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-2400;
-;;14/02/2025;luva e mascara|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-48,5;
-;;14/02/2025;0054 Paulo Roberto Maciel;;;-567,6;
-;;14/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-65;
-;;17/02/2025;0054 Paulo Roberto Maciel;;;-570,6;
-;;17/02/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-470;
-;;17/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-28;
-;;17/02/2025;motoboy app|0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-200;
-;;19/02/2025;sabonetes e luvas|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-41,5;
-;;19/02/2025;terceirização frezagem|0078 ZYRCAD - JHH ARTESANATOS LTDA;;;-595;
-;;19/02/2025;adiantamento|0053 Everaldo Barbosa dos Santos;;;-656;
-;;19/02/2025;eletropaulo|0108 ENEL BRASIL S.A;;;-248,83;
-;;19/02/2025;PRESENTE DRA ADRIANA|0133 SHOPEE SHPS TECNOLOGIA E SERVICOS LTDA.;;;-54,52;
-;;19/02/2025;0056 EFF Dental componentes;;;-186;
-;;20/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;;;890;
-;;21/02/2025;boleto devolvido;;;186;
-;;21/02/2025;sefaz;;;-211,01;
-;;21/02/2025;mercado papel higienico;;;-23,49;
-;;21/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-89;
-;;21/02/2025;0126 CAIXA ECONOMICA FEDERAL;;;-131,2;
-;;21/02/2025;certificado digital cnpj|0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;;;-220;
-;;21/02/2025;0080 SANI MACIEL;;;-500;
-;;21/02/2025;provisao imposto;;;98;
-;;26/02/2025;Transf. |Origem:BANCO ITAÚ PJ-Destino:BANCO DO BRASIL PJ provisao pgto certificado digital;;;220;
-;;26/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;;;1140;
-;;26/02/2025;certificado digital empresa|0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;;;-220;
-;;26/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-114;
-;;26/02/2025;suporte para celular|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-36,5;
-;;28/02/2025;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ;;;2000;
-;;28/02/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;;;-1669,29;
-;;28/02/2025;19 dias |0053 Everaldo Barbosa dos Santos;;;-338,2;
-;;28/02/2025;19 dias|0130 Rubens Horikawa Katagiri;;;-338,2;
-;;28/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;2433,2;
-;;28/02/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;28/02/2025;0053 Everaldo Barbosa dos Santos;;;-105;
-;;28/02/2025;BORRACHA MAQUINA DE VAPOR|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-49,83;
-;;28/02/2025;0054 Paulo Roberto Maciel;;;-800,2;
-;;28/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-163,3;
-;;28/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-1938,05;
-;;05/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;2500;
-;;06/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;;;270;
-;;06/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;;;2659,3;
-;;07/03/2025;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ;;;5000;
-;;07/03/2025;dev pgto excedente everaldo;;;53,46;
-;;07/03/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;;;-799,9;
-;;07/03/2025;pastilhas|0083 LSI S.A.;;;-1005;
-;;07/03/2025;pagou boleto do parcelamento de imposto na conta pf|0080 SANI MACIEL;;;-527,89;
-;;07/03/2025;scanner|0083 LSI S.A.;;;-1450,9;
-;;07/03/2025;0053 Everaldo Barbosa dos Santos;;;-879,23;
-;;07/03/2025;0130 Rubens Horikawa Katagiri;;;-832,77;
-;;07/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Lillian Maria da Costa Marques Sandrin;;;123,5;
-;;10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;850;
-;;10/03/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;;;2460;
-;;10/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-410;
-;;10/03/2025;pgto helton|0054 Paulo Roberto Maciel;;;-1350;
-;;10/03/2025;pgto fatima|0054 Paulo Roberto Maciel;;;-115;
-;;10/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-3200;
-;;10/03/2025;provisao para aluguel;;;500;
-;;12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;;;1280;
-;;12/03/2025;provisão contas a pagar;;;500;
-;;12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;;;300;
-;;12/03/2025;devolução de provisão;;;-500;
-;;12/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-459;
-;;12/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P devolução de provisão;;;-3500;
-;;12/03/2025;cartão de credito empresarial;;;-431,82;
-;;12/03/2025;0132 BANCO DO BRASIL;;;-74,32;
-;;13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;;;185;
-;;13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Clínica BN Odontologia;;;15;
-;;14/03/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) realizad;;;370;
-;;14/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;385;
-;;14/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;3132;
-;;14/03/2025;0054 Paulo Roberto Maciel;;;-483;
-;;14/03/2025;0054 Paulo Roberto Maciel;;;-322;
-;;14/03/2025;0054 Paulo Roberto Maciel;;;-161;
-;;14/03/2025;0054 Paulo Roberto Maciel;;;-322,01;
-;;14/03/2025;beteria camera|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-138,76;
-;;17/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;;;382,13;
-;;17/03/2025;0054 Paulo Roberto Maciel;;;-2053;
-;;17/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-100;
-;;17/03/2025;0053 Everaldo Barbosa dos Santos;;;-175;
-;;19/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;;;570;
-;;21/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P;;;-1500;
-;;21/03/2025;0050 Dental Andaluz;;;-109,5;
-;;21/03/2025;0126 CAIXA ECONOMICA FEDERAL;;;-275,2;
-;;24/03/2025;0069 Roberto Hafran;;;-10;
-;;24/03/2025;0053 Everaldo Barbosa dos Santos;;;-175;
-;;26/03/2025;0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-64,13;
-;;26/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-57;
-;;26/03/2025;venda de imobilizado;;;10000;
-;;28/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;-7000;
-;;28/03/2025;contabilidade|0068 MAYPER CONTADORES ASSOCIADOS LTDA;;;-534,65;
-;;28/03/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;;;-1669,29;
-;;02/04/2025;0053 Everaldo Barbosa dos Santos;;;-356;
-;;02/04/2025;0130 Rubens Horikawa Katagiri;;;-356;
-;;02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;4593,65;
-;;02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Suzana;;;120;
-;;02/04/2025;boleto devolvido;;;799,9;
-;;02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;;;570;
-;;02/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;;;1507;
-;;02/04/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;;;-78,37;
-;;02/04/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;;;-799,9;
-;;07/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;;;570;
-;;07/04/2025;alcool|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-35,6;
-;;07/04/2025;antoniel|0054 Paulo Roberto Maciel;;;-829,45;
-;;07/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-586;
-;;07/04/2025;fatima|0054 Paulo Roberto Maciel;;;-105;
-;;07/04/2025;antec DL|0048 PAULO ROBERTO MACIEL FILHO;;;-5000;
-;;07/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;200;
-;;07/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;1710;
-;;07/04/2025;0053 Everaldo Barbosa dos Santos;;;-80;
-;;07/04/2025;dev aliexpress;;;170,64;
-;;09/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Eduardo Lucas Maciel;;;600;
-;;10/04/2025;prov aluguel;;;1731;
-;;10/04/2025;prov imposto;;;372;
-;;10/04/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;920;
-;;10/04/2025;placa de bruxismo jessica|0054 Paulo Roberto Maciel;;;-161;
-;;10/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-228;
-;;10/04/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;;;-3461,43;
-;;10/04/2025;0090 ELINEI MENDES;;;-170;
-;;10/04/2025;jb|0054 Paulo Roberto Maciel;;;-161;
-;;11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;;;4800;
-;;11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;;;950;
-;;11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Vieira;;;1300;
-;;11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;;;1447,6;
-;;11/04/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;;;2940;
-;;11/04/2025;peça impressora|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;;;-197,54;
-;;11/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;;;-4000;
-;;11/04/2025;cartão de credito|0132 BANCO DO BRASIL;;;-442,81;
-;;11/04/2025;taxa adm|0132 BANCO DO BRASIL;;;-49,5;
-;;16/04/2025;prov imposto;;;78;
-;;16/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Lillian Maria da Costa Marques Sandrin;;;1560;
-;;16/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-1084;
-;;16/04/2025;0054 Paulo Roberto Maciel;;;-161;
-;;16/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;;;-5500;
-;;16/04/2025;0053 Everaldo Barbosa dos Santos;;;-240;
-;;16/04/2025;ZYRCAD - VENDA DE IMOBILIZADO;;;5000;
-;;16/04/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) realizad;;;1325;
-;;23/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-156;
-;;23/04/2025;0053 Everaldo Barbosa dos Santos;;;-656;
-;;23/04/2025;0130 Rubens Horikawa Katagiri;;;-720;
-;;23/04/2025;be smile|0054 Paulo Roberto Maciel;;;-1130;
-;;23/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-562;
-;;23/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo negativo;;;-1025;
-;;23/04/2025;imposto|0065 SIMPLES NACIONAL;;;-533,02;
-;;23/04/2025;0126 CAIXA ECONOMICA FEDERAL;;;-275,2;
-;;23/04/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;;;-1652,09;
-;;23/04/2025;0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;;;-799,9;
-;;23/04/2025;0108 ENEL BRASIL S.A;;;-326,25;
-;;23/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P reserva para pgto de contas;;;-524;
-;;23/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P reserva para pgto de contas;;;-712;
-;;23/04/2025;imposto de renda|0068 MAYPER CONTADORES ASSOCIADOS LTDA;;;-250;
-;;23/04/2025;0053 Everaldo Barbosa dos Santos;;;-120;
-;;23/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;2666;
-;;24/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;2464;
-;;25/04/2025;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ uso do valor separado;;;524;
-;;25/04/2025;0054 Paulo Roberto Maciel;;;-1696;
-;;25/04/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;;;-524;
-;;25/04/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;;;-170;
-;;25/04/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;;;-78,37;
-;;25/04/2025;presentes dres aniversario|0080 SANI MACIEL;;;-150;
-;;25/04/2025;0054 Paulo Roberto Maciel;;;-1783,7;
-;;25/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-68;
-;;25/04/2025;0069 Roberto Hafran;;;-60;
-;;25/04/2025;bolsa para entrega;;;-89,99;
-;;30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;;;185;
-;;30/04/2025;0053 Everaldo Barbosa dos Santos;;;-90;
-;;30/04/2025;0053 Everaldo Barbosa dos Santos;;;-356;
-;;30/04/2025;0130 Rubens Horikawa Katagiri;;;-356;
-;;30/04/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-72;
-;;30/04/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-1400;
-;;30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;;;570;
-;;30/04/2025;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;;;690;
-;;05/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;;;720;
-;;05/05/2025;HBA Materiais de construção (mangueira vapor);;;-33,8;
-;;05/05/2025;renegociação|0065 SIMPLES NACIONAL;;;-537,89;
-;;05/05/2025;0053 Everaldo Barbosa dos Santos;;;-180;
-;;05/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;;;1858,79;
-;;07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;6337;
-;;07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;;;548,09;
-;;07/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-186;
-;;07/05/2025;0054 Paulo Roberto Maciel;;;-685;
-;;07/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-566;
-;;07/05/2025;pastilhas|0083 LSI S.A.;;;-213,39;
-;;07/05/2025;scanner|0083 LSI S.A.;;;-1450,9;
-;;07/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;490;
-;;09/05/2025;aluguel;;;1356;
-;;09/05/2025;0053 Everaldo Barbosa dos Santos;;;-782,05;
-;;09/05/2025;0130 Rubens Horikawa Katagiri;;;-763,79;
-;;09/05/2025;0080 SANI MACIEL;;;-1351,02;
-;;09/05/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-1351,02;
-;;09/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-55;
-;;09/05/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;;;-3461,43;
-;;09/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;;;1710;
-;;12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;976,75;
-;;12/05/2025;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;;;600;
-;;12/05/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-200;
-;;12/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-171;
-;;12/05/2025;empréstimo para pai (pgto deivison);;;-1500;
-;;14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;;;570;
-;;14/05/2025;pgto jb |0054 Paulo Roberto Maciel;;;-680;
-;;14/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-60;
-;;14/05/2025;reembolso pgto comissão everaldo|0048 PAULO ROBERTO MACIEL FILHO;;;-200;
-;;14/05/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-300;
-;;14/05/2025;0132 BANCO DO BRASIL;;;-49,5;
-;;14/05/2025;0132 BANCO DO BRASIL;;;-307,99;
-;;14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;;;1820;
-;;14/05/2025;Estorno C.ReceberLanç/Cliente 07/05/25 Larissa Consentino Viei;;;-548,09;
-;;14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;;;548,09;
-;;14/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;4720;
-;;19/05/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;;;8018,81;
-;;19/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;;;525;
-;;19/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-239;
-;;19/05/2025;antec dl|0048 PAULO ROBERTO MACIEL FILHO;;;-350;
-;;19/05/2025;plastico bolha|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-12,6;
-;;19/05/2025;0054 Paulo Roberto Maciel;;;-161;
-;;19/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-456;
-;;19/05/2025;devolução pgto incorreto;;;1600;
-;;19/05/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-8,6;
-;;19/05/2025;0053 Everaldo Barbosa dos Santos;;;-656;
-;;19/05/2025;0130 Rubens Horikawa Katagiri;;;-720;
-;;19/05/2025;conta labstone;;;-780;
-;;19/05/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;;;-2840;
-;;19/05/2025;devolução pagamento incorreto;;;-1600;
-;;19/05/2025;drogaria sao paulo algodão;;;-27,99;
-;;19/05/2025;0053 Everaldo Barbosa dos Santos;;;-85;
-;;19/05/2025;faxina|0090 ELINEI MENDES;;;-170;
-;;19/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-802;
-;;19/05/2025;0126 CAIXA ECONOMICA FEDERAL;;;-264,58;
-;;19/05/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;;;-1652,09;
-;;19/05/2025;0056 EFF Dental componentes;;;-315;
-;;19/05/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;;;-799,9;
-;;19/05/2025;0108 ENEL BRASIL S.A;;;-317,14;
-;;19/05/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;;;-78,37;
-;;19/05/2025;0080 SANI MACIEL;;;-677;
-;;19/05/2025;0080 SANI MACIEL;;;-500;
-;;19/05/2025;0125 RECEITA FEDERAL;;;-521,08;
-;;19/05/2025;0065 SIMPLES NACIONAL;;;-1915,21;
-;;21/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;;;3000;
-;;21/05/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;21/05/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-1300;
-;;21/05/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-2172,08;
-;;23/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Andressa Veiga Rubbi;;;570;
-;;23/05/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;460;
-;;23/05/2025;0054 Paulo Roberto Maciel;;;-161;
-;;23/05/2025;0054 Paulo Roberto Maciel;;;-730;
-;;23/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-362;
-;;23/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-57;
-;;23/05/2025;0069 Roberto Hafran;;;-32,5;
-;;28/05/2025;0053 Everaldo Barbosa dos Santos;;;-200;
-;;28/05/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;28/05/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;460;
-;;28/05/2025;gasolina;;;-234,1;
-;;28/05/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-69,9;
-;;28/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;800;
-;;30/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Ivan José Galvão de França erro de lançamento;;;570;
-;;30/05/2025;Transf. | Origem: BANCO DO BRASIL PJ - Destino: BANCO ITA? Pgto de serviço(s) realizado(;;;-570;
-;;30/05/2025;Pgto de serviço(s) realizado(s) | Cliente: Fabiana Callado;;;70;
-;;30/05/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-126;
-;;30/05/2025;0053 Everaldo Barbosa dos Santos;;;-338,5;
-;;30/05/2025;0130 Rubens Horikawa Katagiri;;;-338,5;
-;;30/05/2025;papelaria adesivos;;;-35;
-;;02/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;5165;
-;;02/06/2025;0053 Everaldo Barbosa dos Santos;Custos;Comissões;-180;
-;;02/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-200;
-;;04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;;;2018,24;
-;;04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;;;342,9;
-;;04/06/2025;faxina|0090 ELINEI MENDES;Despesas administrativas;Outras despesas adm;-170;
-;;04/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-421;
-;;04/06/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;Despesas administrativas;Acessorias e consultorias;-524;
-;;04/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;;;570;
-;;04/06/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-900;
-;;06/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;;;1140;
-;;06/06/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-922;
-;;06/06/2025;scanner|0083 LSI S.A.;Atividades e investimentos;Imobilizado;-1451,38;
-;;06/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-132;
-;;06/06/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;;;960;
-;;06/06/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Custos;Matéria-prima;-38,5;
-;;09/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;3500;
-;;09/06/2025;0053 Everaldo Barbosa dos Santos;Custos;Salários e ordenados;-89,87;
-;;09/06/2025;0130 Rubens Horikawa Katagiri;Custos;Salários e ordenados;-41,84;
-;;12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;1380;
-;;12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;1100;
-;;12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;10;
-;;12/06/2025;resina compra pf;Custos;Matéria-prima;-400;
-;;12/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-268;
-;;12/06/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;Despesas administrativas;Aluguel de imóvel;-3461,43;
-;;12/06/2025;0080 SANI MACIEL;Custos;Pró-labores;-1351;
-;;12/06/2025;0048 PAULO ROBERTO MACIEL FILHO;Custos;Pró-labores;-1051;
-;;12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;;;812,5;
-;;12/06/2025;pgto condominio|0048 PAULO ROBERTO MACIEL FILHO;Atividades de financiamentos;Antecipação DL;-1070,51;
-;;12/06/2025;pagamento celular|0048 PAULO ROBERTO MACIEL FILHO;Atividades de financiamentos;Antecipação DL;-92,39;
-;;12/06/2025;0132 BANCO DO BRASIL;Despesas financeiras;Tarifas bancárias;-49,5;
-;;12/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;;;1800;
-;;12/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-100;
-;;12/06/2025;cartão de credito|0132 BANCO DO BRASIL;Custos;Matéria-prima;-330,9;
-;;13/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-200;
-;;13/06/2025;repasse jb odntologia|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-870;
-;;13/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-318;
-;;13/06/2025;pástico bolha|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Despesas comerciais;Embalagens;-11,5;
-;;16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;;;1020;
-;;16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;4000;
-;;16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;;;1000;
-;;16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;910;
-;;16/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;;;241,5;
-;;16/06/2025;0053 Everaldo Barbosa dos Santos;Custos;Comissões;-85;
-;;18/06/2025;devolução transferencia elinei;;;170;
-;;18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Allegra Odontologia;;;2000;
-;;18/06/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;;;4298,7;
-;;18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;;;480;
-;;18/06/2025;alcool|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Custos;Matéria-prima;-38,15;
-;;18/06/2025;0090 ELINEI MENDES;Despesas administrativas;Materiais de limpeza e higiene;-170;
-;;18/06/2025;adiantamento|0053 Everaldo Barbosa dos Santos;Custos;Salários e ordenados;-656;
-;;18/06/2025;adiantamento|0130 Rubens Horikawa Katagiri;Custos;Salários e ordenados;-720;
-;;18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;6087;
-;;18/06/2025;distribuição de lucros|0048 PAULO ROBERTO MACIEL FILHO;Outras receitas;;-1150;
-;;18/06/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-4310;
-;;18/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-218;
-;;18/06/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-883;
-;;18/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-342;
-;;18/06/2025;0090 ELINEI MENDES;Despesas administrativas;Materiais de limpeza e higiene;-170;
-;;18/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Helder de Mello;;;920;
-;;23/06/2025;Transf. | Origem: BANCO DO BRASIL PJ - Destino: BANCO ITA? Pgto de serviço(s) realizado(;;;-920;
-;;23/06/2025;bolo café funcionários;Custos;Gratificações;-28;
-;;23/06/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;Custos;Terceirizção de produção;-2105;
-;;23/06/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-2681,1;
-;;23/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-589;
-;;23/06/2025;0048 PAULO ROBERTO MACIEL FILHO;Atividades de financiamentos;Distr. lucros e div.;-2000;
-;;23/06/2025;0065 SIMPLES NACIONAL;Impostos;Simples Nacional;-1219,96;
-;;23/06/2025;0125 RECEITA FEDERAL;Impostos;IRRF;-534,81;
-;;23/06/2025;0126 CAIXA ECONOMICA FEDERAL;Custos;FGTS;-276,79;
-;;23/06/2025;0053 Everaldo Barbosa dos Santos;Custos;Comissões;-20;
-;;23/06/2025;adiantamento|0053 Everaldo Barbosa dos Santos;Custos;Salários e ordenados;-300;
-;;23/06/2025;0048 PAULO ROBERTO MACIEL FILHO;Atividades de financiamentos;Distr. lucros e div.;-3100;
-;;26/06/2025;0048 PAULO ROBERTO MACIEL FILHO;Atividades de financiamentos;Distr. lucros e div.;-300;
-;;26/06/2025;0053 Everaldo Barbosa dos Santos;Custos;Aux. transp. e comb.;-409,4;
-;;26/06/2025;0130 Rubens Horikawa Katagiri;Custos;Aux. transp. e comb.;-409,4;
-;;26/06/2025;0106 BANCO DE LAGE LANDEN BRASIL S.A.;Atividades e investimentos;Imobilizado;-1652,09;
-;;26/06/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;Despesas administrativas;Software/Licença;-78,37;
-;;26/06/2025;0108 ENEL BRASIL S.A;Despesas administrativas;Energia elétrica;-320,32;
-;;26/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Francisco Chaves;;;175;
-;;26/06/2025;boy lalamove;Despesas administrativas;Fretes e carretos;-15;
-;;26/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Allegra Odontologia;;;1208;
-;;26/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Stephane R. Alves Maia;;;120;
-;;26/06/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-100;
-;;26/06/2025;boy lalamove;Despesas administrativas;Fretes e carretos;-15;
-;;30/06/2025;pgto dr francisco|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-175;
-;;30/06/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-132;
-;;30/06/2025;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;Custos;Matéria-prima;-799,9;
-;;30/06/2025;Pgto de serviço(s) realizado(s) | Cliente: Eliane Silva;;;240;
-;;30/06/2025;0048 PAULO ROBERTO MACIEL FILHO;Custos;Pró-labores;-353;
-;;30/06/2025;0069 Roberto Hafran;Despesas administrativas;Fretes e carretos;-67,5;
-;;01/07/2025;sani - provisão pgto de contas;;;80;
-;;01/07/2025;Transf. | Origem: BANCO ITAU PAULINHO - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) re;;;1000;
-;;01/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;;;630;
-;;01/07/2025;0065 SIMPLES NACIONAL;;;-549,17;
-;;03/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;;;1859,46;
-;;03/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;480;
-;;04/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-200;
-;;04/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-163;
-;;04/07/2025;0054 Paulo Roberto Maciel;;;-185;
-;;04/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;185;
-;;04/07/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-300;
-;;04/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Fábio Eduardo Fernandes;;;570;
-;;07/07/2025;lenços|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-26,4;
-;;07/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-291;
-;;07/07/2025;0054 Paulo Roberto Maciel;;;-161;
-;;07/07/2025;scanner|0083 LSI S.A.;;;-1451,38;
-;;07/07/2025;0053 Everaldo Barbosa dos Santos;;;-541,69;
-;;07/07/2025;0053 Everaldo Barbosa dos Santos;;;-40;
-;;07/07/2025;0130 Rubens Horikawa Katagiri;;;-787,03;
-;;10/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;4499;
-;;10/07/2025;aluguel lab;;;325;
-;;10/07/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;;;-3461,43;
-;;10/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-294;
-;;10/07/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-600;
-;;10/07/2025;0080 SANI MACIEL;;;-600;
-;;10/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;;;1153,56;
-;;10/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;2307;
-;;10/07/2025;boy lalamove;;;-20;
-;;11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;;;570;
-;;11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;;;1737,5;
-;;11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Mariana Yuri de França Shimizu;;;245;
-;;11/07/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;;;570;
-;;11/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;11/07/2025;pgto helton|0054 Paulo Roberto Maciel;;;-2307;
-;;11/07/2025;0110 COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABE;;;-76,3;
-;;11/07/2025;0080 SANI MACIEL;;;-1200;
-;;11/07/2025;0132 BANCO DO BRASIL;;;-49,5;
-;;11/07/2025;cartão de crédito|0132 BANCO DO BRASIL;;;-421,14;
-;;14/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Eduardo Lucas Maciel;;;1000;
-;;14/07/2025;Transf. | Origem: BANCO DO BRASIL PJ - Destino: BANCO ITA? ERRO DE LANÇAMENTO Pgto de se;;;-1000;
-;;14/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;;;350;
-;;14/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-114;
-;;14/07/2025;pgto dra mariana|0054 Paulo Roberto Maciel;;;-185;
-;;14/07/2025;pgto besmile|0054 Paulo Roberto Maciel;;;-1349;
-;;14/07/2025;isopor|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-51,99;
-;;14/07/2025;0053 Everaldo Barbosa dos Santos;;;-180;
-;;14/07/2025;cartoes e tags|0121 ALLUPRINT SERVICOS GRAFICOS LTDA;;;-226,5;
-;;14/07/2025;pgto aline|0054 Paulo Roberto Maciel;;;-350;
-;;15/07/2025;DESCARTÁVEIS;;;-12,46;
-;;15/07/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-300;
-;;15/07/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;;;3007,38;
-;;15/07/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;1840;
-;;15/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;15/07/2025;RESINA IMPRESSÃO|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;;;-1045,61;
-;;15/07/2025;PAGAMENTO EMPRÉSTIMO;;;-1000;
-;;16/07/2025;pgto ana gouveia|0054 Paulo Roberto Maciel;;;-1594;
-;;16/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-326;
-;;16/07/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;;;-900;
-;;18/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;;;1140;
-;;18/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-114;
-;;18/07/2025;0053 Everaldo Barbosa dos Santos;;;-656;
-;;18/07/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;;;-270;
-;;18/07/2025;0130 Rubens Horikawa Katagiri;;;-720;
-;;18/07/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-2109;
-;;18/07/2025;larissa;;;-25;
-;;21/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;;;1275;
-;;21/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;2500;
-;;21/07/2025;casa de bolos;;;-26;
-;;21/07/2025;0054 Paulo Roberto Maciel;;;-635;
-;;21/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-64;
-;;21/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-250;
-;;21/07/2025;0125 RECEITA FEDERAL;;;-529,69;
-;;21/07/2025;0126 CAIXA ECONOMICA FEDERAL;;;-272,24;
-;;21/07/2025;0065 SIMPLES NACIONAL;;;-818,68;
-;;21/07/2025;0053 Everaldo Barbosa dos Santos;;;-80;
-;;21/07/2025;0108 ENEL BRASIL S.A;;;-300,17;
-;;21/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;23/07/2025;Repasse Dra Vânia;;;690;
-;;23/07/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-350;
-;;23/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-69;
-;;23/07/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-1619;
-;;23/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Ricardo Lilla;;;570;
-;;25/07/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-146,8;
-;;25/07/2025;MOP LIMPEZA;;;-64,9;
-;;28/07/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-39,2;
-;;28/07/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-57;
-;;28/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100;
-;;28/07/2025;0053 Everaldo Barbosa dos Santos;;;-150;
-;;30/07/2025;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;;;-1652,09;
-;;30/07/2025;0056 EFF Dental componentes;;;-322;
-;;30/07/2025;contabilidade|0068 MAYPER CONTADORES ASSOCIADOS LTDA;;;-524;
-;;30/07/2025;0053 Everaldo Barbosa dos Santos;;;-373,8;
-;;30/07/2025;0130 Rubens Horikawa Katagiri;;;-373,8;
-;;30/07/2025;pé de mesa|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-72,77;
-;;31/07/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;3000;
-;;31/07/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;;;-78,37;
-;;31/07/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-50;
-;;01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;;;570;
-;;01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;;;789,3;
-;;01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Vieira;;;570;
-;;01/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;;;270;
-;;01/08/2025;DESCARTAVEIS|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Despesas administrativas;Copa e cozinha;-34,7;
-;;01/08/2025;darf|0125 RECEITA FEDERAL;Impostos;;-554,81;
-;;04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;;;5971;
-;;04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;300;
-;;04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;;;240;
-;;04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Suzana;;;480;
-;;04/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Isaac Newton Hoga;;;1020;
-;;04/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-520;
-;;04/08/2025;0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;Custos;Matéria-prima;-823,9;
-;;04/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-100;
-;;04/08/2025;0053 Everaldo Barbosa dos Santos;Custos;Comissões;-200;
-;;06/08/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Despesas administrativas;Materiais de limpeza e higiene;-14,9;
-;;06/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-680;
-;;06/08/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-1879;
-;;06/08/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-249;
-;;06/08/2025;0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-161;
-;;06/08/2025;scanner|0083 LSI S.A.;Atividades e investimentos;Imobilizado;-1450,9;
-;;06/08/2025;0080 SANI MACIEL;Custos;Pró-labores;-1800;
-;;06/08/2025;0053 Everaldo Barbosa dos Santos;Custos;Salários e ordenados;-600;
-;;06/08/2025;0130 Rubens Horikawa Katagiri;Custos;Salários e ordenados;-600;
-;;06/08/2025;equipamento foto|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;Despesas administrativas;Bens de pequeno valor;-287,17;
-;;08/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Stephanie Paula Vaz Domingues;;;570;
-;;08/08/2025;0053 Everaldo Barbosa dos Santos;Custos;Salários e ordenados;-49,28;
-;;08/08/2025;0130 Rubens Horikawa Katagiri;Custos;Salários e ordenados;-61,68;
-;;08/08/2025;Transf. | Origem: BANCO ITAÚ PF PAULO - Destino: BANCO DO BRASIL PJ pagamento de aluguel;;;1818;
-;;11/08/2025;aluguel;Outras receitas;Receita de aluguel de imóvel;76;
-;;11/08/2025;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;;;2916;
-;;11/08/2025;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;;;370;
-;;11/08/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;Despesas administrativas;Aluguel de imóvel;-3613,5;
-;;11/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-57;
-;;11/08/2025;0053 Everaldo Barbosa dos Santos;Custos;Comissões;-5;
-;;11/08/2025;alex alves motoboy;Despesas administrativas;Fretes e carretos;-40;
-;;13/08/2025;REPASSE BESMILE|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-322;
-;;13/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-292;
-;;13/08/2025;0048 PAULO ROBERTO MACIEL FILHO;Custos;Pró-labores;-2500;
-;;13/08/2025;0132 BANCO DO BRASIL;Despesas financeiras;Tarifas bancárias;-49,5;
-;;13/08/2025;CARTÃO DE CRÉDITO|0132 BANCO DO BRASIL;Custos;Matéria-prima;-146,74;
-;;13/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;;;3921;
-;;13/08/2025;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;;;1380;
-;;13/08/2025;CARTAO DE CREDITO|0132 BANCO DO BRASIL;Custos;Matéria-prima;-16,81;
-;;14/08/2025;receita curso paulinho;Outras receitas;;600;
-;;14/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;;;1200;
-;;14/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;;;185;
-;;14/08/2025;0119 DIA BRASIL SOCIEDADE LIMITADA EM RECUPERACAO JUDICIAL;Despesas administrativas;Materiais de limpeza e higiene;-26,49;
-;;14/08/2025;repasse helton|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-3471;
-;;14/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-181;
-;;14/08/2025;0048 PAULO ROBERTO MACIEL FILHO;Custos;Pró-labores;-1000;
-;;14/08/2025;RP IMPLANTES;Custos;Matéria-prima;-237,5;
-;;14/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-50;
-;;14/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;;;7975,5;
-;;14/08/2025;Estorno C.ReceberLanç/Cliente 14/08/25 Ana Claudia Ynone Gouve;;;-7975,5;
-;;15/08/2025;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;;;7568,32;
-;;15/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;;;170;
-;;15/08/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Despesas administrativas;Copa e cozinha;-15,4;
-;;15/08/2025;repasse ana gouveia|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-1385;
-;;15/08/2025;repasse maarina e aline|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-1740;
-;;15/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-565;
-;;15/08/2025;0110 COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABE;Despesas administrativas;Água e saneamento;-78,2;
-;;18/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;;;150;
-;;18/08/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;Despesas administrativas;Materiais de limpeza e higiene;-59,3;
-;;18/08/2025;mimo cliente novo;Despesas comerciais;Brindes para clientes;-29,99;
-;;18/08/2025;0048 PAULO ROBERTO MACIEL FILHO;Custos;Pró-labores;-600;
-;;18/08/2025;0053 Everaldo Barbosa dos Santos;Custos;Salários e ordenados;-721,6;
-;;18/08/2025;0130 Rubens Horikawa Katagiri;Custos;Salários e ordenados;-792;
-;;18/08/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;Custos;Terceirizção de produção;-2110;
-;;18/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-100;
-;;18/08/2025;0053 Everaldo Barbosa dos Santos;Custos;Comissões;-100;
-;;20/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-163;
-;;20/08/2025;0108 ENEL BRASIL S.A;Despesas administrativas;Energia elétrica;-400,3;
-;;20/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;;;3168;
-;;20/08/2025;Fernando/motoboy;Despesas administrativas;Fretes e carretos;-25;
-;;20/08/2025;josé;Despesas administrativas;Fretes e carretos;-15,04;
-;;22/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-100;
-;;22/08/2025;repasse markiodonto|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-990;
-;;22/08/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-218;
-;;22/08/2025;0125 RECEITA FEDERAL;Custos;INSS;-559,73;
-;;22/08/2025;0065 SIMPLES NACIONAL;Impostos;Simples Nacional;-843,3;
-;;22/08/2025;0126 CAIXA ECONOMICA FEDERAL;Custos;FGTS;-298,95;
-;;22/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;;;462,5;
-;;22/08/2025;compra agua mineralizada;Custos;Matéria-prima;-27,48;
-;;25/08/2025;repasse jb odontologia|0054 Paulo Roberto Maciel;Custos;Prof. terceirizado;-402,5;
-;;25/08/2025;0069 Roberto Hafran;Despesas administrativas;Fretes e carretos;-52,5;
-;;29/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;;;150;
-;;29/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Roberta Martins Figueiredo;;;283,5;
-;;29/08/2025;dental tanaka;Custos;Matéria-prima;-179;
-;;29/08/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;Despesas administrativas;Fretes e carretos;-100;
-;;29/08/2025;Pgto de serviço(s) realizado(s) | Cliente: Flávia Lima Pinheiro Guerra;;;280;
-;;29/08/2025;boy lalamove;Despesas administrativas;Fretes e carretos;-25,19;
+debito;credito;data;descrição;grupo;subgrupo;valor
+;;03/02/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;;;681
+;;04/02/2025;MANUTENÇÃO AR CONDICIONADO|0128 ROSIMAR VIEIRA;;;-350
+;;04/02/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;;;-78,37
+;;04/02/2025;0116 FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.;;;-100
+;;04/02/2025;0065 SIMPLES NACIONAL;;;-522,71
+;;04/02/2025;PAO DE QUEIJO REUNIÃO|0129 CONFEITARIA ORQUIDEA PEROLA LTDA;;;-22,8
+;;04/02/2025;0053 Everaldo Barbosa dos Santos;;;-215
+;;04/02/2025;SCANNER CREMER|0083 LSI S.A.;;;-1450,9
+;;04/02/2025;PASTILHAS CREMER|0083 LSI S.A.;;;-1005
+;;04/02/2025;0082 ITAU UNIBANCO S.A.;;;-7,6
+;;04/02/2025;0082 ITAU UNIBANCO S.A.;;;-997,94
+;;05/02/2025;APARECIDO;;;-15,7
+;;05/02/2025;PGTO ALINE|0054 Paulo Roberto Maciel;;;-681
+;;05/02/2025;0053 Everaldo Barbosa dos Santos;;;-881,53
+;;05/02/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-5993,47
+;;05/02/2025;0082 ITAU UNIBANCO S.A.;;;-93,14
+;;05/02/2025;NEGATIVAÇÃO|0082 ITAU UNIBANCO S.A.;;;-10,99
+;;05/02/2025;PLANO ADAPT REDE|0082 ITAU UNIBANCO S.A.;;;-139
+;;07/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;1000
+;;07/02/2025;0056 EFF Dental componentes;;;-307
+;;12/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;1500
+;;12/02/2025;prov aluguel;;;1288
+;;12/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-15
+;;12/02/2025;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;;;-3461,43
+;;12/02/2025;0090 ELINEI MENDES;;;-170
+;;12/02/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100
+;;12/02/2025;papelaria (marco aurelio);;;-36
+;;12/02/2025;0082 ITAU UNIBANCO S.A.;;;-8,16
+;;14/02/2025;cremer|0083 LSI S.A.;;;-162,63
+;;14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;3000
+;;14/02/2025;teclado |0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;;;-85,4
+;;14/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;2400
+;;14/02/2025;luva e mascara|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-48,5
+;;14/02/2025;Estorno C.P. Pgto: 14/02/2025 M&B EMBALAGENS DESCARTAVEIS LTDA;;;48,5
+;;17/02/2025;0053 Everaldo Barbosa dos Santos;;;-75
+;;19/02/2025;adiantamento|0130 Rubens Horikawa Katagiri;;;-720
+;;19/02/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-21,28
+;;19/02/2025;cartao de credito empresa;;;-519,51
+;;19/02/2025;casa de bolos;;;-16
+;;21/02/2025;0065 SIMPLES NACIONAL;;;-1966,36
+;;21/02/2025;0065 SIMPLES NACIONAL;;;-2243,26
+;;21/02/2025;0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;;;-254,88
+;;24/02/2025;comprar cartao credito pf|0048 PAULO ROBERTO MACIEL FILHO;;;-1799,64
+;;24/02/2025;0053 Everaldo Barbosa dos Santos;;;-240
+;;24/02/2025;cobranca de boleto|0082 ITAU UNIBANCO S.A.;;;-8,16
+;;26/02/2025;Transf. |Origem:BANCO ITAÚ PJ-Destino:BANCO DO BRASIL PJ provisao pgto certificado digi;;;-220
+;;26/02/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-20
+;;26/02/2025;0090 ELINEI MENDES;;;-170
+;;26/02/2025;dev pix mercado livre;;;85,4
+;;26/02/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;;;-524
+;;26/02/2025;0082 ITAU UNIBANCO S.A.;;;-24,48
+;;26/02/2025;0082 ITAU UNIBANCO S.A.;;;-23,48
+;;28/02/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;1938,05
+;;28/02/2025;0076 URGTECH INOVACAO E SUPORTE LTDA;;;-78,37
+;;28/02/2025;0068 MAYPER CONTADORES ASSOCIADOS LTDA;;;-1000
+;;07/03/2025;0080 SANI MACIEL;;;-500
+;;07/03/2025;0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;;;-211,01
+;;07/03/2025;0082 ITAU UNIBANCO S.A.;;;-0,28
+;;07/03/2025;0082 ITAU UNIBANCO S.A.;;;-2751,96
+;;07/03/2025;cobrança boleto|0082 ITAU UNIBANCO S.A.;;;-24,48
+;;07/03/2025;iof|0082 ITAU UNIBANCO S.A.;;;-104,4
+;;10/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;3200
+;;10/03/2025;provisao aluguel;;;2092
+;;10/03/2025;provisao contas a pagar;;;1000
+;;10/03/2025;dev de provisionamento|0048 PAULO ROBERTO MACIEL FILHO;;;-3400
+;;10/03/2025;0053 Everaldo Barbosa dos Santos;;;-115
+;;12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;;;1140
+;;12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;;;730,5
+;;12/03/2025;0055 REDECARD INSTITUICAO DE PAGAMENTO S.A.;;;-159
+;;12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Isaac Newton Hoga;;;465,38
+;;12/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;;;370
+;;13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;;;4429,5
+;;13/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;;;1799
+;;14/03/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASI Pgto de serviço(s) realizado(;;;-370
+;;14/03/2025;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO ITAÚ PF Pgto de serviço(s) realizado(;;;-465,38
+;;14/03/2025;0082 ITAU UNIBANCO S.A.;;;-16,32
+;;14/03/2025;JUROS TRANSAÇÃO MAQUININHA LINK|0055 REDECARD INSTITUICAO DE PAGAMENTO S.A.;;;-235
+;;17/03/2025;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;;;-575
+;;17/03/2025;PGTO ANA GOUVEIA|0054 Paulo Roberto Maciel;;;-217,35
+;;17/03/2025;PGTO NADJHILA|0054 Paulo Roberto Maciel;;;-217,35
+;;17/03/2025;KEY SACO ASPIRADOR|0137 OSVALDO BENTO DE SOUZA COMERCIO DE MOVEIS;;;-119,5
+;;21/03/2025;pastilhas|0083 LSI S.A.;;;-162,63
+;;21/03/2025;0078 ZYRCAD - JHH ARTESANATOS LTDA;;;-2145
+;;21/03/2025;0080 SANI MACIEL;;;-500
+;;21/03/2025;0108 ENEL BRASIL S.A;;;-368,93
+;;21/03/2025;faxina|0090 ELINEI MENDES;;;-180
+;;21/03/2025;cartao de credito|0082 ITAU UNIBANCO S.A.;;;-519,5
+;;21/03/2025;aluguel|0055 REDECARD INSTITUICAO DE PAGAMENTO S.A.;;;-35
+;;21/03/2025;0082 ITAU UNIBANCO S.A.;;;-13,96
+;;21/03/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100
+;;21/03/2025;0053 Everaldo Barbosa dos Santos;;;-656
+;;21/03/2025;0130 Rubens Horikawa Katagiri;;;-720
+;;21/03/2025;0048 PAULO ROBERTO MACIEL FILHO;;;-2300
+;;21/03/2025;resina|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;;;-278,46
+;;21/03/2025;Pgto de serviço(s) realizado(s) | Cliente: Andressa Veiga Rubbi;;;570
+;;26/03/2025;Estorno C.ReceberLanç/Cliente 21/03/25 Andressa Veiga Rubbi;;;-570
+;;26/03/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100
+;;26/03/2025;0082 ITAU UNIBANCO S.A.;;;-8,16
+;;26/03/2025;0082 ITAU UNIBANCO S.A.;;;-24,48
+;;28/03/2025;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;;;7000
+;;28/03/2025;venda de imobilizado;;;5000
+;;28/03/2025;venda de imobilizado;;;5000
+;;28/03/2025;venda de imobilizado;;;5000
+;;28/03/2025;0065 SIMPLES NACIONAL;;;-1331,75
+;;28/03/2025;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;;;-100
+;;28/03/2025;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;;;-23,5

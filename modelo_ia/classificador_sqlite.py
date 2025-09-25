@@ -67,7 +67,6 @@ def classificar_com_db(nome_do_arquivo_para_classificar):
         print(f"ERRO CRÍTICO no carregamento: {e}")
         return None  # Retorna None em caso de erro
 
-    # ... (O resto do seu código de classificação continua o mesmo) ...
     df_mestre.columns = [normalizar_texto(col) for col in df_mestre.columns]
     df_fluxo.columns = [normalizar_texto(col) for col in df_fluxo.columns]
     df_fluxo.rename(columns={'subcategoria': 'subgrupo', 'categoria': 'grupo'}, inplace=True)
@@ -104,7 +103,9 @@ def classificar_com_db(nome_do_arquivo_para_classificar):
                 probabilidade = modelo_ia.predict_proba([texto_normalizado]).max()
                 df_fluxo.loc[index, 'Metodo'] = 'IA (Contexto)'
                 df_fluxo.loc[index, 'Confianca'] = probabilidade
-        df_fluxo.loc[index, 'Codigo'] = codigo_encontrado if codigo_encontrado else 'Falha'
+
+        df_fluxo.loc[index, 'Codigo'] = codigo_encontrado if codigo_encontrado else None
+
     print(" -> Classificação concluída.")
     df_fluxo.rename(columns={'data': 'Data', 'descricao': 'DescricaoOriginal', 'valor': 'Valor'}, inplace=True)
     df_fluxo['Débito'] = df_fluxo.apply(lambda row: row['Codigo'] if row['Valor'] < 0 else None, axis=1)
@@ -120,6 +121,11 @@ def classificar_com_db(nome_do_arquivo_para_classificar):
     df_resultado_csv.to_csv(caminho_arquivo_saida, sep=';', decimal=',', index=False, encoding='utf-8-sig')
     print(f"\n -> Ficheiro CSV para o cliente salvo em: '{caminho_arquivo_saida}'")
 
+    # ===== CORREÇÃO APLICADA AQUI =====
+    # Força a coluna 'Codigo' a ser do tipo numérico anulável (nullable integer) antes de guardar no DB.
+    # Isto garante a compatibilidade com o banco de dados.
+    df_fluxo['Codigo'] = pd.to_numeric(df_fluxo['Codigo'], errors='coerce').astype('Int64')
+
     colunas_para_db = {'Data': 'data', 'DescricaoOriginal': 'descricao_original', 'Valor': 'valor',
                        'Codigo': 'codigo_classificado', 'Metodo': 'metodo', 'Confianca': 'confianca'}
     df_para_db = df_fluxo.rename(columns=colunas_para_db)
@@ -129,7 +135,7 @@ def classificar_com_db(nome_do_arquivo_para_classificar):
     conexao.close()
     print("\n✅ SUCESSO! Processo concluído.")
 
-    return caminho_arquivo_saida  # <-- ALTERAÇÃO IMPORTANTE: retorna o caminho do ficheiro
+    return caminho_arquivo_saida
 
 
 if __name__ == "__main__":
