@@ -1,278 +1,564 @@
-Grupo;Subgrupo;Descricao;codigo_correto
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANÇA INSTRUÇOES;374
-;Assistência médica e social;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF EXAMES DEMISSIONAIS E ADMISSIONAIS;699
-;DESPESAS LEGAIS E JUDICIAIS;DEBITO CUSTAS DE CARTORIO;365
-;Tarifas de cartões de crédito ;DEBITO TARIFA COBRANÇA INSTRUÇÕES;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANÇA;374
-;Fretes;BAUER TRANSPORTES LTDA| 0012547765 PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| 1261674-1 PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| PGTO REF FRETES E,DESPACHOS;801
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANÇA COMPE;374
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA;360
-;Cursos e treinamentos;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);709
-;Cursos e treinamentos;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);709
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| (CARTAO)PGTO REF PRODUTOS COPA E COZINHA;594
-;Materiais de escritório;MERCADO LIVRE| PGTO REF MAT DE ESCRITORIO (CARTAO);359
-;Cursos e treinamentos;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);709
-;Tarifas de cartões de crédito ;UNICRED OESTE SERRA| PGTO REF ANUIDADE CARTAO;374
-;Manutenção de equipamentos;XPRESSION CELULARES E COMPUTADORES| PGTO REF CONSERTO NOTEBOOK (CARTAO);533
-;Impostos de terceiros ;DEBITO CUSTAS GRAVAÇÃO ELETRONICA;350
-;Impostos de terceiros ;DEBITO CUSTAS GRAVAÇÃO ELETRONICA;350
-;Serviços de terceiros;MATTES SERVIÇOS ELETRÔNICOS LTDA| PGTO REF MP NFe 010959;362
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANÇA;374
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Fretes;BAUER TRANSPORTES LTDA| 1267574-7 PGTO REF FRETES E DESPACHOS;801
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO;362
-;Impostos de terceiros ;INSTITUTO NACIONAL DA PROPRIEDADE| PGTO REF PROPRIEDADE DA MARCA;350
-;Assistência médica e social;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;699
-;Serviços de terceiros;CLAUDIO - ELETRICISTA| PGTO REF REPAROS ELETRICOS TROCA LED;362
-;Impostos de terceiros ;EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA| PGTO REF CERTIFICADO DIGITAL;350
-;Energia elétrica;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;354
-;MARKETING E PUBLICIDADE;MIDIA LED PAINEIS LTDA ME| PGTO REF MARQUETING;597
-;Materiais de escritório;MULTI - LM COMERIO E DISTRB DE UTILIDADES| OGTO REF MATERIAL DE ESCRITORIO;359
-;DESPESAS LEGAIS E JUDICIAIS;DEBITO DE CUSTAS DE CARTORIO ( BOLETO KARINA BADALOTTI Nº 243224 );365
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Fretes;BAUER TRANSPORTES LTDA| 12742665 PGTO REF FRETES E DESPACHOS;801
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;362
-;Copa e cozinha;LUGANO CAFÉ CN| PGTO CAFÉ;594
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Cursos e treinamentos;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);709
-;Cursos e treinamentos;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);709
-;Serviços de terceiros;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA(CARTAO);362
-;Materiais de escritório;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO(CARTAO);359
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| PGTO REF MATERIAL DE COPA E COZINHA(CARTAO);594
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| PGTO REF MATERIAL COPA E COZINHA(CARTAO);594
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA;360
-;SALÁRIOS E ORDENADOS;FABIANA KEMER PANDOLPHO| PGTO REF ALARIO FIXO JANEIRO;187
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Fretes;BAUER TRANSPORTES LTDA| 1285960-1 PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| 1279301-4 PGTO REF FRETES E DESPACHOS;801
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Fretes;BAUER TRANSPORTES LTDA| 1284016-1 PGTO REF FRETES E DESPACHOS;801
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Serviços de terceiros;ISABELLY ANDRADE DE ABREU LUGOVET| Prestação de Serviços de SDR para Scapini Dental Desi;362
-;MARKETING E PUBLICIDADE;MIDIA LED PAINEIS LTDA ME| PGTO REF MARQUETING;597
-;Energia elétrica;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;354
-;Assistência médica e social;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;699
-;Serviços de terceiros;LA CN INFORMATICA LTDA ME| PGTO REF DESBLOQUEIO RELÓGIO;362
-;Serviços de terceiros;ISABELLY ANDRADE DE ABREU LUGOVET| Exploração de escritórios virtuais e congêneres;362
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| PGTO REF PRODUTOS COPA E COZINHA (CARTAO);594
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Assistência médica e social;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF EXAMES DEMISSIONAIS;699
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Materiais de escritório;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO;359
-;Materiais de escritório;MR H BIJUTERIAS LTDA (CHINGLING)| PGTO REF MATERIAL DE ESCRITORIO;359
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Manutenção de equipamentos;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF ENTRADA CONCERTO FORNO;533
-;Fretes;BAUER TRANSPORTES LTDA| 1295820-0;801
-;Fretes;BAUER TRANSPORTES LTDA| 1291924-7 PGTO REF FRETES E DESPACHOS;801
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;362
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE (;374
-;Impostos de terceiros ;PREF MUNI CAMPOS NOVOS / FUNREBOM| PGTO REF ALVARA DE FUNCIONAMENTO;350
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Fretes;EXPRESSO SÃO MIGUEL LTDA| PGTO REF FRETES E DESPACHOS;801
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Cursos e treinamentos;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);709
-;Cursos e treinamentos;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);709
-;Cursos e treinamentos;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);709
-;Impostos de terceiros ;TARIFA TITULO BAIXADO DECURSO PRAZO;350
-;Serviços de terceiros;LA CN INFORMATICA LTDA ME| PGTO REF RENOVAÇÃO LICENÇA RELOGIO PONTO SECULLUN;362
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Serviços de terceiros;CLAUDIO - ELETRICISTA| PGTO REF TROCA DE LÂMPADA;362
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Fretes;PAULISTA TRANSPORTES| PGTO REF FRETES E DESPACHOS;801
-;Fretes;ERSON LUIZ ALVES MACIEL (MOTOBOY)| PGTO REF FRETES E DESPACHOS;801
-;Fretes;TIAGO NASCIMENTO TESSER| PGTO REF FRETES;801
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA;360
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANÇA COMPE;374
-;Manutenção de equipamentos;CAFER MATERIAIS DE CONSTRUCAO| PGTO REF ARRUELAS;533
-;Fretes;BAUER TRANSPORTES LTDA| 0013079307 PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| 1304374-4 PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| 1301510-4 PGTO REF FRETES E DESPACHOS;801
-;Materiais de limpeza e de higiene;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MATERIAL DE HIGIENE E LIMPEZA;360
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Fretes;SERGIO DE MATOS| PGTO REF FRETES;801
-;Manutenção de equipamentos;SPARTAN ELETRONICA E LUTHIERIA| PGTO REF CONSERTO ASPIRADOR;533
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| PGTO REF CAFÉ E FILTRO;594
-;Materiais de escritório;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO;359
-;Materiais de escritório;MR H BIJUTERIAS LTDA (CHINGLING)| PGTO REF MATEIAL DER ESCRITORIO (T);359
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Manutenção de equipamentos;SPARTAN ELETRONICA E LUTHIERIA| PGTO REF COSNERTO VIBRADOR DE GESSO;533
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Assistência médica e social;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;699
-;Energia elétrica;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;354
-;Manutenção de equipamentos;ISABELLY ANDRADE DE ABREU LUGOVET| PGTO REF Prestação de serviço SDR referente a feverei;533
-;Manutenção de equipamentos;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF COSNERTO FORNO;533
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;374
-;Tarifas de cartões de crédito ;TARIFA CHEQUE CUSTODIA PJ;374
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Assistência médica e social;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF EXAMES DEMISSIONAIS;699
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Manutenção de equipamentos;HOTEL CENI| PGTO REF HOSPEDAGEM TÉCNICOS MANT MÁQ;533
-;Fretes;TRANSPORTES RODOVIARIOS DA COSTA LTDA| PGTO REF FRETE RETORNO FORNO;801
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Fretes;BAUER TRANSPORTES LTDA| 1311432-3 PGTO REF FRETES E DESPACHOS;801
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;362
-;Materiais de escritório;CN EMBALAGENS| PGTO REF MAT DE ESCRITÓRIO;359
-;Materiais de escritório;CN EMBALAGENS| PGTO REF MAT DE ESCRITÓRIO;359
-;Materiais de escritório;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MAT DE ESCRITÓRIO;359
-;Impostos de terceiros ;CONSELHO REGIONAL DE ODOTOLOGIA SC| PGTO REF ANUIDADE VINICIUS TPD 387;350
-;Impostos de terceiros ;CONSELHO REGIONAL DE ODOTOLOGIA SC| PGTO REF ANUIDADE LABORATORIO LB 114;350
-;Fretes;LIDIANE PEREIRA| PGTO REF FRETE BLOCOS ORDEM DE SERVIÇO;801
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Fretes;LIDIANE PEREIRA| PGTO REF FRETE BLOCOS ORDEM DE SERVIÇO;801
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Serviços de terceiros;VALMIR ANTONIO PESSOLI| PGTO REF SOLDA (SERVIÇOS DE TERCEIROS);362
-;Cursos e treinamentos;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);709
-;Cursos e treinamentos;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);709
-;Cursos e treinamentos;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);709
-;Manutenção de equipamentos;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF SERVIÇOS REVISAO 1.000HR MOT;533
-;Materiais de escritório;CN EMBALAGENS| PGTO REF MATERIAL DE ESCRITORIO (CARTAO);359
-;Copa e cozinha;MERCADO LIVRE| PGTO REF POTINHOS (CARTAO);594
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Fretes;PAULISTA TRANSPORTES| PGTO REF FRETES E DESPACHOS;801
-;Fretes;ERSON LUIZ ALVES MACIEL (MOTOBOY)| PGTO REF FRETES E DESPACHOS;801
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Materiais de escritório;CD ATACADO| PGTO REF MATERIAL DE ESCRITÓRIO;359
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Seguro de vida ;MITSUI SUMITOMO SEGUROS S/A| PGTO REF SEGURO EMPRESARIAL;358
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;DESPESAS LEGAIS E JUDICIAIS;DEBITO DE CUSTAS DE CARTORIO (Boleto Andressa Dallanora);365
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA (Boleto Oral Unic 59718-3);350
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;374
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA;360
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| PGTO REF CAFÉ;594
-;Fretes;BAUER TRANSPORTES LTDA| 0013174326 PGTO REF FRETES E DESPACHOS;801
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Fretes;BAUER TRANSPORTES LTDA| 1319833-1PGTO REF FRETES E DESPACHOS;801
-;Fretes;BAUER TRANSPORTES LTDA| 0013261164 PGTO REF FRETES E DESPACHOS;801
-;Materiais de limpeza e de higiene;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MATERIAL DE HIGIENE E LIMPEZA;360
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Serviços de terceiros;JONECI FERREIRA (ENCANADOR)| PGTO REF SERVIÇOS DE ENCANADOR (PIA TRIAGEM);362
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Assistência médica e social;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;699
-;Energia elétrica;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;354
-;Manutenção de equipamentos;ISABELLY ANDRADE DE ABREU LUGOVET| PGTO REF Prestação de serviço SDR referente a feverei;533
-;Manutenção de equipamentos;CAFER MATERIAIS DE CONSTRUCAO| PGTO REF ARRUELAS;533
-;Fretes;EXPRESSO SÃO MIGUEL LTDA| 16454661 PGTO REF FRETES E DESPACHOS;801
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;ÁGUA E SANEAMENTO;SERVIÇO AUTONOMO MUNICIPAL DE AGUA E ESGOTO- SAMAE| ARRECADAÇÃO DE CONVÊNIOS (agua casa V;355
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Manutenção de equipamentos;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF ENTRADA CONSERTO CANETA;533
-;Fretes;BAUER TRANSPORTES LTDA| 1336465-6 PGTO REF FRETES E DESPACHOS;801
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;362
-;Fretes;BAUER TRANSPORTES LTDA| 0013306354 PGTO REF FRETES E DESPACHOS;801
-;Manutenção de equipamentos;RECK & CIA LTDA EPP| PGTO REF MANUTENÇÃO AR CONDICIONADO (5 LIMPESAS);533
-;Manutenção de equipamentos;ARTFLEX BIOFLEXMILAN COM DE MAT ELETR E HIDRAU LTDA ME| PGTO REF MC NFe 363;533
-;Manutenção de equipamentos;BIOART EQUIPAMENTOS ODONTOLOGICOS LTDA| PGTO REF REVISAO E TROCA DE PEÇAS ARTICULADORES;533
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Impostos de terceiros ;DEBITO CUSTAS GRAVACAO ELETRONICA;350
-;DESPESAS LEGAIS E JUDICIAIS;DEBITO DE CUSTAS DE CARTORIO;365
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA INSTRUÇÕES;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Serviços de terceiros;CLIN D AGUA LTDA| PGTO REF TROCA FILTROS BEBEDOURO;362
-;Cursos e treinamentos;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);709
-;Manutenção de equipamentos;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF SERVIÇOS REVISAO 1.000HR MOT;533
-;Copa e cozinha;MERCADO LIVRE| PGTO REF POTINHOS (CARTAO);594
-;Copa e cozinha;MINAMI GASTRONOMIA| PGTO REF ALIMENTAÇÃO (CARTAO);594
-;Cursos e treinamentos;OS3PORCENTO CONSULTORIA| PGTO REF CONSULTORIA (CARTAO);709
-;Materiais de escritório;MERCADO LIVRE| PGTO REF MATERIAL DE ESCRITORIO (CARTAO);359
-;Fretes;EXPRESSO SÃO MIGUEL LTDA| 16544835 PGTO REF FRETE ARTICULADORES;801
-;Serviços de terceiros;ISABELLY ANDRADE DE ABREU LUGOVET| PGTO REF Prestação de serviço SDR referente a Abril;362
-;Cursos e treinamentos;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);709
-;Materiais de escritório;CD ATACADO| COMPRA CARTAO VISA (MATER. ESCRITORIO);359
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA| COMPRA CARTAO VISA (VASELINA);360
-;Fretes;PAULISTA TRANSPORTES| PGTO REF FRETES E DESPACHOS;801
-;Fretes;THIAGO NASCIMENTO TESSER| PGTO REF FRETES E DESPACHOS;801
-;Tarifas de cartões de crédito ;TARIFA CHEQUE CUSTODIA PJ;374
-;Seguro de vida ;MITSUI SUMITOMO SEGUROS S/A| PGTO REF SEGURO EMPRESARIAL;358
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Assistência médica e social;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF LAUDO;699
-;Fretes;BAUER TRANSPORTES LTDA| 1341963-9 PGTO REF FRETES E DESPACHOS;801
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF CONTRATO ORAL UNIC;361
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA;360
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Copa e cozinha;JOANA SCAPINI| PGTO REF COMPRA CAFE+OUTROS;594
-;Tarifas de cartões de crédito ;TARIFA CHEQUE CUSTODIA PJ;374
-;Assistência médica e social;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;699
-;Energia elétrica;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;354
-;Materiais de escritório;MULTI - LM COMERIO E DISTRB DE UTILIDADES| PGTO REF MATERIAL DE ESCRITORIO;359
-;Manutenção de equipamentos;Ricardo Threiss Assistência Técnica Ltda ME| PGTO REF CONSERTO CANETA;533
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Fretes;EXPRESSO SÃO MIGUEL LTDA| 16629876 PGTO REF FRETES E DESPACHOS;801
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Tarifas de cartões de crédito ;TARIFA CHEQUE CUSTODIA PJ;374
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Manutenção de equipamentos;RECK & CIA LTDA EPP| PGTO REF MANUTENÇÃO AR CONDICIONADO (5 LIMPESAS);533
-;Manutenção de equipamentos;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF PARAFUSOS HOLDER;533
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;362
-;Serviços de terceiros;MARCOS GIOVANI DA SILVA| PGTO REF LIMPEZA COMPUTADOR;362
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Manutenção de equipamentos;ARTFLEX BIOFLEXMILAN COM DE MAT ELETR E HIDRAU LTDA ME| PGTO REF MC NFe 363;533
-;Manutenção de equipamentos;MCA ELETROMOTORES LTDA| PGTO REF MANGUEIRA RECORTADOR;533
-;Cursos e treinamentos;G4 EDUCACAO LTDA| PGTO REF CURSO GESTAO (cartao);709
-;Cursos e treinamentos;DARLOS SOARES| PGTO REF CURSO DE GESSO (CARTAO);709
-;Manutenção de equipamentos;AMANN GIRRBACH BRASIL COM DIS EQU PRO DE USI. LTDA| PGTO REF SERVIÇOS REVISAO 1.000HR MOT;533
-;Fretes;THIAGO NASCIMENTO TESSER| PGTO REF FRETES E DESPACHOS;801
-;Impostos de terceiros ;CONSELHO REGIONAL DE ODOTOLOGIA SC| PGTO REF ANUIODADE ELAINE;350
-;Seguro de vida ;MITSUI SUMITOMO SEGUROS S/A| PGTO REF SEGURO EMPRESARIAL;358
-;Assistência médica e social;ISO - INSTITUTO DE SAUDE OCUPACIONAL| PGTO REF LAUDO;699
-;Materiais de limpeza e de higiene;OSNI BOING & CIA LTDA;360
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Tarifas de cartões de crédito ;DÉBITO TARIFA DE COBRANÇA COMPE;374
-;Tarifas de cartões de crédito ;DEBITO TARIFA DE COBRANCA;374
-;Assistência médica e social;PLADISA PLANOS DE SAÚDE LTDA| PGTO REF PLANO SAUDE;699
-;Energia elétrica;CELESC DISTRIBUIÇÃO S.A.| PGTO REF ENERGIA ELETRICA;354
-;Fretes;EXPRESSO SÃO MIGUEL LTDA| PGTO REF FRETES E DESPACHOS;801
-;;MINISTERIO DA FAZENDA - CGSN| PGTO REF SIMPLES NACIONAL;479
-;Materiais de limpeza e de higiene;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MT DE HIG E LIMPEZ;360
-;Seguro de vida ;MAG Seguros Seguros e Previdência S.A| PGTO REF SEGURO DE VIDA;358
-;Manutenção de equipamentos;ARTFLEX BIOFLEXMILAN COM DE MAT ELETR E HIDRAU LTDA ME| PGTO REF MC NFe 363;533
-;SALÁRIOS E ORDENADOS;FABIANA KEMER PANDOLPHO| VALE;753
-;Materiais de limpeza e de higiene;DE CARLI EMBALAGENS E MATERIAIS DE LIMPEZA| PGTO REF MAT DE HI G E LIMPEZA;360
-;ASSISTÊNCIA CONTÁBIL;MAYPER CONTADORES ASSOCIADOS LTDA| PGTO REF HONORARIOS CONTABEIS;361
-;Copa e cozinha;SUPERVISA SUPERMERCADOS LTDA| PGTO REF COMPRA CAFÉ;594
-;Serviços de terceiros;TAMIRES FILGUEIRAS DE MOURA| PGTO REF SDR COMERCIAL;362
-;Manutenção de equipamentos;RECK & CIA LTDA EPP| PGTO REF MANUTENÇÃO AR CONDICIONADO (5 LIMPESAS);533
-;Serviços de terceiros;RD GESTAO E SISTEMAS S. A| PGTO REF GESTAO DE SISTEMAS;362
+grupo;subgrupo;DescricaoOriginal;Crédito
+;;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;jose caetano lalamove;714
+;;lucas costa lalamove;504
+;;0130 Rubens Horikawa Katagiri;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;mangueira de ar (manutenção predial)|0131 SANTO AMARO MANGUEIRAS E CONEXOES LTDA;530
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;THE COFFEE - PRESENTE DRA MARINA;717
+;;PGTO FATIMA|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;RESERVA PARA MARKETING|0048 PAULO ROBERTO MACIEL FILHO;713
+;;0080 SANI MACIEL;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;GIRO COPIAS - IMPRESSAO DE CARTAS;359
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0053 Everaldo Barbosa dos Santos;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;504
+;;elasticos|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;715
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0132 BANCO DO BRASIL;374
+;;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;pelicula impressora 3d|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;729
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;504
+;;resina|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;506
+;;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;504
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;luva e mascara|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;motoboy app|0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;sabonetes e luvas|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;terceirização frezagem|0078 ZYRCAD - JHH ARTESANATOS LTDA;467
+;;adiantamento|0053 Everaldo Barbosa dos Santos;581
+;;eletropaulo|0108 ENEL BRASIL S.A;354
+;;PRESENTE DRA ADRIANA|0133 SHOPEE SHPS TECNOLOGIA E SERVICOS LTDA.;717
+;;0056 EFF Dental componentes;506
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;504
+;;boleto devolvido;504
+;;sefaz;350
+;;mercado papel higienico;360
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0126 CAIXA ECONOMICA FEDERAL;369
+;;certificado digital cnpj|0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;350
+;;0080 SANI MACIEL;548
+;;Transf. |Origem:BANCO ITAÚ PJ-Destino:BANCO DO BRASIL PJ provisao pgto certificado digital;611
+;;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;504
+;;certificado digital empresa|0134 EFETIVA PREMIUM CERTIFICADO DIGITAL LTDA.;350
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;suporte para celular|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;359
+;;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ;548
+;;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;570
+;;19 dias |0053 Everaldo Barbosa dos Santos;581
+;;19 dias|0130 Rubens Horikawa Katagiri;581
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0053 Everaldo Barbosa dos Santos;187
+;;BORRACHA MAQUINA DE VAPOR|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;533
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Rose Reis;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;504
+;;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ;548
+;;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;532
+;;pastilhas|0083 LSI S.A.;506
+;;pagou boleto do parcelamento de imposto na conta pf|0080 SANI MACIEL;504
+;;scanner|0083 LSI S.A.;570
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Lillian Maria da Costa Marques Sandrin;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;pgto helton|0054 Paulo Roberto Maciel;548
+;;pgto fatima|0054 Paulo Roberto Maciel;548
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;504
+;;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P devolução de provisão;611
+;;cartão de credito empresarial;534
+;;0132 BANCO DO BRASIL;374
+;;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Clínica BN Odontologia;504
+;;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) realizad;611
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;beteria camera|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;359
+;;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;504
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0053 Everaldo Barbosa dos Santos;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;504
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P;611
+;;0050 Dental Andaluz;506
+;;0126 CAIXA ECONOMICA FEDERAL;369
+;;0069 Roberto Hafran;187
+;;0053 Everaldo Barbosa dos Santos;187
+;;0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;356
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;venda de imobilizado;454
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ;611
+;;contabilidade|0068 MAYPER CONTADORES ASSOCIADOS LTDA;726
+;;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;570
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Suzana;504
+;;boleto devolvido;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;504
+;;0076 URGTECH INOVACAO E SUPORTE LTDA;531
+;;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;532
+;;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;504
+;;alcool|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;antoniel|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;fatima|0054 Paulo Roberto Maciel;548
+;;antec DL|0048 PAULO ROBERTO MACIEL FILHO;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;0053 Everaldo Barbosa dos Santos;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Eduardo Lucas Maciel;504
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;placa de bruxismo jessica|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;740
+;;0090 ELINEI MENDES;362
+;;jb|0054 Paulo Roberto Maciel;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;504
+;;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Vieira;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;504
+;;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;504
+;;peça impressora|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;729
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;611
+;;cartão de credito|0132 BANCO DO BRASIL;534
+;;taxa adm|0132 BANCO DO BRASIL;374
+;;Pgto de serviço(s) realizado(s) | Cliente: Lillian Maria da Costa Marques Sandrin;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;611
+;;0053 Everaldo Barbosa dos Santos;187
+;;ZYRCAD - VENDA DE IMOBILIZADO;454
+;;Transf. | Origem: BANCO ITAÚ PJ - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) realizad;611
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;be smile|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo negativo;611
+;;imposto|0065 SIMPLES NACIONAL;479
+;;0126 CAIXA ECONOMICA FEDERAL;369
+;;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;570
+;;0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;532
+;;0108 ENEL BRASIL S.A;354
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P reserva para pgto de contas;611
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PF P reserva para pgto de contas;611
+;;imposto de renda|0068 MAYPER CONTADORES ASSOCIADOS LTDA;726
+;;0053 Everaldo Barbosa dos Santos;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;504
+;;Transf. |Origem:BANCO ITAÚ PF PAULINHO-Destino:BANCO DO BRASIL PJ uso do valor separado;548
+;;0054 Paulo Roberto Maciel;548
+;;0068 MAYPER CONTADORES ASSOCIADOS LTDA;726
+;;Transf. |Origem:BANCO DO BRASIL PJ-Destino:BANCO ITAÚ PJ cobrir saldo devedor;611
+;;0076 URGTECH INOVACAO E SUPORTE LTDA;531
+;;presentes dres aniversario|0080 SANI MACIEL;536
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0069 Roberto Hafran;187
+;;bolsa para entrega;700
+;;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;504
+;;0053 Everaldo Barbosa dos Santos;187
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;504
+;;HBA Materiais de construção (mangueira vapor);533
+;;renegociação|0065 SIMPLES NACIONAL;479
+;;0053 Everaldo Barbosa dos Santos;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;pastilhas|0083 LSI S.A.;506
+;;scanner|0083 LSI S.A.;570
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;0080 SANI MACIEL;548
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;740
+;;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;Pgto de serviço(s) realizado(s) | Cliente: IMOZ Radiologia Odontológica LTDA;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;empréstimo para pai (pgto deivison);152
+;;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;504
+;;pgto jb |0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;reembolso pgto comissão everaldo|0048 PAULO ROBERTO MACIEL FILHO;581
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0132 BANCO DO BRASIL;374
+;;0132 BANCO DO BRASIL;374
+;;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;504
+;;Estorno C.ReceberLanç/Cliente 07/05/25 Larissa Consentino Viei;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;504
+;;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;630
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;antec dl|0048 PAULO ROBERTO MACIEL FILHO;548
+;;plastico bolha|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;devolução pgto incorreto;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;0078 ZYRCAD - JHH ARTESANATOS LTDA;532
+;;devolução pagamento incorreto;682
+;;drogaria sao paulo algodão;736
+;;0053 Everaldo Barbosa dos Santos;187
+;;faxina|0090 ELINEI MENDES;362
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0126 CAIXA ECONOMICA FEDERAL;369
+;;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;570
+;;0056 EFF Dental componentes;506
+;;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;532
+;;0108 ENEL BRASIL S.A;354
+;;0076 URGTECH INOVACAO E SUPORTE LTDA;531
+;;0080 SANI MACIEL;548
+;;0080 SANI MACIEL;548
+;;0125 RECEITA FEDERAL;191
+;;0065 SIMPLES NACIONAL;479
+;;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Andressa Veiga Rubbi;504
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0069 Roberto Hafran;714
+;;0053 Everaldo Barbosa dos Santos;187
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;gasolina;730
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Ivan José Galvão de França erro de lançamento;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Fabiana Callado;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;papelaria adesivos;715
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;0053 Everaldo Barbosa dos Santos;581
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Marisa Helena de Carvalho;504
+;;faxina|0090 ELINEI MENDES;362
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0068 MAYPER CONTADORES ASSOCIADOS LTDA;726
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Douat Valim Horikawa;504
+;;0054 Paulo Roberto Maciel;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;504
+;;0054 Paulo Roberto Maciel;548
+;;scanner|0083 LSI S.A.;570
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;resina compra pf;532
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;740
+;;0080 SANI MACIEL;691
+;;0048 PAULO ROBERTO MACIEL FILHO;691
+;;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;504
+;;pgto condominio|0048 PAULO ROBERTO MACIEL FILHO;548
+;;pagamento celular|0048 PAULO ROBERTO MACIEL FILHO;548
+;;0132 BANCO DO BRASIL;369
+;;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;cartão de credito|0132 BANCO DO BRASIL;532
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;repasse jb odntologia|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;pástico bolha|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;504
+;;0053 Everaldo Barbosa dos Santos;581
+;;Pgto de serviço(s) realizado(s) | Cliente: Allegra Odontologia;504
+;;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;630
+;;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;504
+;;alcool|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;532
+;;0090 ELINEI MENDES;362
+;;adiantamento|0053 Everaldo Barbosa dos Santos;187
+;;adiantamento|0130 Rubens Horikawa Katagiri;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;504
+;;distribuição de lucros|0048 PAULO ROBERTO MACIEL FILHO;548
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0090 ELINEI MENDES;362
+;;Pgto de serviço(s) realizado(s) | Cliente: Helder de Mello;504
+;;bolo café funcionários;694
+;;0078 ZYRCAD - JHH ARTESANATOS LTDA;706
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0065 SIMPLES NACIONAL;479
+;;0125 RECEITA FEDERAL;178
+;;0126 CAIXA ECONOMICA FEDERAL;736
+;;0053 Everaldo Barbosa dos Santos;581
+;;adiantamento|0053 Everaldo Barbosa dos Santos;187
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0053 Everaldo Barbosa dos Santos;548
+;;0130 Rubens Horikawa Katagiri;548
+;;0106 BANCO DE LAGE LANDEN BRASIL S.A.;570
+;;0076 URGTECH INOVACAO E SUPORTE LTDA;531
+;;0108 ENEL BRASIL S.A;354
+;;Pgto de serviço(s) realizado(s) | Cliente: Francisco Chaves;504
+;;boy lalamove;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Allegra Odontologia;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Stephane R. Alves Maia;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;boy lalamove;714
+;;pgto dr francisco|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;pastilhas|0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;532
+;;Pgto de serviço(s) realizado(s) | Cliente: Eliane Silva;504
+;;0048 PAULO ROBERTO MACIEL FILHO;691
+;;0069 Roberto Hafran;714
+;;sani - provisão pgto de contas;548
+;;Transf. | Origem: BANCO ITAU PAULINHO - Destino: BANCO DO BRASIL PJ Pgto de serviço(s) re;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;504
+;;0065 SIMPLES NACIONAL;479
+;;Pgto de serviço(s) realizado(s) | Cliente: Maria de Fátima Roseta;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Fábio Eduardo Fernandes;504
+;;lenços|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;scanner|0083 LSI S.A.;570
+;;0053 Everaldo Barbosa dos Santos;187
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;740
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0080 SANI MACIEL;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Larissa Consentino Vieira;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;boy lalamove;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Christiane Ghetti Noronha;504
+;;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Mariana Yuri de França Shimizu;504
+;;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;pgto helton|0054 Paulo Roberto Maciel;714
+;;0110 COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABE;731
+;;0080 SANI MACIEL;548
+;;0132 BANCO DO BRASIL;374
+;;cartão de crédito|0132 BANCO DO BRASIL;534
+;;Pgto de serviço(s) realizado(s) | Cliente: Eduardo Lucas Maciel;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;pgto dra mariana|0054 Paulo Roberto Maciel;548
+;;pgto besmile|0054 Paulo Roberto Maciel;714
+;;isopor|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;359
+;;0053 Everaldo Barbosa dos Santos;187
+;;cartoes e tags|0121 ALLUPRINT SERVICOS GRAFICOS LTDA;359
+;;pgto aline|0054 Paulo Roberto Maciel;714
+;;DESCARTÁVEIS;715
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;630
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;RESINA IMPRESSÃO|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;736
+;;PAGAMENTO EMPRÉSTIMO;152
+;;pgto ana gouveia|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0078 ZYRCAD - JHH ARTESANATOS LTDA;532
+;;Pgto de serviço(s) realizado(s) | Cliente: Debora Santos Machado;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0053 Everaldo Barbosa dos Santos;187
+;;0078 ZYRCAD - JHH ARTESANATOS LTDA;532
+;;0130 Rubens Horikawa Katagiri;187
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;larissa;736
+;;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;504
+;;casa de bolos;535
+;;0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0125 RECEITA FEDERAL;191
+;;0126 CAIXA ECONOMICA FEDERAL;369
+;;0065 SIMPLES NACIONAL;479
+;;0053 Everaldo Barbosa dos Santos;187
+;;0108 ENEL BRASIL S.A;354
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0048 PAULO ROBERTO MACIEL FILHO;548
+;;Pgto de serviço(s) realizado(s) | Cliente: Ricardo Lilla;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;MOP LIMPEZA;360
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0053 Everaldo Barbosa dos Santos;187
+;;forno|0106 BANCO DE LAGE LANDEN BRASIL S.A.;570
+;;0056 EFF Dental componentes;506
+;;contabilidade|0068 MAYPER CONTADORES ASSOCIADOS LTDA;726
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;pé de mesa|0070 MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA;359
+;;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;504
+;;0076 URGTECH INOVACAO E SUPORTE LTDA;531
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Tania Regina Teixeira de Almeida;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Adriana Venticinque;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Alexandre Vieira;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Marcos Akira Miyashiro;504
+;;DESCARTAVEIS|0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;darf|0125 RECEITA FEDERAL;191
+;;Pgto de serviço(s) realizado(s) | Cliente: Antoniel Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Nadjila Cristina Estork;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Hemilly Hadassa Araújo Aguiar;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Suzana;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Isaac Newton Hoga;504
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0135 DENTAL GLOBO PARTICIPACOES DE BENS LTDA;532
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0053 Everaldo Barbosa dos Santos;581
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;0054 Paulo Roberto Maciel;548
+;;scanner|0083 LSI S.A.;570
+;;0080 SANI MACIEL;691
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;equipamento foto|0073 ALIEXPRESS INTERNATIONAL (NETHERLANDS) B.V.;546
+;;Pgto de serviço(s) realizado(s) | Cliente: Stephanie Paula Vaz Domingues;504
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;Transf. | Origem: BANCO ITAÚ PF PAULO - Destino: BANCO DO BRASIL PJ pagamento de aluguel;548
+;;Pgto de serviço(s) realizado(s) | Cliente: FERNANDO PORTELLA;504
+;;Pgto de serviço(s) realizado(s) | Cliente: BeSmile;504
+;;0111 EPOCA IMOVEIS, VENDAS E ADMINISTRACAO DE BENS E CONDOMINIOS;740
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0053 Everaldo Barbosa dos Santos;581
+;;alex alves motoboy;714
+;;REPASSE BESMILE|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0048 PAULO ROBERTO MACIEL FILHO;691
+;;0132 BANCO DO BRASIL;369
+;;CARTÃO DE CRÉDITO|0132 BANCO DO BRASIL;532
+;;Pgto de serviço(s) realizado(s) | Cliente: Helton Carlos Ferrari;504
+;;Pgto de serviço(s) realizado(s) | Cliente: AMOR SAÚDE;504
+;;CARTAO DE CREDITO|0132 BANCO DO BRASIL;532
+;;Pgto de serviço(s) realizado(s) | Cliente: Aline Monique Rodrigues Cassa;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Marina Campos;504
+;;0119 DIA BRASIL SOCIEDADE LIMITADA EM RECUPERACAO JUDICIAL;736
+;;repasse helton|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0048 PAULO ROBERTO MACIEL FILHO;691
+;;RP IMPLANTES;532
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Ana Claudia Ynone Gouveia;504
+;;Estorno C.ReceberLanç/Cliente 14/08/25 Ana Claudia Ynone Gouve;504
+;;Transf. |Origem:MERCADO PAGO SANI-Destino:BANCO DO BRASIL PJ;630
+;;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;repasse ana gouveia|0054 Paulo Roberto Maciel;548
+;;repasse maarina e aline|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0110 COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABE;731
+;;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;504
+;;0089 M&B EMBALAGENS DESCARTAVEIS LTDA;715
+;;mimo cliente novo;717
+;;0048 PAULO ROBERTO MACIEL FILHO;691
+;;0053 Everaldo Barbosa dos Santos;187
+;;0130 Rubens Horikawa Katagiri;187
+;;0078 ZYRCAD - JHH ARTESANATOS LTDA;706
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;0053 Everaldo Barbosa dos Santos;581
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0108 ENEL BRASIL S.A;354
+;;Pgto de serviço(s) realizado(s) | Cliente: Istefany Rodrigues Demetrio;504
+;;Fernando/motoboy;714
+;;josé;714
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;repasse markiodonto|0054 Paulo Roberto Maciel;548
+;;0058 COMUNHÃO CRISTÃ VERDADE E VIDA;736
+;;0125 RECEITA FEDERAL;696
+;;0065 SIMPLES NACIONAL;479
+;;0126 CAIXA ECONOMICA FEDERAL;736
+;;Pgto de serviço(s) realizado(s) | Cliente: Jb odontologia;504
+;;compra agua mineralizada;532
+;;repasse jb odontologia|0054 Paulo Roberto Maciel;548
+;;0069 Roberto Hafran;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Beatriz Gil Tomaz baracioli;504
+;;Pgto de serviço(s) realizado(s) | Cliente: Roberta Martins Figueiredo;504
+;;dental tanaka;532
+;;0061 LALAMOVE TECNOLOGIA (BRASIL) LTDA.;714
+;;Pgto de serviço(s) realizado(s) | Cliente: Flávia Lima Pinheiro Guerra;504
+;;boy lalamove;714
