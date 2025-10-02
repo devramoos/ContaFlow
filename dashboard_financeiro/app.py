@@ -1,38 +1,10 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-index a3011a81334956e4d50573e266c388bffc453b08..22656fe9b5db279d9825d49c5f1fa2f7e4450bbf 100644
-GIT binary patch
-delta 458
-zcmZXQJx&8L5Jn3MBy)+8(tw0QPX~dt6p?7ziFY;(vOSjV4S^;-Ej2=j0?~1Yy+_W#
-z5g3CA1&uA)^Ygy9*?rpk*zBy$Xat|nj}LH$`FbvxT9|UcV2P8!{;VWI@3<TobK-_~
-z53OX#HgPN&S_11ZXYSbI@HV^(5G*KBu#BEUky_HC_8fvhOmai|h6_mu9IWftY<iu!
-z-OZt;NP2`q5K+r$6`htRn4_y$g))$b$?S3r7l6^}>cUIioXhZ{U#8iPyXv-4jxfe?
-zylWINib7>dI-1tDFNz0N{IM}j)65mc<loeg`tV2he_ZV_<~-+`^4DLe9#{jUPE|lq
-zVV&z&deMq=snJxOz(hhh#i^59g;JiS+7vI)do<daz71l1i;k*Im7wHH&OJK5{}Dbm
-EUwIv@egFUf
+import pandas as pd
+import plotly.express as px
+import streamlit as st
 
-delta 7
-OcmbQseUE*^J!Sw5)dL>@
 
-diff --git a/dashboard_financeiro/app.py b/dashboard_financeiro/app.py
-new file mode 100644
-index 0000000000000000000000000000000000000000..2530956649d6da4b0eadc9af78ec73fca2020635
---- /dev/null
-+++ b/dashboard_financeiro/app.py
-@@ -0,0 +1,265 @@
-+"""Dashboard Financeiro em Streamlit.
-+
-+Este aplicativo é independente do restante do projeto ContaFlow e foi
-+adicionado para permitir a exploração de balancetes em formato CSV.
-+"""
-+
-+import pandas as pd
-+import plotly.express as px
-+import streamlit as st
-+
-+
-+# --- Configuração da Página ---
-+st.set_page_config(
+# --- Configuração da Página ---
+st.set_page_config(
 +    page_title="Dashboard Financeiro",
 +    page_icon="📊",
 +    layout="wide",
