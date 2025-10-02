@@ -4,13 +4,17 @@ import os
 import joblib
 from unidecode import unidecode
 from datetime import datetime
+from pathlib import Path
 
 # --- 1. CONFIGURAÇÕES ---
-# O script assume que a pasta 'modelo_ia' está dentro de 'Base de dados'
-CAMINHO_BANCO_DE_DADOS = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\modelo_ia\contaflow.db'
-PASTA_ENTRADA = '../arquivos_para_classificar'
-PASTA_SAIDA = '../arquivos_classificados'
-NOME_MODELO_IA = 'modelo_classificador_avancado.pkl'
+# O script assume que a pasta 'modelo_ia' está dentro do repositório principal
+BASE_DIR = Path(__file__).resolve().parent
+REPO_ROOT = BASE_DIR.parent
+CAMINHO_BANCO_DE_DADOS = REPO_ROOT / 'contaflow.db'
+CAMINHO_BANCO_DE_DADOS_ALTERNATIVO = REPO_ROOT / 'base_de_conhecimento' / 'contaflow.db'
+PASTA_ENTRADA = REPO_ROOT / 'arquivos_para_classificar'
+PASTA_SAIDA = REPO_ROOT / 'arquivos_classificados'
+NOME_MODELO_IA = BASE_DIR / 'modelo_classificador_avancado.pkl'
 
 # Nome do arquivo do cliente na pasta de entrada
 ARQUIVO_ENTRADA_NOME = 'Fluxo de caixa diversos.csv'
@@ -57,14 +61,18 @@ def classificar_com_db():
         modelo_ia = joblib.load(NOME_MODELO_IA)
         print(" -> Modelo de IA carregado.")
 
-        if not os.path.exists(CAMINHO_BANCO_DE_DADOS):
-            raise FileNotFoundError(f"Banco de dados '{CAMINHO_BANCO_DE_DADOS}' não encontrado.")
-        conexao = sqlite3.connect(CAMINHO_BANCO_DE_DADOS)
+        caminho_db = CAMINHO_BANCO_DE_DADOS if CAMINHO_BANCO_DE_DADOS.exists() else CAMINHO_BANCO_DE_DADOS_ALTERNATIVO
+        if not caminho_db.exists():
+            raise FileNotFoundError(
+                "Banco de dados não encontrado nos caminhos esperados: "
+                f"'{CAMINHO_BANCO_DE_DADOS}' ou '{CAMINHO_BANCO_DE_DADOS_ALTERNATIVO}'."
+            )
+        conexao = sqlite3.connect(caminho_db)
 
         df_mestre = pd.read_sql_query("SELECT * FROM plano_de_contas", conexao)
         print(" -> Base de conhecimento carregada do banco de dados.")
 
-        caminho_arquivo_entrada = os.path.join(PASTA_ENTRADA, ARQUIVO_ENTRADA_NOME)
+        caminho_arquivo_entrada = PASTA_ENTRADA / ARQUIVO_ENTRADA_NOME
         df_fluxo = ler_csv_com_fallback(caminho_arquivo_entrada)
 
     except Exception as e:
@@ -130,7 +138,7 @@ def classificar_com_db():
 
     # --- SALVANDO OS RESULTADOS ---
     # 1. Salva o CSV para o cliente
-    caminho_arquivo_saida = os.path.join(PASTA_SAIDA, f"classificado_{ARQUIVO_ENTRADA_NOME}")
+    caminho_arquivo_saida = PASTA_SAIDA / f"classificado_{ARQUIVO_ENTRADA_NOME}"
     colunas_finais_csv = ['Data', 'DescricaoOriginal', 'Valor', 'Débito', 'Crédito', 'GrupoClassificado',
                           'SubgrupoClassificado', 'Metodo', 'Confianca']
     df_resultado_csv = df_fluxo[[col for col in colunas_finais_csv if col in df_fluxo.columns]]

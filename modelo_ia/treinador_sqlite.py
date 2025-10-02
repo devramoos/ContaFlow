@@ -1,20 +1,23 @@
 import pandas as pd
 import sqlite3
-import os
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from unidecode import unidecode
+from pathlib import Path
 
 # --- 1. CONFIGURAÇÕES ---
 # ===== CORREÇÃO APLICADA AQUI =====
 # Agora, o script procura o banco de dados na mesma pasta em que ele está.
-NOME_BANCO_DE_DADOS = '..\contaflow.db'  # Nome do arquivo do banco de dados SQLite
+BASE_DIR = Path(__file__).resolve().parent
+REPO_ROOT = BASE_DIR.parent
+NOME_BANCO_DE_DADOS = REPO_ROOT / 'contaflow.db'  # Nome do arquivo do banco de dados SQLite
+NOME_BANCO_DE_DADOS_ALTERNATIVO = REPO_ROOT / 'base_de_conhecimento' / 'contaflow.db'
 # ==================================
 
 # Nome do "cérebro" da IA que será gerado nesta pasta
-NOME_MODELO_IA = 'modelo_classificador_avancado.pkl'
+NOME_MODELO_IA = BASE_DIR / 'modelo_classificador_avancado.pkl'
 
 
 def normalizar_texto(texto):
@@ -32,13 +35,17 @@ def treinar_modelo_com_db():
 
     try:
         # Conecta-se ao banco de dados
-        if not os.path.exists(NOME_BANCO_DE_DADOS):
-            print(f"ERRO CRÍTICO: Banco de dados '{NOME_BANCO_DE_DADOS}' não encontrado na pasta atual.")
+        caminho_db = NOME_BANCO_DE_DADOS if NOME_BANCO_DE_DADOS.exists() else NOME_BANCO_DE_DADOS_ALTERNATIVO
+        if not caminho_db.exists():
             print(
-                "Por favor, execute o script 'migrador_csv_para_sqlite.py' primeiro e verifique se o .db está na mesma pasta.")
+                "ERRO CRÍTICO: Banco de dados não encontrado nos caminhos esperados: "
+                f"'{NOME_BANCO_DE_DADOS}' ou '{NOME_BANCO_DE_DADOS_ALTERNATIVO}'."
+            )
+            print(
+                "Por favor, execute o script 'migrador_csv_para_sqlite.py' primeiro e verifique se o .db está em um desses locais.")
             return
 
-        conexao = sqlite3.connect(NOME_BANCO_DE_DADOS)
+        conexao = sqlite3.connect(caminho_db)
 
         # Carrega a base de treinamento e o plano de contas do banco de dados
         df_treino_real = pd.read_sql_query("SELECT * FROM base_de_treinamento", conexao)
