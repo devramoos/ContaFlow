@@ -7,14 +7,6 @@ from datetime import datetime
 from pathlib import Path
 
 # --- 1. CONFIGURAÇÕES ---
-# O script assume que a pasta 'modelo_ia' está dentro do repositório principal
-BASE_DIR = Path(__file__).resolve().parent
-REPO_ROOT = BASE_DIR.parent
-CAMINHO_BANCO_DE_DADOS = REPO_ROOT / 'contaflow.db'
-CAMINHO_BANCO_DE_DADOS_ALTERNATIVO = REPO_ROOT / 'base_de_conhecimento' / 'contaflow.db'
-PASTA_ENTRADA = REPO_ROOT / 'arquivos_para_classificar'
-PASTA_SAIDA = REPO_ROOT / 'arquivos_classificados'
-NOME_MODELO_IA = BASE_DIR / 'modelo_classificador_avancado.pkl'
 
 # Nome do arquivo do cliente na pasta de entrada
 ARQUIVO_ENTRADA_NOME = 'Fluxo de caixa diversos.csv'
