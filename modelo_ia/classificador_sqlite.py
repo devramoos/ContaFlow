@@ -4,14 +4,9 @@ import os
 import joblib
 from unidecode import unidecode
 from datetime import datetime
+from pathlib import Path
 
 # --- 1. CONFIGURAÇÕES ---
-# Caminhos baseados na localização deste arquivo, evitando dependência de caminhos absolutos.
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CAMINHO_BANCO_DE_DADOS = os.path.abspath(os.path.join(BASE_DIR, '..', 'contaflow.db'))
-PASTA_ENTRADA = os.path.abspath(os.path.join(BASE_DIR, '..', 'arquivos_para_classificar'))
-PASTA_SAIDA = os.path.abspath(os.path.join(BASE_DIR, '..', 'arquivos_classificados'))
-NOME_MODELO_IA = os.path.join(BASE_DIR, 'modelo_classificador_avancado.pkl')
 
 # Nome do arquivo do cliente na pasta de entrada
 ARQUIVO_ENTRADA_NOME = 'Fluxo de caixa diversos.csv'
@@ -58,14 +53,18 @@ def classificar_com_db():
         modelo_ia = joblib.load(NOME_MODELO_IA)
         print(" -> Modelo de IA carregado.")
 
-        if not os.path.exists(CAMINHO_BANCO_DE_DADOS):
-            raise FileNotFoundError(f"Banco de dados '{CAMINHO_BANCO_DE_DADOS}' não encontrado.")
-        conexao = sqlite3.connect(CAMINHO_BANCO_DE_DADOS)
+        caminho_db = CAMINHO_BANCO_DE_DADOS if CAMINHO_BANCO_DE_DADOS.exists() else CAMINHO_BANCO_DE_DADOS_ALTERNATIVO
+        if not caminho_db.exists():
+            raise FileNotFoundError(
+                "Banco de dados não encontrado nos caminhos esperados: "
+                f"'{CAMINHO_BANCO_DE_DADOS}' ou '{CAMINHO_BANCO_DE_DADOS_ALTERNATIVO}'."
+            )
+        conexao = sqlite3.connect(caminho_db)
 
         df_mestre = pd.read_sql_query("SELECT * FROM plano_de_contas", conexao)
         print(" -> Base de conhecimento carregada do banco de dados.")
 
-        caminho_arquivo_entrada = os.path.join(PASTA_ENTRADA, ARQUIVO_ENTRADA_NOME)
+        caminho_arquivo_entrada = PASTA_ENTRADA / ARQUIVO_ENTRADA_NOME
         df_fluxo = ler_csv_com_fallback(caminho_arquivo_entrada)
 
     except Exception as e:
@@ -131,7 +130,7 @@ def classificar_com_db():
 
     # --- SALVANDO OS RESULTADOS ---
     # 1. Salva o CSV para o cliente
-    caminho_arquivo_saida = os.path.join(PASTA_SAIDA, f"classificado_{ARQUIVO_ENTRADA_NOME}")
+    caminho_arquivo_saida = PASTA_SAIDA / f"classificado_{ARQUIVO_ENTRADA_NOME}"
     colunas_finais_csv = ['Data', 'DescricaoOriginal', 'Valor', 'Débito', 'Crédito', 'GrupoClassificado',
                           'SubgrupoClassificado', 'Metodo', 'Confianca']
     df_resultado_csv = df_fluxo[[col for col in colunas_finais_csv if col in df_fluxo.columns]]
