@@ -6,11 +6,12 @@ from unidecode import unidecode
 from datetime import datetime
 
 # --- 1. CONFIGURAÇÕES ---
-# O script assume que a pasta 'modelo_ia' está dentro de 'Base de dados'
-CAMINHO_BANCO_DE_DADOS = r'C:\Users\rodri\Documents\PROGRAMAÇÃO\PYTHON\projeto_classificacao_financeira\Base de dados\modelo_ia\contaflow.db'
-PASTA_ENTRADA = '../arquivos_para_classificar'
-PASTA_SAIDA = '../arquivos_classificados'
-NOME_MODELO_IA = 'modelo_classificador_avancado.pkl'
+# Caminhos baseados na localização deste arquivo, evitando dependência de caminhos absolutos.
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CAMINHO_BANCO_DE_DADOS = os.path.abspath(os.path.join(BASE_DIR, '..', 'contaflow.db'))
+PASTA_ENTRADA = os.path.abspath(os.path.join(BASE_DIR, '..', 'arquivos_para_classificar'))
+PASTA_SAIDA = os.path.abspath(os.path.join(BASE_DIR, '..', 'arquivos_classificados'))
+NOME_MODELO_IA = os.path.join(BASE_DIR, 'modelo_classificador_avancado.pkl')
 
 # Nome do arquivo do cliente na pasta de entrada
 ARQUIVO_ENTRADA_NOME = 'Fluxo de caixa diversos.csv'
